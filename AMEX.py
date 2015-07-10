@@ -32,7 +32,7 @@ def download_one(sub_url,keyword,sleep_time,addr):
         status = 200
     elif 404 == f.status_code:
         with open(".\\log\\"+addr+"_log.txt",'a') as f:
-            f.write(keyword+"is not exit.\n")
+            f.write(keyword+" is not exit.\n")
         status = 404
 
     print keyword
@@ -48,7 +48,7 @@ def Download_auto(downloadlist,keyword,fun,sleep_time,addr):
         except : # 如果发生了10054或者IOError或者XXXError  
             if  (sleep_time > 20):
                 with open(".\\log\\"+addr+"_log.txt",'a') as f:
-                    f.write(keyword+"is not exit.\n")
+                    f.write(keyword+" is not exit.\n")
                 break
             sleep_time += 10 #多睡5秒，重新执行以上的download.因为做了检查点的缘故，上面的程序会从抛出异常的地方继续执行。防止了因为网络连接不稳定带来的程序中断。  
             print('enlarge sleep time:',sleep_time)
