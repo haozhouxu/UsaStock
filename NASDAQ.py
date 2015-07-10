@@ -22,20 +22,20 @@ addr2 = "US_Name_NASDAQ"
 addr3 = "US_Name_NYSE"
 
 def download_one(sub_url,keyword,sleep_time,addr):
+    status = 0
     time.sleep(sleep_time)
-    
-    #urllib.urlretrieve(sub_url+keyword,"..\\data\\"+addr+"\\"+keyword+".csv")
-
     f = requests.get(sub_url+keyword,timeout=30)
-    with open(".\\data\\"+addr+"\\"+keyword+".csv","wb") as code:
-        code.write(f.content)
-    
-    #f = urllib2.urlopen(sub_url+keyword)
-    #data = f.read()
-    #f.close()
-    #with open("..\\data\\"+addr+"\\"+keyword+".csv","wb") as code:
-    #    code.write(data)
-    
+
+    # 判断状态是否是200，200就是包含有文件，
+    if 200 == f.status_code:
+        with open(".\\data\\"+addr+"\\"+keyword+".csv","wb") as code:
+            code.write(f.content)
+        status = 200
+    elif 404 == f.status_code:
+        with open(".\\log\\"+addr+"_log.txt",'a') as f:
+            f.write(keyword+"is not exit.\n")
+        status = 404
+
     print keyword
     return 'OK'
 
@@ -49,7 +49,7 @@ def Download_auto(downloadlist,keyword,fun,sleep_time,addr):
         except : # 如果发生了10054或者IOError或者XXXError  
             if  (sleep_time > 20):
                 with open(".\\log\\"+addr+"_log.txt",'a') as f:
-                    f.write(keyword+"\n")
+                    f.write(keyword+"is download fail.\n")
                 break
             sleep_time += 10 #多睡5秒，重新执行以上的download.因为做了检查点的缘故，上面的程序会从抛出异常的地方继续执行。防止了因为网络连接不稳定带来的程序中断。  
             print('enlarge sleep time:',sleep_time)
