@@ -1,0 +1,1933 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <上市公司 代码="AA" 名称="Alcoa Inc." />
+  <上市公司 代码="AA.P" 名称="Alcoa Inc Pf 3.75" />
+  <上市公司 代码="AADR" 名称="BNY Mellon Focused Growth ADR ETF" />
+  <上市公司 代码="AAMC" 名称="Altisource Asset" />
+  <上市公司 代码="AAU" 名称="Almaden Minerals" />
+  <上市公司 代码="ABI" 名称="Safety First Trust" />
+  <上市公司 代码="ACCU" 名称="Global Opportunities ETF Accuvest" />
+  <上市公司 代码="ACIM" 名称="SPDR MSCI ACWI IMI" />
+  <上市公司 代码="ACU" 名称="Acme United Corporation." />
+  <上市公司 代码="ACWV" 名称="All Country World Min Vol MSCI Ishares" />
+  <上市公司 代码="ACY" 名称="Aerocentury Corp" />
+  <上市公司 代码="ADGE" 名称="American Dg Energy Inc" />
+  <上市公司 代码="ADK" 名称="Adcare Health Systems Inc" />
+  <上市公司 代码="ADK-A" 名称="Adcare Health Systems Inc 10.87" />
+  <上市公司 代码="ADZ" 名称="DB Agriculture Short ETN Powershares" />
+  <上市公司 代码="AE" 名称="Adams Resources &amp; Energy" />
+  <上市公司 代码="AFK" 名称="Africa Index ETF Market Vectors" />
+  <上市公司 代码="AGA" 名称="DB Agriculture Dble Short ETN Powershares" />
+  <上市公司 代码="AGF" 名称="DB Agriculture Long ETN Powershares" />
+  <上市公司 代码="AGG" 名称="Aggregate Bond Ishares" />
+  <上市公司 代码="AGLS" 名称="Global Long/Short ETF Accuvest" />
+  <上市公司 代码="AGOL" 名称="Physical Asian Gold" />
+  <上市公司 代码="AGQ" 名称="Ultra Silver Proshares" />
+  <上市公司 代码="AGZ" 名称="Agency Bond Ishares" />
+  <上市公司 代码="AIA" 名称="S&amp;P Asia 50 Index Ishares" />
+  <上市公司 代码="AINC" 名称="Ashford Inc." />
+  <上市公司 代码="AINC-WI" 名称="Ashford Inc." />
+  <上市公司 代码="AIRI" 名称="Air Industries Group Inc" />
+  <上市公司 代码="AKG" 名称="Asanko Gold Inc" />
+  <上市公司 代码="ALD" 名称="Asia Local Debt ETF Wisdomtree" />
+  <上市公司 代码="ALFA" 名称="Alphaclone Alternative Alpha Et" />
+  <上市公司 代码="ALN" 名称="American Lorain Corp" />
+  <上市公司 代码="ALTL" 名称="RBS US Large Cap Alternator Exc" />
+  <上市公司 代码="ALTV" 名称="Alteva D/B/A" />
+  <上市公司 代码="AMCO" 名称="Armco Metals Holdings Inc. Com" />
+  <上市公司 代码="AMJ" 名称="Alerian MLP Index ETN JP Morgan" />
+  <上市公司 代码="AMLP" 名称="Alps Alerian MLP ETF" />
+  <上市公司 代码="AMPE" 名称="Ampio Pharmaceutical" />
+  <上市公司 代码="AMPS" 名称="Utilities Sector Bond Ishares" />
+  <上市公司 代码="AMS" 名称="American Shared Hospital Services" />
+  <上市公司 代码="AMU" 名称="Etracs Alerian MLP Index ETN" />
+  <上市公司 代码="AMZG" 名称="American Eagle Energy Corp" />
+  <上市公司 代码="AND" 名称="G-X FTSE Andean 40 ETF" />
+  <上市公司 代码="ANGL" 名称="Fallen Angel HY Bond ETF Market Vectors" />
+  <上市公司 代码="ANV" 名称="Allied Nevada Gold Corp" />
+  <上市公司 代码="AOA" 名称="S&amp;P Aggressive Allocation Ishares" />
+  <上市公司 代码="AOK" 名称="S&amp;P Conservative Allocation Ishares" />
+  <上市公司 代码="AOM" 名称="S&amp;P Moderate Allocation Ishares" />
+  <上市公司 代码="AOR" 名称="S&amp;P Growth Allocation Ishares" />
+  <上市公司 代码="API" 名称="Advanced Photonix" />
+  <上市公司 代码="APP" 名称="American Apparel Inc" />
+  <上市公司 代码="APT" 名称="Alpha Pro Tech" />
+  <上市公司 代码="APTS" 名称="Preferred Apartment Communities" />
+  <上市公司 代码="AQQ" 名称="American Spectrum Realty, Inc." />
+  <上市公司 代码="ARGT" 名称="G-X FTSE Argentina 20 ETF" />
+  <上市公司 代码="ASEA" 名称="G-X FTSE Asean 40 ETF" />
+  <上市公司 代码="ASHR" 名称="DB X-Trackers Harvest Csi 300 C" />
+  <上市公司 代码="ASM" 名称="Avino Silver &amp; Gold" />
+  <上市公司 代码="AST" 名称="Asterias Biotherapeutics, Inc." />
+  <上市公司 代码="ATL" 名称="Anooraq Resources Corp" />
+  <上市公司 代码="ATMP" 名称="Barclays ETN Plus Select MLP" />
+  <上市公司 代码="ATNM" 名称="Actinium Pharmaceuticals Inc." />
+  <上市公司 代码="AUD" 名称="Australia Bond Index ETF Pimco" />
+  <上市公司 代码="AUMN" 名称="Golden Minerals Co." />
+  <上市公司 代码="AUNZ" 名称="Australia &amp; NZ Debt Wisdomtree" />
+  <上市公司 代码="AUSE" 名称="Australia Dividend Wisdomtree" />
+  <上市公司 代码="AVL" 名称="Avalon Rare Metals" />
+  <上市公司 代码="AWX" 名称="Avalon Holdings Corp" />
+  <上市公司 代码="AXJL" 名称="Asia Pacific Ex-Japan Wisdomtree" />
+  <上市公司 代码="AXN" 名称="China Aoxing Pharmaceutical Company" />
+  <上市公司 代码="AXU" 名称="Alexco Resource Corp" />
+  <上市公司 代码="AXX" 名称="Alderon Iron Ore Corp" />
+  <上市公司 代码="AYT" 名称="GEMS Asia 8 ETN Ipath" />
+  <上市公司 代码="AZC" 名称="Augusta Resource Corp" />
+  <上市公司 代码="AZIA" 名称="Global X Central Asia &amp; Mongoli" />
+  <上市公司 代码="BAA" 名称="Banro Corp" />
+  <上市公司 代码="BAB" 名称="Build America Bond Powershares" />
+  <上市公司 代码="BABS" 名称="SPDR Build Amer Bd Barclays Capital" />
+  <上市公司 代码="BABZ" 名称="Build America Bond Strategy ETF Pimco" />
+  <上市公司 代码="BAL" 名称="DJ-UBS Cotton TR Sub-Idx ETN Ipath" />
+  <上市公司 代码="BBH" 名称="Biotech ETF Market Vectors" />
+  <上市公司 代码="BBRC" 名称="Egshares Beyond Brics ETF" />
+  <上市公司 代码="BCHP" 名称="Egshares Blue Chip ETF" />
+  <上市公司 代码="BCM" 名称="Broad Commodity Pure Beta ETN Ipath" />
+  <上市公司 代码="BCV" 名称="Bancroft Convertible Fund" />
+  <上市公司 代码="BDCL" 名称="2X Wells Fargo Bus Dv Cm ETN UBS E-Tracs" />
+  <上市公司 代码="BDCS" 名称="Wells Fargo Bus Dev Comp ETN UBS E-Tracs" />
+  <上市公司 代码="BDD" 名称="DB Base Metals Dble Long ETN Powershares" />
+  <上市公司 代码="BDG" 名称="DB Base Metals Long ETN Powershares" />
+  <上市公司 代码="BDL" 名称="Flanigan's Enterprises" />
+  <上市公司 代码="BDR" 名称="Blonder Tongue Laboratories" />
+  <上市公司 代码="BFOR" 名称="Barron's 400" />
+  <上市公司 代码="BFY" 名称="Blackrock New York Muni Trust II" />
+  <上市公司 代码="BGI" 名称="Birks Group Inc. Common Stock" />
+  <上市公司 代码="BGSF" 名称="BG Staffing Inc" />
+  <上市公司 代码="BHB" 名称="Bar Harbor Bankshares" />
+  <上市公司 代码="BHV" 名称="Blackrock Virginia Muni Trust" />
+  <上市公司 代码="BIK" 名称="SPDR S&amp;P BRIC 40" />
+  <上市公司 代码="BIL" 名称="SPDR 1-3 Month T-Bill Barclays Capital" />
+  <上市公司 代码="BIR-A" 名称="Berkshire Rlty 9.00A" />
+  <上市公司 代码="BIV" 名称="Interm-Term Bond ETF Vanguard" />
+  <上市公司 代码="BIZD" 名称="Market Vectors Bdc Income ETF" />
+  <上市公司 代码="BJK" 名称="Gaming ETF Market Vectors" />
+  <上市公司 代码="BKF" 名称="BRIC Index MSCI Ishares" />
+  <上市公司 代码="BKJ" 名称="Bancorp of New Jersey Inc" />
+  <上市公司 代码="BKLN" 名称="Senior Loan Portfolio Powershares" />
+  <上市公司 代码="BLE" 名称="Blackrock Muni Income Trust II" />
+  <上市公司 代码="BLJ" 名称="Blackrock New Jersey Muni Trust" />
+  <上市公司 代码="BLNG" 名称="Precious Metals Pure Beta ETN Ipath" />
+  <上市公司 代码="BLV" 名称="Long-Term Bond Index ETF Vanguard" />
+  <上市公司 代码="BND" 名称="Total Bond Market ETF Vanguard" />
+  <上市公司 代码="BNO" 名称="US Brent Oil" />
+  <上市公司 代码="BOIL" 名称="Ultra DJ-UBS Natural Gas Proshares" />
+  <上市公司 代码="BOM" 名称="DB Base Metals Dble Short ETN Powershares" />
+  <上市公司 代码="BOND" 名称="Total Return ETF Pimco" />
+  <上市公司 代码="BONE" 名称="Bacterin Intl Hldgs" />
+  <上市公司 代码="BOS" 名称="DB Base Metals Short ETN Powershares" />
+  <上市公司 代码="BPS" 名称="Blackrock Pennsylvania Strategic Muni" />
+  <上市公司 代码="BQY" 名称="S&amp;P Quality Rankings Glbl Equ Mngd TR" />
+  <上市公司 代码="BRAF" 名称="G-X Brazil Financials ETF" />
+  <上市公司 代码="BRAQ" 名称="G-X Brazil Consumer ETF" />
+  <上市公司 代码="BRAZ" 名称="G-X Brazil Midcap ETF" />
+  <上市公司 代码="BRF" 名称="Brazil Smallcap ETF Market Vectors" />
+  <上市公司 代码="BRG" 名称="Bluerock Residential Growth Rei" />
+  <上市公司 代码="BRN" 名称="Barnwell Industries" />
+  <上市公司 代码="BRXX" 名称="Brazil Infrastructure Egshares" />
+  <上市公司 代码="BRZS" 名称="Direxion Daily Brazil Bear 3X S" />
+  <上市公司 代码="BRZU" 名称="Direxion Daily Brazil Bull 3X S" />
+  <上市公司 代码="BSCE" 名称="2014 Corp Bond Bulletshares Guggenheim" />
+  <上市公司 代码="BSCF" 名称="2015 Corp Bond Bulletshares Guggenheim" />
+  <上市公司 代码="BSCG" 名称="2016 Corp Bond Bulletshares Guggenheim" />
+  <上市公司 代码="BSCH" 名称="2017 Corp Bond Bulletshares Guggenheim" />
+  <上市公司 代码="BSCI" 名称="2018 Corp Bond Bulletshares Guggenheim" />
+  <上市公司 代码="BSCJ" 名称="2019 Corp Bond Bulletshares Guggenheim" />
+  <上市公司 代码="BSCK" 名称="2020 Corp Bond Bulletshares Guggenheim" />
+  <上市公司 代码="BSCL" 名称="Guggenheim Bulletshares 2021 Co" />
+  <上市公司 代码="BSCM" 名称="Guggenheim Bulletshares 2022 Co" />
+  <上市公司 代码="BSJE" 名称="2014 HY Crp Bond Bulletshares Guggenheim" />
+  <上市公司 代码="BSJF" 名称="2015 HY Crp Bond Bulletshares Guggenheim" />
+  <上市公司 代码="BSJG" 名称="2016 HY C Bd ETF Bulletshares Guggenheim" />
+  <上市公司 代码="BSJH" 名称="2017 HY C Bd ETF Bulletshares Guggenheim" />
+  <上市公司 代码="BSJI" 名称="2018 HY C Bd ETF Bulletshares Guggenheim" />
+  <上市公司 代码="BSJJ" 名称="Guggenheim Bulletshares 2019 Hi" />
+  <上市公司 代码="BSJK" 名称="Guggenheim Bulletshares 2020 Hi" />
+  <上市公司 代码="BSV" 名称="Short-Term Bond ETF Vanguard" />
+  <上市公司 代码="BTAL" 名称="US Anti-Beta Fund Market Neutral Quantshares" />
+  <上市公司 代码="BTG" 名称="B2Gold Corp" />
+  <上市公司 代码="BTI" 名称="British American Tobacco Industries" />
+  <上市公司 代码="BTN" 名称="Ballantyne Strong Inc" />
+  <上市公司 代码="BTX" 名称="Biotime Inc" />
+  <上市公司 代码="BTX/WS" 名称="BioTime, Inc." />
+  <上市公司 代码="BUND" 名称="Germany Bond Index ETF Pimco" />
+  <上市公司 代码="BUNL" 名称="DB German Bund ETN Powershares" />
+  <上市公司 代码="BUNT" 名称="DB 3X German Bund ETN Powershares" />
+  <上市公司 代码="BVX" 名称="Bovie Medical Corp" />
+  <上市公司 代码="BWL.A" 名称="Bowl Amer Inc Cl A" />
+  <上市公司 代码="BWL/A" 名称="Bowl America, Inc." />
+  <上市公司 代码="BWV" 名称="CBOE S&amp;P 500 Buywrite Index ETN Ipath" />
+  <上市公司 代码="BWX" 名称="SPDR Intl Treasury Bond Barclays Capital" />
+  <上市公司 代码="BWZ" 名称="SPDR S/T Intl Treasury Bond Barclays Capital" />
+  <上市公司 代码="BXE" 名称="Bellatrix Exploration Ltd" />
+  <上市公司 代码="BXUB" 名称="Long B Leveraged S&amp;P 500 TR ETN Barclays" />
+  <上市公司 代码="BXUC" 名称="Long C Leveraged S&amp;P 500 TR ETN Barclays" />
+  <上市公司 代码="BYLD" 名称="Ishares Yield Optimized Bond Et" />
+  <上市公司 代码="BZC" 名称="Breeze-Eastern Corp" />
+  <上市公司 代码="BZF" 名称="Wisdomtree Brazilian Real Fund" />
+  <上市公司 代码="BZM" 名称="Blackrock Maryland Muni Trust" />
+  <上市公司 代码="BZQ" 名称="Ultrashort MSCI Brazil Proshares" />
+  <上市公司 代码="CAD" 名称="Canada Bond Index ETF Pimco" />
+  <上市公司 代码="CAFE" 名称="Coffee Pure Beta ETN Ipath" />
+  <上市公司 代码="CAK" 名称="Camac Energy Inc" />
+  <上市公司 代码="CANE" 名称="Teucrium Sugar" />
+  <上市公司 代码="CANF" 名称="Can-Fite Biopharma Ltd Sponsore" />
+  <上市公司 代码="CAPE" 名称="Barclays ETN Schiller Cape" />
+  <上市公司 代码="CAW" 名称="CCA Industries" />
+  <上市公司 代码="CBND" 名称="SPDR Issuer Scd Corp Bond Barclays Capital" />
+  <上市公司 代码="CCA" 名称="MFS California Insured Muni Trust" />
+  <上市公司 代码="CCF" 名称="Chase Corp" />
+  <上市公司 代码="CCX" 名称="Wisdomtree Commodity Currency Fund" />
+  <上市公司 代码="CCXE" 名称="Commodity Country Equity Wisdomtree" />
+  <上市公司 代码="CEF" 名称="Central Fund of Canada" />
+  <上市公司 代码="CEFL" 名称="Etracs Monthly Pay 2X Leveraged" />
+  <上市公司 代码="CEMB" 名称="Emrg Mkts Corporate Bond Fund Ishares" />
+  <上市公司 代码="CEP" 名称="Constellation Energy Partners Llc" />
+  <上市公司 代码="CET" 名称="Central Securities Corp" />
+  <上市公司 代码="CEV" 名称="Eaton Vance California Muni Income Trust" />
+  <上市公司 代码="CEW" 名称="Wisdomtree Emerging Currency Fund" />
+  <上市公司 代码="CFD" 名称="Nuveen Diversified Commodity Fund" />
+  <上市公司 代码="CFP" 名称="Cornerstone Progressive Return Fund" />
+  <上市公司 代码="CFT" 名称="Credit Bond Ishares" />
+  <上市公司 代码="CGW" 名称="S&amp;P Global Water Index Guggenheim" />
+  <上市公司 代码="CH" 名称="Aberdeen Chile Fund" />
+  <上市公司 代码="CHEP" 名称="US Value Fund Market Neutral ETF Quantshares" />
+  <上市公司 代码="CHGS" 名称="China Gengsheng Minerals" />
+  <上市公司 代码="CHIE" 名称="G-X China Energy ETF" />
+  <上市公司 代码="CHII" 名称="G-X China Industrials ETF" />
+  <上市公司 代码="CHIM" 名称="G-X China Materials ETF" />
+  <上市公司 代码="CHIQ" 名称="G-X China Consumer ETF" />
+  <上市公司 代码="CHIX" 名称="G-X China Financials ETF" />
+  <上市公司 代码="CHLC" 名称="Renminbi Bond ETF Market Vectors" />
+  <上市公司 代码="CHNA" 名称="Powershares China A-Share Portf" />
+  <上市公司 代码="CHOC" 名称="Cocoa Pure Beta ETN Ipath" />
+  <上市公司 代码="CHXX" 名称="China Infrastructure Egshares" />
+  <上市公司 代码="CIK" 名称="Credit Suisse Asset Management" />
+  <上市公司 代码="CIU" 名称="Intermediate Credit Bd Ishares" />
+  <上市公司 代码="CIX" 名称="Compx International Inc" />
+  <上市公司 代码="CKX" 名称="Ckx Lands" />
+  <上市公司 代码="CLM" 名称="Cornerstone Strategic Value Fund" />
+  <上市公司 代码="CLY" 名称="10+ Year Credit Bond Ishares" />
+  <上市公司 代码="CMBS" 名称="CMBS Bond Ishares" />
+  <上市公司 代码="CMD" 名称="Ultrashort DJ-UBS Commodity Proshares" />
+  <上市公司 代码="CMDT" 名称="Ishares DOW Jones-UBS Roll Sele" />
+  <上市公司 代码="CMF" 名称="S&amp;P CA Amt-Free Municipal Bd Ishares" />
+  <上市公司 代码="CMT" 名称="Core Molding Technologies Inc" />
+  <上市公司 代码="CN" 名称="DB X-Trackers Harvest MSCI All" />
+  <上市公司 代码="CNDA" 名称="IQ Canada Smallcap ETF" />
+  <上市公司 代码="CNPF" 名称="G-X Canada Preferred ETF" />
+  <上市公司 代码="CNR" 名称="China Metro-Rural Holdings" />
+  <上市公司 代码="CNY" 名称="RMB/USD ETN Market Vectors" />
+  <上市公司 代码="COBO" 名称="USD Covered Bond Proshares" />
+  <上市公司 代码="COLX" 名称="Colombia ETF Market Vectors" />
+  <上市公司 代码="COPX" 名称="G-X Copper Miners ETF" />
+  <上市公司 代码="CORN" 名称="Teucrium Corn" />
+  <上市公司 代码="CORP" 名称="Investment Grade Corp Bd Index ETF Pimco" />
+  <上市公司 代码="COVR" 名称="Cover-All Technologies Inc" />
+  <上市公司 代码="COW" 名称="DJ-UBS Livestock TR Sub-Idx ETN Ipath" />
+  <上市公司 代码="CPER" 名称="US Copper" />
+  <上市公司 代码="CPHI" 名称="China Pharma Holdings" />
+  <上市公司 代码="CPI" 名称="IQ Real Return ETF" />
+  <上市公司 代码="CQH" 名称="Cheniere Energy Partners LP Holdings Llc" />
+  <上市公司 代码="CQP" 名称="Cheniere Energy Partners LP" />
+  <上市公司 代码="CQQQ" 名称="China Technology ETF Guggenheim" />
+  <上市公司 代码="CRBQ" 名称="CRB Global Commodity Equity" />
+  <上市公司 代码="CRF" 名称="Cornerstone Strategic Return Fund" />
+  <上市公司 代码="CRM.W" 名称="Salesforce.Com" />
+  <上市公司 代码="CRMD" 名称="Cormedix Inc" />
+  <上市公司 代码="CRMD/WS" 名称="CorMedix Inc" />
+  <上市公司 代码="CROC" 名称="Proshares Ultrashort Australian" />
+  <上市公司 代码="CROP" 名称="IQ Global Agribusiness Smallcap ETF" />
+  <上市公司 代码="CRUD" 名称="Teucrium WTI Crude Oil" />
+  <上市公司 代码="CRV" 名称="Coast Distribution System" />
+  <上市公司 代码="CRVP" 名称="Crystal Rock Holdings" />
+  <上市公司 代码="CSCB" 名称="Credit Suisse Commodity Benchma" />
+  <上市公司 代码="CSCR" 名称="Credit Suisse Ommodity Rotation" />
+  <上市公司 代码="CSD" 名称="Spin-Off Guggenheim" />
+  <上市公司 代码="CSJ" 名称="1-3 Year Credit Bond Ishares" />
+  <上市公司 代码="CSLS" 名称="Long/Short Liquid Idx ETN Credit Suisse" />
+  <上市公司 代码="CSM" 名称="Credit Suisse 130/30 Proshares" />
+  <上市公司 代码="CSMA" 名称="Merger Arbi Liquid Idx ETN Credit Suisse" />
+  <上市公司 代码="CSMB" 名称="Merger Arbi Liquid 2X Idx ETN Credit Suisse" />
+  <上市公司 代码="CSMN" 名称="Market Neut Global Eq ETN Credit Suisse" />
+  <上市公司 代码="CTF" 名称="Nuveen Long/Short Commodity Tot" />
+  <上市公司 代码="CTNN" 名称="Cotton Pure Beta ETN Ipath" />
+  <上市公司 代码="CTO" 名称="Consolidated-Tomoka Land Co." />
+  <上市公司 代码="CTP" 名称="Ctpartners Executive Search Inc" />
+  <上市公司 代码="CUO" 名称="Continental Materials Corp" />
+  <上市公司 代码="CUPM" 名称="Copper Pure Beta ETN Ipath" />
+  <上市公司 代码="CUR" 名称="Neuralstem" />
+  <上市公司 代码="CURE" 名称="Healthcare Bull 3X Direxion" />
+  <上市公司 代码="CUT" 名称="Timber Guggenheim" />
+  <上市公司 代码="CVM" 名称="Cel-Sci Corp" />
+  <上市公司 代码="CVM.W" 名称="Cel-Sci Corporation" />
+  <上市公司 代码="CVM/WS" 名称="Cel-Sci Corporation" />
+  <上市公司 代码="CVOL" 名称="C-Tracks Citi Volatility Index TR ETN" />
+  <上市公司 代码="CVR" 名称="Chicago Rivet &amp; Machine Co." />
+  <上市公司 代码="CVSL" 名称="CVSL Inc." />
+  <上市公司 代码="CVU" 名称="CPI Aerostructures" />
+  <上市公司 代码="CVY" 名称="Multi Asset Income Guggenheim" />
+  <上市公司 代码="CWB" 名称="SPDR Convertible Secs Barclays Capital" />
+  <上市公司 代码="CWI" 名称="SPDR MSCI ACWI [Ex-Us]" />
+  <上市公司 代码="CXA" 名称="SPDR CA Muni Bd Barclays Capital" />
+  <上市公司 代码="CYB" 名称="Wisdomtree Chinese Yuan Fund" />
+  <上市公司 代码="CZA" 名称="Midcap Core Guggenheim" />
+  <上市公司 代码="DAG" 名称="DB Agriculture Dble Long ETN Powershares" />
+  <上市公司 代码="DAKP" 名称="Dakota Plains Holdings, Inc." />
+  <上市公司 代码="DBA" 名称="Powershares DB Agriculture Fund" />
+  <上市公司 代码="DBAP" 名称="DB X-Trackers MSCI AC Asia Pacific Ex Japan Hedg" />
+  <上市公司 代码="DBAW" 名称="DB X-Trackers MSCI All World Ex" />
+  <上市公司 代码="DBB" 名称="DB Base Metals Powershares" />
+  <上市公司 代码="DBBR" 名称="DB-X Brazil Hedged Equity MSCI ETF" />
+  <上市公司 代码="DBC" 名称="DB Commodity Index Tracking Powershares" />
+  <上市公司 代码="DBE" 名称="DB Energy Powershares" />
+  <上市公司 代码="DBEF" 名称="DB-X EAFE Hedged Equity MSCI ETF" />
+  <上市公司 代码="DBEM" 名称="DB-X Emerging Mkts Hdgd Equity MSCI ETF" />
+  <上市公司 代码="DBEU" 名称="DB X-Trackers MSCI Europe Hedged Equity Fund" />
+  <上市公司 代码="DBGR" 名称="DB X-Trackers MSCI Germany Hedged Equity Fund" />
+  <上市公司 代码="DBIZ" 名称="Advisorshares Pring Turner Busi" />
+  <上市公司 代码="DBJP" 名称="DB-X Japan Hedged Equity MSCI ETF" />
+  <上市公司 代码="DBKO" 名称="DB X-Trackers MSCI South Korea" />
+  <上市公司 代码="DBMX" 名称="DB X-Trackers MSCI Mexico Hedge" />
+  <上市公司 代码="DBO" 名称="DB Oil Powershares" />
+  <上市公司 代码="DBP" 名称="DB Precious Metals Powershares" />
+  <上市公司 代码="DBS" 名称="DB Silver Powershares" />
+  <上市公司 代码="DBU" 名称="Global Ex-US Utilities Wisdomtree" />
+  <上市公司 代码="DBUK" 名称="DB X-Trackers MSCI United Kingdom Hedged Equity" />
+  <上市公司 代码="DBV" 名称="DB G10 Currency Harvest Powershares" />
+  <上市公司 代码="DCNG" 名称="Seasonal Natural Gas ETN Ipath" />
+  <上市公司 代码="DDG" 名称="Short Oil &amp; Gas Proshares" />
+  <上市公司 代码="DDM" 名称="Ultra DOW 30 Proshares" />
+  <上市公司 代码="DDP" 名称="DB Commodity Short ETN Powershares" />
+  <上市公司 代码="DEE" 名称="DB Commodity Dble Short ETN Powershares" />
+  <上市公司 代码="DEF" 名称="Defensive Equity Guggenheim" />
+  <上市公司 代码="DEFL" 名称="DB US Deflation ETN Powershares" />
+  <上市公司 代码="DEJ" 名称="Dejour Enterprises Ltd" />
+  <上市公司 代码="DEM" 名称="Emrg Mkts Equity Inc Wisdomtree" />
+  <上市公司 代码="DES" 名称="Smallcap Dividend Wisdomtree" />
+  <上市公司 代码="DEW" 名称="Global Equity Income Wisdomtree" />
+  <上市公司 代码="DFE" 名称="Europe Smallcap Dividend Wisdomtree" />
+  <上市公司 代码="DFF" 名称="Bank of America Corp" />
+  <上市公司 代码="DFJ" 名称="Japan Smallcap Dividend Wisdomtree" />
+  <上市公司 代码="DFVL" 名称="Ipath US Treasury 5 Year Bull E" />
+  <上市公司 代码="DFVS" 名称="US Trsy 5-Year Bear ETN Ipath" />
+  <上市公司 代码="DGAZ" 名称="3X Inverse Natural Gas ETN Velocityshares" />
+  <上市公司 代码="DGL" 名称="DB Gold Powershares" />
+  <上市公司 代码="DGP" 名称="DB Gold Double Long ETN Powershares" />
+  <上市公司 代码="DGS" 名称="Emrg Mkts Smallcap Div Wisdomtree" />
+  <上市公司 代码="DGSE" 名称="Dgse Companies Inc. Common Sto" />
+  <上市公司 代码="DGT" 名称="SPDR Global DOW ETF" />
+  <上市公司 代码="DGZ" 名称="DB Gold Short ETN Powershares" />
+  <上市公司 代码="DHS" 名称="Equity Income Wisdomtree" />
+  <上市公司 代码="DHY" 名称="Credit Suisse High Yield Bond Fund" />
+  <上市公司 代码="DI" 名称="Pimco Diversified Income Exchan" />
+  <上市公司 代码="DIA" 名称="SPDR DOW 30 ETF" />
+  <上市公司 代码="DIG" 名称="Ultra Oil &amp; Gas Proshares" />
+  <上市公司 代码="DIM" 名称="Intl Midcap Dividend Wisdomtree" />
+  <上市公司 代码="DIRT" 名称="Agriculture Pure Beta ETN Ipath" />
+  <上市公司 代码="DIT" 名称="Amcon Distributing Company" />
+  <上市公司 代码="DIV" 名称="Global X Super Dividend ETF" />
+  <上市公司 代码="DJCI" 名称="DJ-UBS Commodity Idx TR ETN UBS E-Tracs" />
+  <上市公司 代码="DJP" 名称="DJ-UBS Commodity Idx TR ETN Ipath" />
+  <上市公司 代码="DLA" 名称="Delta Apparel" />
+  <上市公司 代码="DLBL" 名称="US Trsy Long Bond Bull ETN Ipath" />
+  <上市公司 代码="DLBS" 名称="US Trsy Long Bond Bear ETN Ipath" />
+  <上市公司 代码="DLN" 名称="Largecap Dividend Wisdomtree" />
+  <上市公司 代码="DLS" 名称="Intl Smallcap Dividend Wisdomtree" />
+  <上市公司 代码="DMF" 名称="Dreyfus Muni Income" />
+  <上市公司 代码="DNL" 名称="Global Ex-US Growth Wisdomtree" />
+  <上市公司 代码="DNN" 名称="Intl Uranium Corp" />
+  <上市公司 代码="DNO" 名称="US Short Oil" />
+  <上市公司 代码="DOD" 名称="DJ High Yield Select 10 ETN Elements" />
+  <上市公司 代码="DOG" 名称="Short DOW 30 Proshares" />
+  <上市公司 代码="DOL" 名称="Intl Largecap Dividend Wisdomtree" />
+  <上市公司 代码="DON" 名称="Midcap Dividend Wisdomtree" />
+  <上市公司 代码="DOO" 名称="Intl Div Ex-Financials Wisdomtree" />
+  <上市公司 代码="DPK" 名称="Dev Mkts Bear 3X Direxion" />
+  <上市公司 代码="DPU" 名称="DB Commodity Long ETN Powershares" />
+  <上市公司 代码="DPW" 名称="Digital Power Corp" />
+  <上市公司 代码="DRGS" 名称="RBS Global Big Pharma ETN" />
+  <上市公司 代码="DRN" 名称="Real Estate Bull 3X Direxion" />
+  <上市公司 代码="DRR" 名称="Euro Double Short ETN Market Vectors" />
+  <上市公司 代码="DRV" 名称="Real Estate Bear 3X Direxion" />
+  <上市公司 代码="DRW" 名称="Global Ex-US Real Estate Wisdomtree" />
+  <上市公司 代码="DSI" 名称="KLD 400 Social Index Ishares" />
+  <上市公司 代码="DSS" 名称="Document Security Systems" />
+  <上市公司 代码="DSUM" 名称="Chinese Yuan Dim Sum Bond Powershares" />
+  <上市公司 代码="DTD" 名称="Total Dividend Wisdomtree" />
+  <上市公司 代码="DTH" 名称="DEFA Equity Income Wisdomtree" />
+  <上市公司 代码="DTN" 名称="Dividend Ex-Financials Wisdomtree" />
+  <上市公司 代码="DTO" 名称="DB Crude Oil Dble Short ETN Powershares" />
+  <上市公司 代码="DTUL" 名称="Ipath US Treasury 2 Yr Bull ETN" />
+  <上市公司 代码="DTUS" 名称="US Trsy 2-Year Bear ETN Ipath" />
+  <上市公司 代码="DTYL" 名称="US Trsy 10-Year Bull ETN Ipath" />
+  <上市公司 代码="DTYS" 名称="US Trsy 10-Year Bear ETN Ipath" />
+  <上市公司 代码="DUG" 名称="Ultrashort Oil &amp; Gas Proshares" />
+  <上市公司 代码="DUST" 名称="Gold Miners Bear 3X Direxion" />
+  <上市公司 代码="DVHI" 名称="Etracs Diversified High Income" />
+  <上市公司 代码="DVHL" 名称="Etracs 2Xleveraged Diversified" />
+  <上市公司 代码="DVY" 名称="DJ Select Dividend Index Ishares" />
+  <上市公司 代码="DVYA" 名称="Asia Pacific Dividend 30 Ishares" />
+  <上市公司 代码="DVYE" 名称="Emrg Mkts Dividend Ishares" />
+  <上市公司 代码="DVYL" 名称="2X Leveraged DJ Select Dividend ETN" />
+  <上市公司 代码="DWAQ" 名称="Dynamic OTC Powershares" />
+  <上市公司 代码="DWAS" 名称="Powershares DWA Smallcap Momentum Portfolio" />
+  <上市公司 代码="DWM" 名称="DEFA Wisdomtree" />
+  <上市公司 代码="DWTI" 名称="3X Inverse Crude ETN Velocityshares" />
+  <上市公司 代码="DWX" 名称="SPDR S&amp;P Dividend International" />
+  <上市公司 代码="DXD" 名称="Ultrashort DOW 30 Proshares" />
+  <上市公司 代码="DXJ" 名称="Japan Hedged Equity Wisdomtree" />
+  <上市公司 代码="DXJC" 名称="Wisdomtree Japan Hedged Capital" />
+  <上市公司 代码="DXJF" 名称="Wisdomtree Japan Hedged Financi" />
+  <上市公司 代码="DXJH" 名称="Wisdomtree Japan Hedged Health" />
+  <上市公司 代码="DXJR" 名称="Wisdomtree Japan Hedged Real Es" />
+  <上市公司 代码="DXJT" 名称="Wisdomtree Japan Hedged Tech M" />
+  <上市公司 代码="DXR" 名称="Daxor Corp" />
+  <上市公司 代码="DYY" 名称="DB Commodity Dble Long ETN Powershares" />
+  <上市公司 代码="DZK" 名称="Dev Mkts Bull 3X Direxion" />
+  <上市公司 代码="DZZ" 名称="DB Gold Double Short ETN Powershares" />
+  <上市公司 代码="EAD" 名称="Wells Fargo Advantage" />
+  <上市公司 代码="EBND" 名称="SPDR EM Local Bond ETF Barclays Capital" />
+  <上市公司 代码="ECF" 名称="Ellsworth Convertible Growth and Income" />
+  <上市公司 代码="ECH" 名称="Chile Investable Mkt Idx MSCI Ishares" />
+  <上市公司 代码="ECNS" 名称="China Smallcap Index MSCI Ishares" />
+  <上市公司 代码="ECON" 名称="Emrg Mkts Consumer Egshares" />
+  <上市公司 代码="EDC" 名称="Emrg Mkts Bull 3X Direxion" />
+  <上市公司 代码="EDEN" 名称="Denmark Capped Investable Mkt Idx Fd MSCI Ishare" />
+  <上市公司 代码="EDIV" 名称="SPDR S&amp;P Emrg Mkts Dividend" />
+  <上市公司 代码="EDOG" 名称="Alps Emerging Sector Dividend D" />
+  <上市公司 代码="EDV" 名称="Extended Dur Trs Idx ETF Vanguard" />
+  <上市公司 代码="EDZ" 名称="Emrg Mkts Bear 3X Direxion" />
+  <上市公司 代码="EEB" 名称="BRIC Guggenheim" />
+  <上市公司 代码="EEH" 名称="Spectrum Lg Cap U.S. Sector ETN Elements" />
+  <上市公司 代码="EEHB" 名称="S&amp;P Emrg Mkts High Beta Powershares" />
+  <上市公司 代码="EELV" 名称="S&amp;P Emrg Mkts Low Volatily Powershares" />
+  <上市公司 代码="EEM" 名称="Emrg Mkts Index MSCI Ishares" />
+  <上市公司 代码="EEMS" 名称="Emrg Mkts Smallcap MSCI Ishares" />
+  <上市公司 代码="EEMV" 名称="Emrg Mkts Min Vol Idx MSCI Ishares" />
+  <上市公司 代码="EES" 名称="Smallcap Earnings Wisdomtree" />
+  <上市公司 代码="EET" 名称="Ultra MSCI Emrg Mkts Proshares" />
+  <上市公司 代码="EEV" 名称="Ultrashort MSCI Emrg Mkts Proshares" />
+  <上市公司 代码="EFA" 名称="EAFE Index MSCI Ishares" />
+  <上市公司 代码="EFAV" 名称="EAFE Min Volatility MSCI Ishares" />
+  <上市公司 代码="EFG" 名称="EAFE Growth Index MSCI Ishares" />
+  <上市公司 代码="EFNL" 名称="Finland Cp Investable Mkt Indx Fund MSCI Ishares" />
+  <上市公司 代码="EFO" 名称="Ultra MSCI EAFE Proshares" />
+  <上市公司 代码="EFU" 名称="Ultrashort MSCI EAFE Proshares" />
+  <上市公司 代码="EFV" 名称="EAFE Value Index MSCI Ishares" />
+  <上市公司 代码="EFZ" 名称="Short EAFE MSCI Proshares" />
+  <上市公司 代码="EGAS" 名称="Gas Natural Inc" />
+  <上市公司 代码="EGI" 名称="Entree Gold Inc" />
+  <上市公司 代码="EGPT" 名称="Egypt Index ETF Market Vectors" />
+  <上市公司 代码="EIA" 名称="Eaton Vance California Muni Bond II" />
+  <上市公司 代码="EIDO" 名称="Indonesia Invstble Mkt Idx MSCI Ishares" />
+  <上市公司 代码="EIM" 名称="Eaton Vance Muni Bond Fund" />
+  <上市公司 代码="EIO" 名称="Eaton Vance Ohio Muni Bond Fund" />
+  <上市公司 代码="EIP" 名称="Eaton Vance Pennsylvania Muni Bond" />
+  <上市公司 代码="EIRL" 名称="Ireland Cppd Invstb Mkt Idx MSCI Ishares" />
+  <上市公司 代码="EIS" 名称="Israel Cap Invest Mkt Index MSCI Ishares" />
+  <上市公司 代码="EIV" 名称="Eaton Vance Muni Bond Fund II" />
+  <上市公司 代码="ELD" 名称="Emrg Mkts Local Debt Wisdomtree" />
+  <上市公司 代码="ELLO" 名称="Ellomay Capital Ltd Ordinary Sh" />
+  <上市公司 代码="ELMD" 名称="Electromed Inc" />
+  <上市公司 代码="EMAG" 名称="Market Vectors Emerging Markets Aggregate Bond E" />
+  <上市公司 代码="EMAN" 名称="Emagin Corp" />
+  <上市公司 代码="EMB" 名称="USD Emrg Mkts Bond Ishares" />
+  <上市公司 代码="EMBB" 名称="SPDR MSCI EM Beyond BRIC ETF" />
+  <上市公司 代码="EMCD" 名称="SPDR Bofa Merrill Emerging Mark" />
+  <上市公司 代码="EMCR" 名称="Egshares Emerging Markets Core" />
+  <上市公司 代码="EMDD" 名称="Egshares Emerging Markets Domes" />
+  <上市公司 代码="EMDG" 名称="Egshares Emerging Markets Divid" />
+  <上市公司 代码="EMFM" 名称="Global X Next Emerging &amp; Fronti" />
+  <上市公司 代码="EMFT" 名称="SPDR MSCI EM 50 ETF" />
+  <上市公司 代码="EMHD" 名称="Egshares EM Dividend High Incom" />
+  <上市公司 代码="EMHY" 名称="Emrg Mkts High Yield Bond Fund Ishares" />
+  <上市公司 代码="EMI" 名称="Eaton Vance Michigan Muni Income Trust" />
+  <上市公司 代码="EMJ" 名称="Eaton Vance New Jersey Muni Bond" />
+  <上市公司 代码="EMLB" 名称="Ipath Long Enhanced MSCI Emergi" />
+  <上市公司 代码="EMLC" 名称="Emrg Mkts Local Curr Bond ETF Market Vectors" />
+  <上市公司 代码="EMLP" 名称="First Trust North American Ener" />
+  <上市公司 代码="EMSH" 名称="Proshares Short Term USD Emergi" />
+  <上市公司 代码="EMXX" 名称="Eurasian Minerals" />
+  <上市公司 代码="ENFR" 名称="Alerian Energy Infrastructure E" />
+  <上市公司 代码="ENGN" 名称="Industrials Sector Bond Ishares" />
+  <上市公司 代码="ENOR" 名称="Norway Capped Investable Mkt Idx Fd MSCI Ishares" />
+  <上市公司 代码="ENRJ" 名称="EnerJex Resources, Inc." />
+  <上市公司 代码="ENSV" 名称="Enservco Corpporation" />
+  <上市公司 代码="ENX" 名称="Eaton Vance New York Muni Bond Fund" />
+  <上市公司 代码="ENY" 名称="Canadian Energy Income Guggenheim" />
+  <上市公司 代码="ENZL" 名称="New Zealand Invstb Mkt Idx MSCI Ishares" />
+  <上市公司 代码="EOX" 名称="Emerald Oil Inc" />
+  <上市公司 代码="EPHE" 名称="Philippines Invstb Mkt Idx MSCI Ishares" />
+  <上市公司 代码="EPI" 名称="India Earnings Wisdomtree" />
+  <上市公司 代码="EPM" 名称="Evolution Petroleum Corp" />
+  <上市公司 代码="EPM-A" 名称="Evolution Petroleum Corp" />
+  <上市公司 代码="EPOL" 名称="Poland Investable Mkt Index MSCI Ishares" />
+  <上市公司 代码="EPP" 名称="Pacific Ex-Japan MSCI Ishares" />
+  <上市公司 代码="EPRO" 名称="Advisorshares Equitypro ETF" />
+  <上市公司 代码="EPS" 名称="Earnings 500 Wisdomtree" />
+  <上市公司 代码="EPU" 名称="All Peru Capped Index MSCI Ishares" />
+  <上市公司 代码="EPV" 名称="Proshares Ultrashort FTSE Europe" />
+  <上市公司 代码="EQL" 名称="Alps Equal Sector Weight ETF" />
+  <上市公司 代码="EQLT" 名称="Workplace Equality Portfolio Et" />
+  <上市公司 代码="ERB" 名称="Erba Diagnostics Inc" />
+  <上市公司 代码="ERC" 名称="Wells Fargo Advantage Multi-Sector" />
+  <上市公司 代码="ERH" 名称="Wells Fargo Advantage Utilities and High" />
+  <上市公司 代码="ERO" 名称="EUR/USD Exchange Rate ETN Ipath" />
+  <上市公司 代码="ERUS" 名称="Russia Capped Index MSCI Ishares" />
+  <上市公司 代码="ERX" 名称="Energy Bull 3X Direxion" />
+  <上市公司 代码="ERY" 名称="Energy Bear 3X Direxion" />
+  <上市公司 代码="ESBA" 名称="Empire State Realty Op L.P." />
+  <上市公司 代码="ESP" 名称="Espey Mfg. &amp; Electronics" />
+  <上市公司 代码="ESR" 名称="Emrg Mkts Eastern Europe MSCI Ishares" />
+  <上市公司 代码="ESTE" 名称="Earthstone Energy" />
+  <上市公司 代码="ETAK" 名称="Elephant Talk Commun" />
+  <上市公司 代码="ETF" 名称="Aberdeen Emerging Markets Telecommunications" />
+  <上市公司 代码="ETUB" 名称="Eunits 2 Year U.S. Market Part" />
+  <上市公司 代码="EU" 名称="Euro Debt Wisdomtree" />
+  <上市公司 代码="EUDG" 名称="Wisdomtree Europe Dividend Grow" />
+  <上市公司 代码="EUFX" 名称="Proshares Short Euro" />
+  <上市公司 代码="EUM" 名称="Short Emrg Mkts MSCI Proshares" />
+  <上市公司 代码="EUO" 名称="Ultrashort Euro Proshares" />
+  <上市公司 代码="EURL" 名称="Direxion Daily FTSE Europe Bull" />
+  <上市公司 代码="EURZ" 名称="Direxion Daily FTSE Europe Bear" />
+  <上市公司 代码="EUSA" 名称="USA Index MSCI Ishares" />
+  <上市公司 代码="EVBN" 名称="Evans Bancorp" />
+  <上市公司 代码="EVI" 名称="Envirostarm Inc" />
+  <上市公司 代码="EVJ" 名称="Eaton Vance New Jersey Muni Income Trust" />
+  <上市公司 代码="EVK" 名称="Ever-Glory International Group" />
+  <上市公司 代码="EVM" 名称="Eaton Vance California Muni Bond Fund" />
+  <上市公司 代码="EVO" 名称="Eaton Vance Ohio Muni Income Trust" />
+  <上市公司 代码="EVP" 名称="Eaton Vance Pennsylvania Muni Income Trust" />
+  <上市公司 代码="EVV" 名称="Eaton Vance Limited Duration" />
+  <上市公司 代码="EVX" 名称="Environmental Svcs ETF Market Vectors" />
+  <上市公司 代码="EVY" 名称="Eaton Vance New York Muni Income Trust" />
+  <上市公司 代码="EWA" 名称="Australia Index MSCI Ishares" />
+  <上市公司 代码="EWAS" 名称="Australia Smallcap Index Fund MSCI Ishares" />
+  <上市公司 代码="EWC" 名称="Canada Index MSCI Ishares" />
+  <上市公司 代码="EWCS" 名称="Canada Smallcap Index Fund MSCI Ishares" />
+  <上市公司 代码="EWD" 名称="Sweden Index MSCI Ishares" />
+  <上市公司 代码="EWEM" 名称="Emrg Mkts Eq Wt MSCI Guggenheim" />
+  <上市公司 代码="EWG" 名称="Germany Index MSCI Ishares" />
+  <上市公司 代码="EWGS" 名称="Germany Smallcap Index Fund MSCI Ishares" />
+  <上市公司 代码="EWH" 名称="Hong Kong Index MSCI Ishares" />
+  <上市公司 代码="EWHS" 名称="Hong Kong Smallcap MSCI Ishares" />
+  <上市公司 代码="EWI" 名称="Italy Index MSCI Ishares" />
+  <上市公司 代码="EWJ" 名称="Japan Index MSCI Ishares" />
+  <上市公司 代码="EWK" 名称="Belgium Investable Mkt Idx MSCI Ishares" />
+  <上市公司 代码="EWL" 名称="Switzerland Index MSCI Ishares" />
+  <上市公司 代码="EWM" 名称="Malaysia Index MSCI Ishares" />
+  <上市公司 代码="EWN" 名称="Netherlands Invstbl Mkt Idx MSCI Ishares" />
+  <上市公司 代码="EWO" 名称="Austria Investable Mkt Idx MSCI Ishares" />
+  <上市公司 代码="EWP" 名称="Spain Index MSCI Ishares" />
+  <上市公司 代码="EWQ" 名称="France Index MSCI Ishares" />
+  <上市公司 代码="EWRI" 名称="Russell 1000 Equal Weight Guggenheim" />
+  <上市公司 代码="EWRM" 名称="Russell Midcap Equal Weight Guggenheim" />
+  <上市公司 代码="EWRS" 名称="Russell 2000 Equal Weight Guggenheim" />
+  <上市公司 代码="EWS" 名称="Singapore Index MSCI Ishares" />
+  <上市公司 代码="EWSS" 名称="Singapore Smallcap Fund MSCI Ishares" />
+  <上市公司 代码="EWT" 名称="Taiwan Index MSCI Ishares" />
+  <上市公司 代码="EWU" 名称="United Kingdom Index MSCI Ishares" />
+  <上市公司 代码="EWUS" 名称="United Kingdom Smallcap Index Fund MSCI Ishares" />
+  <上市公司 代码="EWV" 名称="Ultrashort MSCI Japan Proshares" />
+  <上市公司 代码="EWW" 名称="Mexico Investable Mkt Idx MSCI Ishares" />
+  <上市公司 代码="EWX" 名称="SPDR S&amp;P Emrg Mkts Smallcap" />
+  <上市公司 代码="EWY" 名称="South Korea Index MSCI Ishares" />
+  <上市公司 代码="EWZ" 名称="Brazil Index MSCI Ishares" />
+  <上市公司 代码="EWZS" 名称="Brazil Smallcap Index MSCI Ishares" />
+  <上市公司 代码="EXE" 名称="Crexendo Inc" />
+  <上市公司 代码="EXI" 名称="S&amp;P Global Industrials Ishares" />
+  <上市公司 代码="EXT" 名称="Total Earnings Wisdomtree" />
+  <上市公司 代码="EZA" 名称="South Africa Index MSCI Ishares" />
+  <上市公司 代码="EZJ" 名称="Ultra MSCI Japan Proshares" />
+  <上市公司 代码="EZM" 名称="Midcap Earnings Wisdomtree" />
+  <上市公司 代码="EZU" 名称="EMU Index MSCI Ishares" />
+  <上市公司 代码="EZY" 名称="Largecap Value Wisdomtree" />
+  <上市公司 代码="FAB" 名称="Multi Cap Value Alphadex First Trust" />
+  <上市公司 代码="FAD" 名称="Multi Cap Growth Alphadex First Trust" />
+  <上市公司 代码="FAN" 名称="Global Wind Energy First Trust" />
+  <上市公司 代码="FAS" 名称="Financial Bull 3X Direxion" />
+  <上市公司 代码="FAUS" 名称="Australia Alphadex First Trust" />
+  <上市公司 代码="FAX" 名称="Aberdeen Asia-Pacific" />
+  <上市公司 代码="FAZ" 名称="Financial Bear 3X Direxion" />
+  <上市公司 代码="FBG" 名称="Fisher Enhanced Big Cap Growth" />
+  <上市公司 代码="FBT" 名称="NYSE Arca Biotech Index First Trust" />
+  <上市公司 代码="FBZ" 名称="Brazil Alphadex First Trust" />
+  <上市公司 代码="FCA" 名称="China Alphadex First Trust" />
+  <上市公司 代码="FCAN" 名称="Canada Alphadex First Trust" />
+  <上市公司 代码="FCG" 名称="ISE Revere Natural Gas First Trust" />
+  <上市公司 代码="FCO" 名称="Aberdeen Global" />
+  <上市公司 代码="FCOM" 名称="Fidelity MSCI Telecommunication" />
+  <上市公司 代码="FCSC" 名称="Fibrocell Science" />
+  <上市公司 代码="FDD" 名称="Stoxx Euro Select Div First Trust" />
+  <上市公司 代码="FDIS" 名称="Fidelity MSCI Consumer Discreti" />
+  <上市公司 代码="FDL" 名称="Mstar Div Leaders First Trust" />
+  <上市公司 代码="FDM" 名称="DJ Select Microcap First Trust" />
+  <上市公司 代码="FDN" 名称="DJ Internet Index First Trust" />
+  <上市公司 代码="FDT" 名称="Dev Mkts Ex-US Alphadex First Trust" />
+  <上市公司 代码="FDTS" 名称="Dev Mkts Ex-US SC Alphadex First Trust" />
+  <上市公司 代码="FEEU" 名称="Barclays ETN Fi Enhanced Europe" />
+  <上市公司 代码="FEM" 名称="Emrg Mkts Alphadex First Trust" />
+  <上市公司 代码="FEMS" 名称="Emrg Mkts SC Alphadex First Trust" />
+  <上市公司 代码="FEN" 名称="Energy Income and Growth Fund" />
+  <上市公司 代码="FENY" 名称="Fidelity MSCI Energy Index ETF" />
+  <上市公司 代码="FEP" 名称="Europe Alphadex First Trust" />
+  <上市公司 代码="FEU" 名称="SPDR Stoxx Europe 50" />
+  <上市公司 代码="FEX" 名称="Largecap Core Alphadex First Trust" />
+  <上市公司 代码="FEZ" 名称="SPDR Euro Stoxx 50" />
+  <上市公司 代码="FFR" 名称="FTSE En Dev Mkts Rel Est First Trust" />
+  <上市公司 代码="FGD" 名称="DJ Global Select Dividend First Trust" />
+  <上市公司 代码="FGM" 名称="Germany Alphadex First Trust" />
+  <上市公司 代码="FHK" 名称="Hong Kong Alphadex First Trust" />
+  <上市公司 代码="FHLC" 名称="Fidelity MSCI Health Care Index" />
+  <上市公司 代码="FIBG" 名称="CS Fi Enhanced Big Cap Growth E" />
+  <上市公司 代码="FIDU" 名称="Fidelity MSCI Industrials Index" />
+  <上市公司 代码="FIEG" 名称="Fi Enhanced Gloabl High Yield E" />
+  <上市公司 代码="FIEU" 名称="Fi Enhanced Europe 50 ETN" />
+  <上市公司 代码="FIGY" 名称="Barclays ETN Fi Enhanced Global" />
+  <上市公司 代码="FILL" 名称="Global Energy Producers MSCI Ishares" />
+  <上市公司 代码="FINF" 名称="Short 30 Year Tips/Tsy Spread Proshares" />
+  <上市公司 代码="FINU" 名称="Proshares Ultrapro Financials" />
+  <上市公司 代码="FINZ" 名称="Proshares Ultrapro Short Financ" />
+  <上市公司 代码="FISK" 名称="Empire State Realty Op L.P. Se" />
+  <上市公司 代码="FIVZ" 名称="3-7 Year U.S. Treasury Index ETF Pimco" />
+  <上市公司 代码="FIW" 名称="ISE Water Idx First Trust" />
+  <上市公司 代码="FJP" 名称="Japan Alphadex First Trust" />
+  <上市公司 代码="FKO" 名称="South Korea Alphadex First Trust" />
+  <上市公司 代码="FKU" 名称="United Kingdom Alphadex First Trust" />
+  <上市公司 代码="FLAG" 名称="Forensic Accounting Exchange TR" />
+  <上市公司 代码="FLAT" 名称="US Trsy Flattener ETN Ipath" />
+  <上市公司 代码="FLM" 名称="ISE Glbl Engnrg &amp; Const First Trust" />
+  <上市公司 代码="FLN" 名称="Latin America Alphadex First Trust" />
+  <上市公司 代码="FLOT" 名称="Floating Rate Note Ishares" />
+  <上市公司 代码="FLRN" 名称="SPDR Inv Gr Floating Rt ETF Barclays Capital" />
+  <上市公司 代码="FLTR" 名称="Market Vectors Investment Grade" />
+  <上市公司 代码="FM" 名称="Ishares MSCI Frontier 100" />
+  <上市公司 代码="FMAT" 名称="Fidelity MSCI Materials Index E" />
+  <上市公司 代码="FMF" 名称="First Trust Morningstar Managed" />
+  <上市公司 代码="FMK" 名称="Megacap Alphadex First Trust" />
+  <上市公司 代码="FNCL" 名称="Fidelity MSCI Financials Index" />
+  <上市公司 代码="FNDA" 名称="Schwab Fundamental U.S. Small Cap" />
+  <上市公司 代码="FNDB" 名称="Schwab Fundamental U.S. Broad Market" />
+  <上市公司 代码="FNDC" 名称="Schwab Fundamental International" />
+  <上市公司 代码="FNDE" 名称="Schwab Fundamental Emerging Market" />
+  <上市公司 代码="FNDF" 名称="Schwab Fundamental International" />
+  <上市公司 代码="FNDX" 名称="Schwab Fundamental U.S. Large Cap" />
+  <上市公司 代码="FNI" 名称="ISE Chindia First Trust" />
+  <上市公司 代码="FNIO" 名称="FTSE Nareit Industrl/Offc Cp Idx Ishares" />
+  <上市公司 代码="FNK" 名称="Midcap Value Alphadex First Trust" />
+  <上市公司 代码="FNX" 名称="Midcap Core Alphadex First Trust" />
+  <上市公司 代码="FNY" 名称="Midcap Growth Alphadex First Trust" />
+  <上市公司 代码="FOIL" 名称="Aluminum Pure Beta ETN Ipath" />
+  <上市公司 代码="FORX" 名称="Pimco Foreign Currency Strategy" />
+  <上市公司 代码="FPA" 名称="Asia Pacific Ex-Jap Alphadex First Trust" />
+  <上市公司 代码="FPE" 名称="First Trust Preferred Securitie" />
+  <上市公司 代码="FPI" 名称="Farmland Partners Inc." />
+  <上市公司 代码="FPP" 名称="Fieldpoint Petroleum Corp" />
+  <上市公司 代码="FPP.W" 名称="Fieldpoint Petroleum Warrant" />
+  <上市公司 代码="FPP/WS" 名称="FieldPoint Petroleum Corporation" />
+  <上市公司 代码="FPX" 名称="US Ipo Index First Trust" />
+  <上市公司 代码="FRAK" 名称="Unconventl Oil &amp; Gas ETF Market Vectors" />
+  <上市公司 代码="FRD" 名称="Friedman Industries Inc" />
+  <上市公司 代码="FRI" 名称="S&amp;P REIT Index First Trust" />
+  <上市公司 代码="FRN" 名称="Frontier Markets Guggenheim" />
+  <上市公司 代码="FRS" 名称="Frisch's Restaurants" />
+  <上市公司 代码="FSI" 名称="Flexible Solutions International Inc" />
+  <上市公司 代码="FSP" 名称="Franklin Street Properties" />
+  <上市公司 代码="FSTA" 名称="Fidelity MSCI Consumer Staples" />
+  <上市公司 代码="FSZ" 名称="Switzerland Alphadex First Trust" />
+  <上市公司 代码="FTA" 名称="Largecap Value Opp Alphadex First Trust" />
+  <上市公司 代码="FTC" 名称="Largecap Growth Opp Alphadex First Trust" />
+  <上市公司 代码="FTEC" 名称="Fidelity MSCI Information Techn" />
+  <上市公司 代码="FTF" 名称="Franklin Templeton Limited Duration" />
+  <上市公司 代码="FTSD" 名称="Franklin Short Duration U.S. Go" />
+  <上市公司 代码="FTW" 名称="Taiwan Alphadex First Trust" />
+  <上市公司 代码="FTY" 名称="FTSE Nareit Real Estate 50 Ishares" />
+  <上市公司 代码="FU" 名称="Fab Universal Corp. Common Stoc" />
+  <上市公司 代码="FUD" 名称="CMCI Food TR ETN UBS E-Tracs" />
+  <上市公司 代码="FUE" 名称="MLCX Biofuels Index TR ETN Elements" />
+  <上市公司 代码="FUTY" 名称="Fidelity MSCI Utilities Index E" />
+  <上市公司 代码="FVD" 名称="Value Line Dividend Index First Trust" />
+  <上市公司 代码="FVI" 名称="Value Line Equity Allc Index First Trust" />
+  <上市公司 代码="FVL" 名称="Value Line 100 ETF First Trust" />
+  <上市公司 代码="FWDB" 名称="Madrona Global Bond ETF" />
+  <上市公司 代码="FWDD" 名称="Madrona Domestic ETF" />
+  <上市公司 代码="FWDI" 名称="Madrona International ETF" />
+  <上市公司 代码="FWV" 名称="First West Virginia Bancorp" />
+  <上市公司 代码="FXA" 名称="Australian Dollar Trust" />
+  <上市公司 代码="FXB" 名称="British Pound Sterling Trust" />
+  <上市公司 代码="FXC" 名称="Canadian Dollar Trust" />
+  <上市公司 代码="FXCH" 名称="Chinese Renminbi Trust" />
+  <上市公司 代码="FXD" 名称="Consumer Disc Alphadex First Trust" />
+  <上市公司 代码="FXE" 名称="Euro Trust" />
+  <上市公司 代码="FXF" 名称="Swiss Franc Trust" />
+  <上市公司 代码="FXG" 名称="Consumer Staples Alphadex First Trust" />
+  <上市公司 代码="FXH" 名称="Healthcare Alphadex First Trust" />
+  <上市公司 代码="FXI" 名称="FTSE China 25 Index Fund Ishares" />
+  <上市公司 代码="FXL" 名称="Technology Alphadex First Trust" />
+  <上市公司 代码="FXN" 名称="Energy Alphadex First Trust" />
+  <上市公司 代码="FXO" 名称="Financial Alphadex First Trust" />
+  <上市公司 代码="FXP" 名称="Ultrashort FTSE China 25 Proshares" />
+  <上市公司 代码="FXR" 名称="Indust/Producer Dur Alphadex First Trust" />
+  <上市公司 代码="FXS" 名称="Swedish Krona Trust" />
+  <上市公司 代码="FXSG" 名称="Currencyshares Singapore Dollar" />
+  <上市公司 代码="FXU" 名称="Utilities Alphadex First Trust" />
+  <上市公司 代码="FXY" 名称="Japanese Yen Trust" />
+  <上市公司 代码="FXZ" 名称="Materials Alphadex First Trust" />
+  <上市公司 代码="FYC" 名称="Smallcap Growth Alphadex First Trust" />
+  <上市公司 代码="FYLD" 名称="Cambria Foreign Shareholder Yie" />
+  <上市公司 代码="FYT" 名称="Smallcap Value Alphadex First Trust" />
+  <上市公司 代码="FYX" 名称="Smallcap Core Alphadex First Trust" />
+  <上市公司 代码="GAF" 名称="SPDR S&amp;P Emrg Middle East &amp; Africa" />
+  <上市公司 代码="GAL" 名称="SPDR SSGA Global Allocation ETF" />
+  <上市公司 代码="GASL" 名称="Nat Gas Bull 3X Rltd Direxion" />
+  <上市公司 代码="GASX" 名称="Nat Gas Bear 3X Rltd Direxion" />
+  <上市公司 代码="GAZ" 名称="DJ-UBS Natural Gas TR Sub-Idx ETN Ipath" />
+  <上市公司 代码="GBB" 名称="GBP/USD Exchange Rate ETN Ipath" />
+  <上市公司 代码="GBF" 名称="Government/Credit Bond Ishares" />
+  <上市公司 代码="GBR" 名称="New Concept Energy Inc" />
+  <上市公司 代码="GCC" 名称="Continuous Commodity Index" />
+  <上市公司 代码="GCE" 名称="CEF GS Connect ETN Claymore" />
+  <上市公司 代码="GDAY" 名称="Proshares Ultra Australian Doll" />
+  <上市公司 代码="GDX" 名称="Gold Miners ETF Market Vectors" />
+  <上市公司 代码="GDXJ" 名称="Junior Gold Miners ETF Market Vectors" />
+  <上市公司 代码="GERJ" 名称="Germany Smallcap ETF Market Vectors" />
+  <上市公司 代码="GEUR" 名称="Advisorshares Gartman Gold/Euro" />
+  <上市公司 代码="GEX" 名称="Global Alternatve Energy ETF Market Vectors" />
+  <上市公司 代码="GGBP" 名称="Advisorshares Gartman Gold/Poun" />
+  <上市公司 代码="GGGG" 名称="G-X Pure Gold Miners ETF" />
+  <上市公司 代码="GGN" 名称="Gamco Global Gold Natural Resources" />
+  <上市公司 代码="GGN-B" 名称="Gamco Global Gold Natural Reou" />
+  <上市公司 代码="GGOV" 名称="Germany Sov/Sub-Sov Debt ETF Proshares" />
+  <上市公司 代码="GHM" 名称="Graham Corp" />
+  <上市公司 代码="GHYG" 名称="Global High Yield Corporate Bond Fund Ishares" />
+  <上市公司 代码="GIG" 名称="Gigoptix Inc" />
+  <上市公司 代码="GII" 名称="SPDR FTSE Global Infra 100" />
+  <上市公司 代码="GIVE" 名称="Advisorshares Global Echo ETF" />
+  <上市公司 代码="GLD" 名称="SPDR Gold" />
+  <上市公司 代码="GLDE" 名称="Advisorshares International Gol" />
+  <上市公司 代码="GLDL" 名称="Direxion Daily Gold Bull 3X Sha" />
+  <上市公司 代码="GLDS" 名称="Direxion Daily Gold Bear 3X Sha" />
+  <上市公司 代码="GLDX" 名称="G-X Gold Explorers ETF" />
+  <上市公司 代码="GLL" 名称="Ultrashort Gold Proshares" />
+  <上市公司 代码="GLO" 名称="Clough Global Opportunities Fund" />
+  <上市公司 代码="GLOW" 名称="Glowpoint Inc" />
+  <上市公司 代码="GLQ" 名称="Clough Global Equity Fund" />
+  <上市公司 代码="GLTR" 名称="Physical Precious Metals Basket" />
+  <上市公司 代码="GLU" 名称="Gabelli Global Utility" />
+  <上市公司 代码="GLU-A" 名称="The Gabelli Global Utility and" />
+  <上市公司 代码="GLV" 名称="Clough Global Allocation Fund" />
+  <上市公司 代码="GMF" 名称="SPDR S&amp;P Emerging Asia Pacific" />
+  <上市公司 代码="GMFS" 名称="SPDR S&amp;P Smallcap EM Asia Pacific ETF" />
+  <上市公司 代码="GML" 名称="SPDR S&amp;P Emerging Latin America" />
+  <上市公司 代码="GMM" 名称="SPDR S&amp;P Emerging Markets" />
+  <上市公司 代码="GMMB" 名称="Columbia Intermediate Municipal Bond ETF" />
+  <上市公司 代码="GMO" 名称="General Moly Inc" />
+  <上市公司 代码="GMTB" 名称="Columbia Core Bond ETF" />
+  <上市公司 代码="GNAT" 名称="Global Natural Resources Wisdomtree" />
+  <上市公司 代码="GNR" 名称="SPDR S&amp;P Global Natural Resources" />
+  <上市公司 代码="GORO" 名称="Gold Resource Corp" />
+  <上市公司 代码="GOVT" 名称="US Trsy Bond Ishares" />
+  <上市公司 代码="GPL" 名称="Great Panther Silver Limited" />
+  <上市公司 代码="GQRE" 名称="Flexshares Global Quality Real" />
+  <上市公司 代码="GRC" 名称="Gorman-Rupp Company" />
+  <上市公司 代码="GREK" 名称="G-X FTSE Greece 20 ETF" />
+  <上市公司 代码="GRES" 名称="IQ Global Resources ETF" />
+  <上市公司 代码="GRF" 名称="Eagle Capital Growth Fund" />
+  <上市公司 代码="GRH" 名称="Greenhunter Energy Inc" />
+  <上市公司 代码="GRH-C" 名称="Greenhunter Energy Inc 10% Seri" />
+  <上市公司 代码="GRI" 名称="Global Realty Majors Cohen &amp; Steers ETF" />
+  <上市公司 代码="GRN" 名称="Global Carbon ETN Ipath" />
+  <上市公司 代码="GRU" 名称="MLCX Grains Index TR ETN Elements" />
+  <上市公司 代码="GRWN" 名称="Softs Pure Beta ETN Ipath" />
+  <上市公司 代码="GSAT" 名称="Globalstar" />
+  <上市公司 代码="GSAX" 名称="Alps GS Momentum Builder Asia E" />
+  <上市公司 代码="GSB" 名称="Globalscape" />
+  <上市公司 代码="GSC" 名称="GS Connect S&amp;P GSCI Enh Commodity TR ETN" />
+  <上市公司 代码="GSG" 名称="S&amp;P GSCI Commodity-Indexed Trust Ishares" />
+  <上市公司 代码="GSGO" 名称="Alps GS Momentum Builders Growt" />
+  <上市公司 代码="GSMA" 名称="Alps GS Momentum Builder Multi-" />
+  <上市公司 代码="GSP" 名称="S&amp;P GSCI Total Return Index ETN Ipath" />
+  <上市公司 代码="GSRA" 名称="Alps GS Risk Adjusted Return U." />
+  <上市公司 代码="GSS" 名称="Golden Star Resources Ltd" />
+  <上市公司 代码="GST" 名称="Gastar Exploration" />
+  <上市公司 代码="GST-A" 名称="Gastar Exploration 8.625% Serie" />
+  <上市公司 代码="GST-B" 名称="Gastar Exploration USA Inc. Pfd" />
+  <上市公司 代码="GSV" 名称="Gold Standard Ventures Corp" />
+  <上市公司 代码="GSY" 名称="Guggenheim Enhanced Short Duration ETF" />
+  <上市公司 代码="GTAA" 名称="Cambria Global Tactical ETF" />
+  <上市公司 代码="GTE" 名称="Gran Tierra Energy Inc" />
+  <上市公司 代码="GTIP" 名称="Global Inflation-Linked Bond Fund Ishares" />
+  <上市公司 代码="GTT" 名称="Global Telcom &amp; Technology Inc" />
+  <上市公司 代码="GTU" 名称="Central Gold Trust" />
+  <上市公司 代码="GUNR" 名称="Mstar Global Upstrm Nat Res ETF Flexshares" />
+  <上市公司 代码="GUR" 名称="SPDR S&amp;P Emerging Europe" />
+  <上市公司 代码="GURI" 名称="Global X Guru International Ind" />
+  <上市公司 代码="GURU" 名称="Global X Guru Index ETF" />
+  <上市公司 代码="GURX" 名称="Global X Guru Small Cap Index E" />
+  <上市公司 代码="GV" 名称="Goldfield Corp" />
+  <上市公司 代码="GVAL" 名称="Cambria Global Value ETF" />
+  <上市公司 代码="GVI" 名称="Interm Govt/Credit Bond Ishares" />
+  <上市公司 代码="GVP" 名称="GSE Systems" />
+  <上市公司 代码="GVT" 名称="Columbia Select Large Cap Value ETF" />
+  <上市公司 代码="GWL" 名称="SPDR S&amp;P World Ex-US" />
+  <上市公司 代码="GWX" 名称="SPDR S&amp;P Smallcap International" />
+  <上市公司 代码="GXC" 名称="SPDR S&amp;P China" />
+  <上市公司 代码="GXF" 名称="G-X FTSE Nordic Region ETF" />
+  <上市公司 代码="GXG" 名称="G-X FTSE Colombia 20 ETF" />
+  <上市公司 代码="GYEN" 名称="Advisorshares Gartman Gold/Yen" />
+  <上市公司 代码="GYLD" 名称="Arrow DJ Global Yield ETF" />
+  <上市公司 代码="HAO" 名称="China Smallcap Guggenheim" />
+  <上市公司 代码="HAP" 名称="Market Vectors Rve Hard Assets Producers ETF" />
+  <上市公司 代码="HDG" 名称="Hedge Replication ETF Proshares" />
+  <上市公司 代码="HDGE" 名称="Active Bear ETF" />
+  <上市公司 代码="HDGI" 名称="Advisorshares Athena Internatio" />
+  <上市公司 代码="HDV" 名称="High Dividend Equity Ishares" />
+  <上市公司 代码="HEB" 名称="Hemispherx Biopharma" />
+  <上市公司 代码="HECO" 名称="Huntington Ecological Strategy" />
+  <上市公司 代码="HEDJ" 名称="Intl Hedged Equity Wisdomtree" />
+  <上市公司 代码="HEFA" 名称="Ishares Currency Hedged MSCI Ea" />
+  <上市公司 代码="HEVY" 名称="Industrial Metals Pure Beta ETN Ipath" />
+  <上市公司 代码="HEWG" 名称="Ishares Currency Hedged MSCI Ge" />
+  <上市公司 代码="HEWJ" 名称="Ishares Currency Hedged MSCI JA" />
+  <上市公司 代码="HFIN" 名称="Horizons S&amp;P Financial Select S" />
+  <上市公司 代码="HGI" 名称="Intl Multi-Asset Inc Guggenheim" />
+  <上市公司 代码="HH" 名称="Hooper Holmes" />
+  <上市公司 代码="HILO" 名称="Low Volatility EM Dividend ETF Egshares" />
+  <上市公司 代码="HKOR" 名称="Horizons Korea Kospi 200 ETF" />
+  <上市公司 代码="HLM" 名称="Hillman Group Capital Trust" />
+  <上市公司 代码="HLM.P" 名称="Hillman Gr Cap 11.6" />
+  <上市公司 代码="HMG" 名称="Hmg/Courtland Properties" />
+  <上市公司 代码="HNW" 名称="Pioneer Diversified High Income Trust" />
+  <上市公司 代码="HOLD" 名称="Advisorshares Sage Core Reserve" />
+  <上市公司 代码="HRT" 名称="Arrhythmia Research Technology Inc" />
+  <上市公司 代码="HSPX" 名称="Horizons S&amp;P 500 Covered Call" />
+  <上市公司 代码="HTM" 名称="U.S. Geothermal Inc" />
+  <上市公司 代码="HUSA" 名称="Houston American Energy Corp" />
+  <上市公司 代码="HUSE" 名称="Huntington US Equity Rotation S" />
+  <上市公司 代码="HVPW" 名称="U.S. Equity High Volatility Put" />
+  <上市公司 代码="HWG" 名称="Hallwood Group Inc" />
+  <上市公司 代码="HYD" 名称="High-Yield Muni ETF Market Vectors" />
+  <上市公司 代码="HYEM" 名称="Emrg Mkts High Yield Bd ETF Market Vectors" />
+  <上市公司 代码="HYG" 名称="Iboxx $ High Yield Corporate Bd Ishares" />
+  <上市公司 代码="HYHG" 名称="Proshares High Yield Interest R" />
+  <上市公司 代码="HYLD" 名称="Peritus High Yield ETF" />
+  <上市公司 代码="HYMB" 名称="SPDR S&amp;P High Yield Municipal Bd" />
+  <上市公司 代码="HYS" 名称="0-5 Year Hi Yld Corp Bond Idx ETF Pimco" />
+  <上市公司 代码="HYXU" 名称="Global Ex-US High Yield Corp Bond Fund Ishares" />
+  <上市公司 代码="IAF" 名称="Aberdeen Australia Equity Fund Inc" />
+  <上市公司 代码="IAI" 名称="DJ US Broker-Dealers Ishares" />
+  <上市公司 代码="IAK" 名称="DJ US Insurance Ishares" />
+  <上市公司 代码="IAT" 名称="DJ US Regional Banks Ishares" />
+  <上市公司 代码="IAU" 名称="Gold Trust Ishares" />
+  <上市公司 代码="IBCB" 名称="Ishares 2016 Investment Grade C" />
+  <上市公司 代码="IBCC" 名称="Ishares 2018 Investment Grade C" />
+  <上市公司 代码="IBCD" 名称="Ishares 2020 Investment Grade C" />
+  <上市公司 代码="IBCE" 名称="Ishares 2023 Investment Grade C" />
+  <上市公司 代码="IBDA" 名称="Ishares Inc. Isharesbond 2016" />
+  <上市公司 代码="IBDB" 名称="Ishares Inc. Isharesbond 2018" />
+  <上市公司 代码="IBDC" 名称="Ishares Inc. Isharesbond 2020" />
+  <上市公司 代码="IBDD" 名称="Ishares Inc. Isharesbond 2023" />
+  <上市公司 代码="IBIO" 名称="Ibio Inc" />
+  <上市公司 代码="IBND" 名称="SPDR Intl Corp Bond Barclays Capital" />
+  <上市公司 代码="IBO" 名称="IBO (Listing Market - NYSE Amex Network B F)" />
+  <上市公司 代码="ICF" 名称="Realty Majors Cohen &amp; Steers Ishares" />
+  <上市公司 代码="ICH" 名称="Investors Capital Holdings" />
+  <上市公司 代码="ICI" 名称="Optimized Currency Carry ETN Ipath" />
+  <上市公司 代码="ICN" 名称="Wisdomtree Indian Rupee Fund" />
+  <上市公司 代码="ICOL" 名称="Ishares MSCI Colombia Capped" />
+  <上市公司 代码="ICSH" 名称="Ishares Liquidity Income ETF" />
+  <上市公司 代码="IDHB" 名称="S&amp;P Intl Dev High Beta Powershares" />
+  <上市公司 代码="IDHQ" 名称="S&amp;P Intl Dev High Quality Powershares" />
+  <上市公司 代码="IDI" 名称="Searchmedia Holdings" />
+  <上市公司 代码="IDLV" 名称="S&amp;P Intl Dev Low Volatility Powershares" />
+  <上市公司 代码="IDN" 名称="Intellicheck Mobilisia" />
+  <上市公司 代码="IDOG" 名称="Alps International Sector Divid" />
+  <上市公司 代码="IDU" 名称="DJ US Utilities Ishares" />
+  <上市公司 代码="IDV" 名称="DJ Intl Select Div Idx Ishares" />
+  <上市公司 代码="IDX" 名称="Indonesia Index ETF Market Vectors" />
+  <上市公司 代码="IDXJ" 名称="Indonesia Smallcap ETF Market Vectors" />
+  <上市公司 代码="IEC" 名称="IEC Electronics" />
+  <上市公司 代码="IEF" 名称="7-10 Yr Trsy Ishares" />
+  <上市公司 代码="IEFA" 名称="Ishares Core MSCI EAFE ETF" />
+  <上市公司 代码="IEI" 名称="3-7 Year Treasury Bond Ishares" />
+  <上市公司 代码="IEIL" 名称="Ishares Enhanced International" />
+  <上市公司 代码="IEIS" 名称="Ishares Enhanced International" />
+  <上市公司 代码="IELG" 名称="Ishares Enhanced U.S. Large-Cap" />
+  <上市公司 代码="IEMF" 名称="Egshares Tcw EM Intermediate Te" />
+  <上市公司 代码="IEMG" 名称="Ishares Core MSCI Emerging Mark" />
+  <上市公司 代码="IEO" 名称="DJ US Oil &amp; Gas Ex Index Ishares" />
+  <上市公司 代码="IESM" 名称="Ishares Enhanced U.S. Small-Cap" />
+  <上市公司 代码="IEV" 名称="S&amp;P Europe 350 Index Ishares" />
+  <上市公司 代码="IEZ" 名称="DJ US Oil Equipment Index Ishares" />
+  <上市公司 代码="IF" 名称="Aberdeen Indonesia Fund" />
+  <上市公司 代码="IFMI" 名称="Institutional Financial Markets" />
+  <上市公司 代码="IG" 名称="IGI Laboratories" />
+  <上市公司 代码="IGC" 名称="India Globalization Capital Inc" />
+  <上市公司 代码="IGC.W" 名称="India Globalization Capital" />
+  <上市公司 代码="IGC/WS" 名称="India Globalization Capital Inc." />
+  <上市公司 代码="IGE" 名称="S&amp;P Natural Resources North Amer Ishares" />
+  <上市公司 代码="IGF" 名称="S&amp;P Global Infrastructure Index Ishares" />
+  <上市公司 代码="IGHG" 名称="Proshares Investment Grade-Inte" />
+  <上市公司 代码="IGM" 名称="S&amp;P Technology North Amer Ishares" />
+  <上市公司 代码="IGN" 名称="S&amp;P Tech-Multimd Ntwk North Amer Ishares" />
+  <上市公司 代码="IGS" 名称="Short Investment Grade Corp Proshares" />
+  <上市公司 代码="IGU" 名称="Ultra Investment Grade Corp Proshares" />
+  <上市公司 代码="IGV" 名称="S&amp;P Tech-Software North Amer Ishares" />
+  <上市公司 代码="IHDG" 名称="Wisdomtree International Hedged" />
+  <上市公司 代码="IHE" 名称="DJ US Pharmaceuticals Ishares" />
+  <上市公司 代码="IHF" 名称="DJ US Healthcare Provider Ishares" />
+  <上市公司 代码="IHI" 名称="DJ US Medical Devices Ishares" />
+  <上市公司 代码="IHT" 名称="Innsuites Hospitality Trust" />
+  <上市公司 代码="IHY" 名称="Intl High Yield Bond ETF Market Vectors" />
+  <上市公司 代码="IJH" 名称="S&amp;P Midcap 400 Index Ishares" />
+  <上市公司 代码="IJJ" 名称="S&amp;P Midcap 400 Value Index Ishares" />
+  <上市公司 代码="IJK" 名称="S&amp;P Midcap 400 Growth Index Ishares" />
+  <上市公司 代码="IJNK" 名称="SPDR Barclays International Hig" />
+  <上市公司 代码="IJR" 名称="S&amp;P Smallcap 600 Index Ishares" />
+  <上市公司 代码="IJS" 名称="S&amp;P Smallcap 600 Value Index Ishares" />
+  <上市公司 代码="IJT" 名称="S&amp;P Smallcap 600 Growth Ishares" />
+  <上市公司 代码="ILB" 名称="Global Advantage Inflation-Linked Bd Strat Fd Pi" />
+  <上市公司 代码="ILF" 名称="S&amp;P Latin Amer 40 Index Ishares" />
+  <上市公司 代码="ILTB" 名称="10+ Year Government/Credit Bond Ishares" />
+  <上市公司 代码="IMH" 名称="Impac Mortgage Holdings" />
+  <上市公司 代码="IMLP" 名称="Ipath S&amp;P MLP ETN" />
+  <上市公司 代码="IMO" 名称="Imperial Oil Limited" />
+  <上市公司 代码="IMUC" 名称="Immunocellular Thera" />
+  <上市公司 代码="INCO" 名称="India Consumer Egshares" />
+  <上市公司 代码="INDA" 名称="India Index Fund MSCI Ishares" />
+  <上市公司 代码="INDL" 名称="India Bull 3X Direxion" />
+  <上市公司 代码="INFL" 名称="DB US Inflation ETN Powershares" />
+  <上市公司 代码="INFU" 名称="Infusystems Holdings" />
+  <上市公司 代码="INKM" 名称="SPDR SSGA Income Allocation ETF" />
+  <上市公司 代码="INO" 名称="Inovio Pharmaceuticals" />
+  <上市公司 代码="INP" 名称="India Index ETN MSCI Ipath" />
+  <上市公司 代码="INR" 名称="INR/USD ETN Market Vectors" />
+  <上市公司 代码="INS" 名称="Intelligent Systems Corp" />
+  <上市公司 代码="INTT" 名称="Intest Corp" />
+  <上市公司 代码="INUV" 名称="Inuvo Inc" />
+  <上市公司 代码="INXX" 名称="India Infrastructure Egshares" />
+  <上市公司 代码="INY" 名称="SPDR NY Muni Bd Barclays Capital" />
+  <上市公司 代码="IOIL" 名称="IQ Global Oil Smallcap ETF" />
+  <上市公司 代码="IOO" 名称="S&amp;P Global 100 Index Ishares" />
+  <上市公司 代码="IOT" 名称="Income Opportunity Realty Trust" />
+  <上市公司 代码="IPB" 名称="Merrill Lynch &amp; Co." />
+  <上市公司 代码="IPD" 名称="SPDR S&amp;P Cons Disc Sector International" />
+  <上市公司 代码="IPE" 名称="SPDR Tips Barclays Capital" />
+  <上市公司 代码="IPF" 名称="SPDR S&amp;P Financial Sector International" />
+  <上市公司 代码="IPFF" 名称="S&amp;P Intl Preferred Stock Index Ishares" />
+  <上市公司 代码="IPK" 名称="SPDR S&amp;P Technology Sector International" />
+  <上市公司 代码="IPN" 名称="SPDR S&amp;P Industrial Sector International" />
+  <上市公司 代码="IPO" 名称="Renaissance Ipo ETF" />
+  <上市公司 代码="IPS" 名称="SPDR S&amp;P Cons Stapl Sector International" />
+  <上市公司 代码="IPU" 名称="SPDR S&amp;P Utilities Sector International" />
+  <上市公司 代码="IPW" 名称="SPDR S&amp;P Energy Sector International" />
+  <上市公司 代码="IQDE" 名称="Flexshares International Qualit" />
+  <上市公司 代码="IQDF" 名称="Flexshares International Qualit" />
+  <上市公司 代码="IQDY" 名称="Flexshares International Qualit" />
+  <上市公司 代码="IRT" 名称="Independence Realty Trust Inc" />
+  <上市公司 代码="IRV" 名称="SPDR S&amp;P Materials Sector International" />
+  <上市公司 代码="IRY" 名称="SPDR S&amp;P Healthcare Sector International" />
+  <上市公司 代码="ISDR" 名称="Issuer Direct Corp" />
+  <上市公司 代码="ISL" 名称="Aberdeen Israel Fund" />
+  <上市公司 代码="ISR" 名称="Isoray Inc" />
+  <上市公司 代码="ISRA" 名称="Market Vectors Israel ETF" />
+  <上市公司 代码="IST" 名称="SPDR S&amp;P Telecom Sector International" />
+  <上市公司 代码="ISTB" 名称="Ishares Core Short-Term US Bond" />
+  <上市公司 代码="ITA" 名称="DJ US Aerospace &amp; Defense Ishares" />
+  <上市公司 代码="ITB" 名称="DJ US Home Construction Ishares" />
+  <上市公司 代码="ITE" 名称="SPDR Interm-Term Trs Barclays Capital" />
+  <上市公司 代码="ITF" 名称="S&amp;P/Topix 150 Index Ishares" />
+  <上市公司 代码="ITI" 名称="Iteris Inc" />
+  <上市公司 代码="ITIP" 名称="Intl Inflation-Linked Bond Fund Ishares" />
+  <上市公司 代码="ITLT" 名称="DB 3X Italian Treas Bond ETN Powershares" />
+  <上市公司 代码="ITLY" 名称="DB Italian Treas Bond ETN Powershares" />
+  <上市公司 代码="ITM" 名称="Intermediate Muni ETF Market Vectors" />
+  <上市公司 代码="ITOT" 名称="S&amp;P 1500 Index Ishares" />
+  <上市公司 代码="ITR" 名称="SPDR Interm-Term Corp Bnd Barclays Capital" />
+  <上市公司 代码="IVE" 名称="S&amp;P 500 Value Index Ishares" />
+  <上市公司 代码="IVOG" 名称="S&amp;P Midcap 400 Growth Idx ETF Vanguard" />
+  <上市公司 代码="IVOO" 名称="S&amp;P Midcap 400 Index ETF Vanguard" />
+  <上市公司 代码="IVOP" 名称="S&amp;P 500 VIX Inverse ST Fut ETN II Ipath" />
+  <上市公司 代码="IVOV" 名称="S&amp;P Midcap 400 Value Index ETF Vanguard" />
+  <上市公司 代码="IVV" 名称="S&amp;P 500 Index Ishares" />
+  <上市公司 代码="IVW" 名称="S&amp;P 500 Growth Index Ishares" />
+  <上市公司 代码="IWB" 名称="Russell 1000 Index Ishares" />
+  <上市公司 代码="IWC" 名称="Russell Microcap Index Ishares" />
+  <上市公司 代码="IWD" 名称="Russell 1000 Value Index Ishares" />
+  <上市公司 代码="IWF" 名称="Russell 1000 Growth Index Ishares" />
+  <上市公司 代码="IWL" 名称="Russell Top 200 Index Ishares" />
+  <上市公司 代码="IWM" 名称="Russell 2000 ETF" />
+  <上市公司 代码="IWN" 名称="Russell 2000 Value Index Ishares" />
+  <上市公司 代码="IWO" 名称="Russell 2000 Growth Index Ishares" />
+  <上市公司 代码="IWP" 名称="Russell Midcap Growth Index Ishares" />
+  <上市公司 代码="IWR" 名称="Russell Midcap Index Ishares" />
+  <上市公司 代码="IWS" 名称="Russell Midcap Value Index Ishares" />
+  <上市公司 代码="IWV" 名称="Russell 3000 Index Ishares" />
+  <上市公司 代码="IWW" 名称="Russell 3000 Value Index Ishares" />
+  <上市公司 代码="IWX" 名称="Russell Top 200 Value Index Ishares" />
+  <上市公司 代码="IWY" 名称="Russell Top 200 Growth Index Ishares" />
+  <上市公司 代码="IWZ" 名称="Russell 3000 Growth Index Ishares" />
+  <上市公司 代码="IXC" 名称="S&amp;P Global Energy Ishares" />
+  <上市公司 代码="IXG" 名称="S&amp;P Global Financials Ishares" />
+  <上市公司 代码="IXJ" 名称="S&amp;P Global Healthcare Ishares" />
+  <上市公司 代码="IXN" 名称="S&amp;P Global Technology Ishares" />
+  <上市公司 代码="IXP" 名称="S&amp;P Global Telecommunications Ishares" />
+  <上市公司 代码="IXUS" 名称="Ishares Core MSCI Total Interna" />
+  <上市公司 代码="IYC" 名称="DJ US Consumer Services Ishares" />
+  <上市公司 代码="IYE" 名称="DJ US Energy Ishares" />
+  <上市公司 代码="IYF" 名称="DJ US Financial Sector Ishares" />
+  <上市公司 代码="IYG" 名称="DJ US Financial Services Ishares" />
+  <上市公司 代码="IYH" 名称="DJ US Healthcare Ishares" />
+  <上市公司 代码="IYJ" 名称="DJ US Industrial Ishares" />
+  <上市公司 代码="IYK" 名称="DJ US Consumer Goods Ishares" />
+  <上市公司 代码="IYLD" 名称="Mstar Multi-Asset Income Index Ishares" />
+  <上市公司 代码="IYM" 名称="DJ US Basic Materials Ishares" />
+  <上市公司 代码="IYR" 名称="DJ US Real Estate Ishares" />
+  <上市公司 代码="IYT" 名称="DJ Transportation Average Ishares" />
+  <上市公司 代码="IYW" 名称="DJ US Technology Ishares" />
+  <上市公司 代码="IYY" 名称="DJ US Index Ishares" />
+  <上市公司 代码="IYZ" 名称="DJ US Telecom Ishares" />
+  <上市公司 代码="JDST" 名称="Direxion Daily Junior Gold Mine" />
+  <上市公司 代码="JEM" 名称="GEMS Index ETN Ipath" />
+  <上市公司 代码="JGBD" 名称="DB 3X Inver Jap Gov Bond ETN Powershares" />
+  <上市公司 代码="JGBL" 名称="DB Japan Gov Bond ETN Powershares" />
+  <上市公司 代码="JGBS" 名称="DB Inverse Jap Gov Bond ETN Powershares" />
+  <上市公司 代码="JGBT" 名称="DB 3X Japan Gov Bond ETN Powershares" />
+  <上市公司 代码="JJA" 名称="DJ-UBS Agriculture TR Sub-Idx ETN Ipath" />
+  <上市公司 代码="JJC" 名称="DJ-UBS Copper TR Sub-Idx ETN Ipath" />
+  <上市公司 代码="JJE" 名称="DJ-UBS Energy TR Sub-Idx ETN Ipath" />
+  <上市公司 代码="JJG" 名称="DJ-UBS Grains TR Sub-Idx ETN Ipath" />
+  <上市公司 代码="JJM" 名称="DJ-UBS Ind Metals TR Sub-Idx ETN Ipath" />
+  <上市公司 代码="JJN" 名称="DJ-UBS Nickel TR Sub-Idx ETN Ipath" />
+  <上市公司 代码="JJP" 名称="DJ-UBS Prec Metals TR Sub-Idx ETN Ipath" />
+  <上市公司 代码="JJS" 名称="DJ-UBS Softs TR Sub-Idx ETN Ipath" />
+  <上市公司 代码="JJT" 名称="DJ-UBS Tin TR Sub-Idx ETN Ipath" />
+  <上市公司 代码="JJU" 名称="DJ-UBS Aluminum TR Sub-Idx ETN Ipath" />
+  <上市公司 代码="JKD" 名称="Mstar Large Core Index Ishares" />
+  <上市公司 代码="JKE" 名称="Mstar Large Growth Index Ishares" />
+  <上市公司 代码="JKF" 名称="Mstar Large Value Index Ishares" />
+  <上市公司 代码="JKG" 名称="Mstar Mid Core Index Ishares" />
+  <上市公司 代码="JKH" 名称="Mstar Mid Growth Index Ishares" />
+  <上市公司 代码="JKI" 名称="Mstar Mid Value Index Ishares" />
+  <上市公司 代码="JKJ" 名称="Mstar Small Core Index Ishares" />
+  <上市公司 代码="JKK" 名称="Mstar Small Growth Index Ishares" />
+  <上市公司 代码="JKL" 名称="Mstar Small Value Index Ishares" />
+  <上市公司 代码="JNK" 名称="SPDR High Yield Bond Barclays Capital" />
+  <上市公司 代码="JNUG" 名称="Direxion Daily Junior Gold Mine" />
+  <上市公司 代码="JO" 名称="DJ-UBS Coffee TR Sub-Idx ETN Ipath" />
+  <上市公司 代码="JOB" 名称="General Employment Enterprises" />
+  <上市公司 代码="JPNL" 名称="Direxion Daily Japan Bull 3X Et" />
+  <上市公司 代码="JPNS" 名称="Direxion Daily Japan Bear 3X Sh" />
+  <上市公司 代码="JPP" 名称="SPDR Prime Japan" />
+  <上市公司 代码="JPX" 名称="Ultrashort MSCI Pacific Ex-Jpn Proshares" />
+  <上市公司 代码="JRS" 名称="Nuveen Real Estate Fund" />
+  <上市公司 代码="JSC" 名称="SPDR Smallcap Japan" />
+  <上市公司 代码="JUNR" 名称="Global X Junior Miners ETF" />
+  <上市公司 代码="JXI" 名称="S&amp;P Global Utilities Ishares" />
+  <上市公司 代码="JYN" 名称="JPY/USD Exchange Rate ETN Ipath" />
+  <上市公司 代码="KBA" 名称="Kraneshares Bosera MSCI China A" />
+  <上市公司 代码="KBE" 名称="SPDR S&amp;P Bank ETF" />
+  <上市公司 代码="KBWB" 名称="KBW Bank Powershares" />
+  <上市公司 代码="KBWC" 名称="KBW Capital Markets Powershares" />
+  <上市公司 代码="KBWD" 名称="KBW High Div Yield Financial Powershares" />
+  <上市公司 代码="KBWI" 名称="KBW Insurance Powershares" />
+  <上市公司 代码="KBWP" 名称="KBW Prop &amp; Casuality Insur Powershares" />
+  <上市公司 代码="KBWR" 名称="KBW Regional Banking Powershares" />
+  <上市公司 代码="KBWY" 名称="KBW Prem Yield Equity REIT Powershares" />
+  <上市公司 代码="KCE" 名称="SPDR S&amp;P Capital Markets ETF" />
+  <上市公司 代码="KFYP" 名称="Kraneshares Csi China Five Year" />
+  <上市公司 代码="KIE" 名称="SPDR S&amp;P Insurance ETF" />
+  <上市公司 代码="KIQ" 名称="Kelso Technologies Inc" />
+  <上市公司 代码="KLD" 名称="USA ESG Select Index MSCI Ishares" />
+  <上市公司 代码="KME" 名称="SPDR S&amp;P Mortgage Finance ETF" />
+  <上市公司 代码="KNOW" 名称="All Cap Insider Sentiment Direxion" />
+  <上市公司 代码="KOL" 名称="Coal ETF Market Vectors" />
+  <上市公司 代码="KOLD" 名称="Ultrashort DJ-UBS Natural Gas Proshares" />
+  <上市公司 代码="KORU" 名称="Direxion Daily South Korea Bull" />
+  <上市公司 代码="KORZ" 名称="Direxion Daily South Korea Bear" />
+  <上市公司 代码="KRE" 名称="SPDR S&amp;P Regional Banking ETF" />
+  <上市公司 代码="KROO" 名称="IQ Australia Smallcap ETF" />
+  <上市公司 代码="KRS" 名称="Short KBW Regional Banking Proshares" />
+  <上市公司 代码="KRU" 名称="Ultra KBW Regional Banking Proshares" />
+  <上市公司 代码="KWT" 名称="Solar Energy ETF Market Vectors" />
+  <上市公司 代码="KXI" 名称="S&amp;P Global Consumer Staples Ishares" />
+  <上市公司 代码="LAG" 名称="SPDR Aggregate Bond Barclays Capital" />
+  <上市公司 代码="LAQ" 名称="Latin America Equity Fund" />
+  <上市公司 代码="LATM" 名称="Latam Smallcap Index ETF Market Vectors" />
+  <上市公司 代码="LBJ" 名称="Latin America Bull 3X Direxion" />
+  <上市公司 代码="LBMH" 名称="Liberator Medical Hl" />
+  <上市公司 代码="LBND" 名称="DB 3X Long 25+ Yr Trsy Bd ETN Powershares" />
+  <上市公司 代码="LBY" 名称="Libbey Inc" />
+  <上市公司 代码="LD" 名称="DJ-UBS Lead TR Sub-Idx ETN Ipath" />
+  <上市公司 代码="LDUR" 名称="Pimco Low Duration Exchange-Tra" />
+  <上市公司 代码="LEDD" 名称="Lead Pure Beta ETN Ipath" />
+  <上市公司 代码="LEI" 名称="Lucas Energy" />
+  <上市公司 代码="LEMB" 名称="Emrg Mkts Local Cur Bond Ishares" />
+  <上市公司 代码="LEMF" 名称="Egshares Tcw EM Long Term Inves" />
+  <上市公司 代码="LGL" 名称="LGL Group" />
+  <上市公司 代码="LGL/WS" 名称="LGL Group, Inc. (The)" />
+  <上市公司 代码="LGLV" 名称="SPDR Russell 1000 Low Volatilit" />
+  <上市公司 代码="LIQT" 名称="Blue Moose Media" />
+  <上市公司 代码="LIT" 名称="G-X Lithium ETF" />
+  <上市公司 代码="LNG" 名称="Cheniere Energy" />
+  <上市公司 代码="LODE" 名称="Comstock Mining Inc" />
+  <上市公司 代码="LON" 名称="Loncor Resources Inc" />
+  <上市公司 代码="LOV" 名称="Spark Networks Plc" />
+  <上市公司 代码="LQD" 名称="Iboxx $ Invest Grade Corp Bond Ishares" />
+  <上市公司 代码="LSC" 名称="S&amp;P Cti ETN Elements" />
+  <上市公司 代码="LSG" 名称="Lake Shore Gold Corp" />
+  <上市公司 代码="LSTK" 名称="Livestock Pure Beta ETN Ipath" />
+  <上市公司 代码="LTL" 名称="Ultra Telecommunications Proshares" />
+  <上市公司 代码="LTPZ" 名称="15+ Year US Tips Index ETF Pimco" />
+  <上市公司 代码="LTS" 名称="Ladenburg Thalmann Financial Inc" />
+  <上市公司 代码="LTS-A" 名称="Ladenburg Thalmann Financial Se" />
+  <上市公司 代码="LVL" 名称="S&amp;P Global Dividend Opps Guggenheim" />
+  <上市公司 代码="LWC" 名称="SPDR Long Corpterm Bd Barclays Capital" />
+  <上市公司 代码="MAB" 名称="Eaton Vance Massachusetts Muni Bond" />
+  <上市公司 代码="MATH" 名称="Meidell Tactical Advantage ETF" />
+  <上市公司 代码="MATL" 名称="Basic Materials Bull 3X Direxion" />
+  <上市公司 代码="MBB" 名称="MBS Bond Ishares" />
+  <上市公司 代码="MBC" 名称="3% Min. Coupon Ppn On Russell 2000" />
+  <上市公司 代码="MBF" 名称="Min Coupon On S&amp;P Midcap 400 Index" />
+  <上市公司 代码="MBG" 名称="SPDR Mortgage Backed Bond Barclays Capital" />
+  <上市公司 代码="MCF" 名称="Contango Oil &amp; Gas Company" />
+  <上市公司 代码="MCHI" 名称="China Index MSCI Ishares" />
+  <上市公司 代码="MCRO" 名称="IQ Hedge Macro Tracker ETF" />
+  <上市公司 代码="MCZ" 名称="Mad Catz Interactive Inc" />
+  <上市公司 代码="MDD" 名称="SPDR S&amp;P Midcap International" />
+  <上市公司 代码="MDG.W" 名称="Medgenics Inc" />
+  <上市公司 代码="MDGN" 名称="Medgenics Inc. Common Stock" />
+  <上市公司 代码="MDGN/WS" 名称="Medgenics, Inc." />
+  <上市公司 代码="MDM" 名称="Mountain Province Diamonds Inc" />
+  <上市公司 代码="MDW" 名称="Midway Gold Corp" />
+  <上市公司 代码="MDY" 名称="SPDR S&amp;P Midcap 400" />
+  <上市公司 代码="MDYG" 名称="SPDR DJ Midcap Growth ETF" />
+  <上市公司 代码="MDYV" 名称="SPDR DJ Midcap Value ETF" />
+  <上市公司 代码="MEA" 名称="Metalico Inc" />
+  <上市公司 代码="MES" 名称="Gulf States Index ETF Market Vectors" />
+  <上市公司 代码="MFLA" 名称="Ipath Long Enhanced MSCI EAFE I" />
+  <上市公司 代码="MGC" 名称="Megacap 300 Index ETF Vanguard" />
+  <上市公司 代码="MGH" 名称="Minco Gold Corp" />
+  <上市公司 代码="MGK" 名称="Megacap 300 Growth Index ETF Vanguard" />
+  <上市公司 代码="MGN" 名称="Mines Management" />
+  <上市公司 代码="MGT" 名称="Mgt Capital Investments Inc" />
+  <上市公司 代码="MGV" 名称="Megacap 300 Value Index ETF Vanguard" />
+  <上市公司 代码="MHC" 名称="2% Minimum Coupon On SPX" />
+  <上市公司 代码="MHE" 名称="Massachusetts Health and Education Tax-Exempt TR" />
+  <上市公司 代码="MHH" 名称="Mastech Holdings Inc" />
+  <上市公司 代码="MHM" 名称="Bank of America Corp" />
+  <上市公司 代码="MHR-C" 名称="Magnum Hunter Resour" />
+  <上市公司 代码="MHR-D" 名称="Magnum Hunter Resources Corpora" />
+  <上市公司 代码="MHR-E" 名称="Magnum Hunter Resources Corpora" />
+  <上市公司 代码="MHW" 名称="Bank of America Corp" />
+  <上市公司 代码="MIDU" 名称="Direxion Daily Mid Cap Bull 3X Shares" />
+  <上市公司 代码="MIDZ" 名称="Midcap Bear 3X Direxion" />
+  <上市公司 代码="MINC" 名称="Advisorshares Newfleet Multi-Se" />
+  <上市公司 代码="MINT" 名称="Enhanced Short-Maturity Strgy ETF Pimco" />
+  <上市公司 代码="MIW" 名称="Eaton Vance Michigan Muni Bond Fund" />
+  <上市公司 代码="MJC" 名称="3% Min Coupon On Russell 2000 Index" />
+  <上市公司 代码="MKZ" 名称="Min Coupon Ppn On DOW Jones-UBS Commodity Index" />
+  <上市公司 代码="MLN" 名称="Long Municipal Index ETF Market Vectors" />
+  <上市公司 代码="MLPA" 名称="G-X MLP ETF" />
+  <上市公司 代码="MLPC" 名称="C-Tracks Etns Based On Performa" />
+  <上市公司 代码="MLPG" 名称="Alerian Natural Gas MLP ETN UBS E-Tracs" />
+  <上市公司 代码="MLPI" 名称="Alerian MLP Infrastrctr ETN UBS E-Tracs" />
+  <上市公司 代码="MLPJ" 名称="Global X Junior MLP ETF" />
+  <上市公司 代码="MLPL" 名称="2X Long Alerian MLP Infr ETN UBS E-Tracs" />
+  <上市公司 代码="MLPN" 名称="Cushing 30 MLP Index ETN Credit Suisse" />
+  <上市公司 代码="MLPS" 名称="1X Short Alerian MLP Infr ETN UBS E-Tracs" />
+  <上市公司 代码="MLPW" 名称="MLP Wells Fargo ETN UBS E-Tracs" />
+  <上市公司 代码="MLPX" 名称="Global X MLP &amp; Energy Infrastru" />
+  <上市公司 代码="MLPY" 名称="Cushing MLP Hi Income ETN Morgan Stanley" />
+  <上市公司 代码="MMF" 名称="Bank of America Corp" />
+  <上市公司 代码="MMTM" 名称="SPDR S&amp;P 1500 Momentum Tilt ETF" />
+  <上市公司 代码="MMV" 名称="Eaton Vance Massachusetts Muni Income Trust" />
+  <上市公司 代码="MMZ-K" 名称="SiM Internal Test 6" />
+  <上市公司 代码="MNA" 名称="IQ Merger Arbitrage ETF" />
+  <上市公司 代码="MOAT" 名称="Mstar Wide Moat ETF Market Vectors" />
+  <上市公司 代码="MOC" 名称="Command Security Corp" />
+  <上市公司 代码="MOL" 名称="2% Min Coupon Based On Gold" />
+  <上市公司 代码="MOM" 名称="US Momentum Market Neutral ETF Quantshares" />
+  <上市公司 代码="MONY" 名称="Financial Sector Bond Ishares" />
+  <上市公司 代码="MOO" 名称="Agribusiness ETF Market Vectors" />
+  <上市公司 代码="MORL" 名称="Etracs Monthly Pay 2Xleveraged" />
+  <上市公司 代码="MORT" 名称="Mortgage REIT ETF Market Vectors" />
+  <上市公司 代码="MPE" 名称="Bank of America Corp" />
+  <上市公司 代码="MRGR" 名称="Proshares Merger ETF" />
+  <上市公司 代码="MSC" 名称="Bank of America Corp" />
+  <上市公司 代码="MSN" 名称="Emerson Radio Corp" />
+  <上市公司 代码="MSTX" 名称="Mast Therapeutics Inc" />
+  <上市公司 代码="MTK" 名称="SPDR Morgan Stanley Technology" />
+  <上市公司 代码="MTUM" 名称="Ishares MSCI USA Momentum Facto" />
+  <上市公司 代码="MTY" 名称="3% Min Coupon Ppm On Price of Gold" />
+  <上市公司 代码="MUAC" 名称="2014 S&amp;P Amt-Free Municipal Ser Ishares" />
+  <上市公司 代码="MUAD" 名称="2015 S&amp;P Amt-Free Municipal Ser Ishares" />
+  <上市公司 代码="MUAE" 名称="2016 S&amp;P Amt-Free Municipal Ser Ishares" />
+  <上市公司 代码="MUAF" 名称="2017 S&amp;P Amt-Free Municipal Ser Ishares" />
+  <上市公司 代码="MUAG" 名称="Ishares 2018 S&amp;P Amt-Free Munic" />
+  <上市公司 代码="MUAH" 名称="Ishares 2019 Amt-Free Muni Term" />
+  <上市公司 代码="MUB" 名称="S&amp;P National Amt-Free Muni Bd Ishares" />
+  <上市公司 代码="MUK" 名称="3% Min Coupon Ppn On SPX" />
+  <上市公司 代码="MUNI" 名称="Intermediate Muni Bond Strgy ETF Pimco" />
+  <上市公司 代码="MVF" 名称="Munivest Fund" />
+  <上市公司 代码="MVG" 名称="Mag Silver Corp" />
+  <上市公司 代码="MVV" 名称="Ultra Midcap 400 Proshares" />
+  <上市公司 代码="MXA" 名称="Minnesota Muni Income Portfolio Inc" />
+  <上市公司 代码="MXC" 名称="Mexco Energy Corp" />
+  <上市公司 代码="MXI" 名称="S&amp;P Global Materials Ishares" />
+  <上市公司 代码="MXN" 名称="First American Minnesota Muni II" />
+  <上市公司 代码="MYP" 名称="3% Min Coupon Principal Protected Notes Based On" />
+  <上市公司 代码="MYY" 名称="Short Midcap 400 Proshares" />
+  <上市公司 代码="MZA" 名称="Muniyield Arizona Fund" />
+  <上市公司 代码="MZZ" 名称="Ultrashort Midcap400 Proshares" />
+  <上市公司 代码="NAGS" 名称="Teucrium Natural Gas" />
+  <上市公司 代码="NAK" 名称="Northern Dynasty Minerals" />
+  <上市公司 代码="NAO" 名称="North American Ins Leaders" />
+  <上市公司 代码="NASH" 名称="Nashville Area ETF" />
+  <上市公司 代码="NAVB" 名称="Navidea Biopharmaceuticals Inc." />
+  <上市公司 代码="NBH" 名称="Neuberger Berman Intermediate Fund Inc" />
+  <上市公司 代码="NBO" 名称="Neuberger Berman New York Intermediate Fund Inc" />
+  <上市公司 代码="NBW" 名称="Neuberger Berman California Intermediate Fund In" />
+  <上市公司 代码="NBY" 名称="Novabay Pharmaceuticals" />
+  <上市公司 代码="NCB" 名称="Nuveen California Muni Value Fund 2" />
+  <上市公司 代码="NCQ" 名称="Novacopper Inc. Common Stock" />
+  <上市公司 代码="NCU" 名称="Nuveen California Premium Fund" />
+  <上市公司 代码="NEAR" 名称="Ishares Short Maturity Bond ETF" />
+  <上市公司 代码="NEN" 名称="New England Realty Associates Limited Partnershi" />
+  <上市公司 代码="NFO" 名称="Insider Sentiment Guggenheim" />
+  <上市公司 代码="NFRA" 名称="Flexshares Stoxx Global Broad I" />
+  <上市公司 代码="NG" 名称="Novagold Resources Inc" />
+  <上市公司 代码="NGD" 名称="New Gold Inc" />
+  <上市公司 代码="NGE" 名称="Global X Nigeria Index ETF" />
+  <上市公司 代码="NGX" 名称="Nuveen Insured Massachusetts Tax-Free" />
+  <上市公司 代码="NHC" 名称="National Healthcare Corp" />
+  <上市公司 代码="NHC-A" 名称="National Hlthcare Sr" />
+  <上市公司 代码="NHS" 名称="Neuberger Berman High Yield Strategies" />
+  <上市公司 代码="NIB" 名称="DJ-UBS Cocoa TR Sub-Idx ETN Ipath" />
+  <上市公司 代码="NINI" 名称="Nickel Pure Beta ETN Ipath" />
+  <上市公司 代码="NJV" 名称="Nuveen New Jersey Muni Value Fund" />
+  <上市公司 代码="NKG-E" 名称="Nuveen Georgia Dividend Advanta" />
+  <上市公司 代码="NKY" 名称="Maxis Nikkei 225 Index ETF" />
+  <上市公司 代码="NLP" 名称="NTS Realty Holdings Limited Partnership" />
+  <上市公司 代码="NLR" 名称="Uranium+Nuclear Energy ETF Market Vectors" />
+  <上市公司 代码="NMB" 名称="Nuveen Massachusetts Divadv Fund" />
+  <上市公司 代码="NMB-C" 名称="Nuveen Massachusetts Dividend A" />
+  <上市公司 代码="NML" 名称="Neuberger Berman MLP Income Fun" />
+  <上市公司 代码="NMT-E/CL" 名称="Nuveen Massachusetts Premium Income Municipal Fund" />
+  <上市公司 代码="NMZ" 名称="Nuveen Muni High Income Opportunity" />
+  <上市公司 代码="NNVC" 名称="Nanoviricides Inc" />
+  <上市公司 代码="NOBL" 名称="Proshares S&amp;P 500 Aristocrats E" />
+  <上市公司 代码="NOG" 名称="Northern Oil and Gas" />
+  <上市公司 代码="NOM" 名称="Nuveen Missouri Premium Fund" />
+  <上市公司 代码="NORW" 名称="G-X Norway ETF" />
+  <上市公司 代码="NPN" 名称="Nuveen Pennsylvania Muni Value Fund" />
+  <上市公司 代码="NRO" 名称="Neuberger Berman Real Estate Securities" />
+  <上市公司 代码="NSPR" 名称="Inspiremd Inc" />
+  <上市公司 代码="NSU" 名称="Nevsun Resources Ltd" />
+  <上市公司 代码="NTIP" 名称="Network-1 Technologies, Inc." />
+  <上市公司 代码="NTN" 名称="Ntn Buzztime" />
+  <上市公司 代码="NTS" 名称="NTS Inc" />
+  <上市公司 代码="NUGT" 名称="Gold Miners Bull 3X Direxion" />
+  <上市公司 代码="NUJ" 名称="Nuveen New Jersey Divadv Fund 2" />
+  <上市公司 代码="NVG" 名称="Nuveen Insured Divadv Fund" />
+  <上市公司 代码="NVG/WD" 名称="Nuveen Dividend Advantage Municipal Income Fund" />
+  <上市公司 代码="NVX" 名称="Nuveen California Divadv Fund 2" />
+  <上市公司 代码="NXJ" 名称="Nuveen New Jersey Divadv Fund" />
+  <上市公司 代码="NXK" 名称="Nuveen New York Divadv Fund 2" />
+  <上市公司 代码="NXZ" 名称="Nuveen Divadv Fund 2" />
+  <上市公司 代码="NY" 名称="NYSE 100 Index Ishares" />
+  <上市公司 代码="NYC" 名称="NYSE Composite Index Ishares" />
+  <上市公司 代码="NYCC" 名称="Powershares NYSE Century Portfo" />
+  <上市公司 代码="NYF" 名称="S&amp;P NY Amt-Free Municipal Bd Ishares" />
+  <上市公司 代码="NYH" 名称="Eaton Vance New York Muni Bond Fund II" />
+  <上市公司 代码="NYV" 名称="Nuveen New York Muni Value Fund 2" />
+  <上市公司 代码="NZF" 名称="Nuveen Divadv Fund 3" />
+  <上市公司 代码="NZF/WD" 名称="Nuveen Dividend Advantage Municipal Fund 3" />
+  <上市公司 代码="NZH" 名称="Nuveen California Divadv Fund 3" />
+  <上市公司 代码="OEF" 名称="S&amp;P 100 Index Ishares" />
+  <上市公司 代码="OESX" 名称="Orion Energy Systems" />
+  <上市公司 代码="OFF" 名称="Risk Off Fisher-Gartman ETN UBS E-Tracs" />
+  <上市公司 代码="OGCP" 名称="Empire State Realty Op L.P. Se" />
+  <上市公司 代码="OGEN" 名称="Oragenics Inc" />
+  <上市公司 代码="OIH" 名称="Oil Services ETF Market Vectors" />
+  <上市公司 代码="OIL" 名称="S&amp;P GSCI Crude Oil TR Index ETN Ipath" />
+  <上市公司 代码="OLEM" 名称="Crude Oil Pure Beta ETN Ipath" />
+  <上市公司 代码="OLO" 名称="DB Crude Oil Long ETN Powershares" />
+  <上市公司 代码="ONEF" 名称="Russell Equity ETF" />
+  <上市公司 代码="ONEK" 名称="SPDR Russell 1000 ETF" />
+  <上市公司 代码="ONG" 名称="Energy Pure Beta ETN Ipath" />
+  <上市公司 代码="ONN" 名称="Risk On Fisher-Gartman ETN UBS E-Tracs" />
+  <上市公司 代码="ONP" 名称="Orient Paper" />
+  <上市公司 代码="ONVO" 名称="Organovo Holdings" />
+  <上市公司 代码="OOZ-K" 名称="SiM Internal Test 7" />
+  <上市公司 代码="ORC" 名称="Orchid Island Capital Inc. Com" />
+  <上市公司 代码="ORM" 名称="Owens Realty Mortgage Inc. Com" />
+  <上市公司 代码="OSGB" 名称="Overseas Shipholding Group, Inc." />
+  <上市公司 代码="OSMS" 名称="Barclays Ofi Steelpath MLP ETN" />
+  <上市公司 代码="OUNZ" 名称="Merk Gold Trust ETV" />
+  <上市公司 代码="PAF" 名称="FTSE Rafi Asia Pacific Ex-Jp Powershares" />
+  <上市公司 代码="PAL" 名称="North American Palladium" />
+  <上市公司 代码="PALL" 名称="Physical Palladium" />
+  <上市公司 代码="PARR" 名称="Par Petroleum Corporation" />
+  <上市公司 代码="PBD" 名称="Global Clean Energy Powershares" />
+  <上市公司 代码="PBE" 名称="Dynamic Biotech &amp; Genome Powershares" />
+  <上市公司 代码="PBJ" 名称="Dynamic Food &amp; Beverage Powershares" />
+  <上市公司 代码="PBM" 名称="Pacific Booker Minerals Inc" />
+  <上市公司 代码="PBP" 名称="S&amp;P 500 Buywrite Powershares" />
+  <上市公司 代码="PBS" 名称="Dynamic Media Powershares" />
+  <上市公司 代码="PBW" 名称="Wilderhill Clean Energy Powershares" />
+  <上市公司 代码="PCEF" 名称="CEF Income Composite Powershares" />
+  <上市公司 代码="PCG-A" 名称="Pacific Gas El 6.00" />
+  <上市公司 代码="PCG-B" 名称="Pacific Gas El 5.50" />
+  <上市公司 代码="PCG-C" 名称="Pacific Gas El 5.00" />
+  <上市公司 代码="PCG-D" 名称="Pacific Gas El 5.00" />
+  <上市公司 代码="PCG-E" 名称="Pacific Gas El 5.00" />
+  <上市公司 代码="PCG-G" 名称="Pacific Gas El 4.80" />
+  <上市公司 代码="PCG-H" 名称="Pacific Gas El 4.50" />
+  <上市公司 代码="PCG-I" 名称="Pacific Gas El 4.36" />
+  <上市公司 代码="PCY" 名称="Emrg Mkts Sovereign Debt Powershares" />
+  <上市公司 代码="PDN" 名称="FTSE Rafi Dev Mkts Ex-US S/M Powershares" />
+  <上市公司 代码="PDO" 名称="Pyramid Oil Co" />
+  <上市公司 代码="PDP" 名称="Powershares DWA Momentum Portfolio" />
+  <上市公司 代码="PED" 名称="Pedevco Corp. Common Stock" />
+  <上市公司 代码="PEJ" 名称="Dynamic Leisure &amp; Entertain Powershares" />
+  <上市公司 代码="PEK" 名称="China ETF Market Vectors" />
+  <上市公司 代码="PERM" 名称="G-X Permanent ETF" />
+  <上市公司 代码="PEX" 名称="Proshares Global Listed Private" />
+  <上市公司 代码="PEY" 名称="High-Yield Eq Div Achievers Powershares" />
+  <上市公司 代码="PEZ" 名称="Dynamic Consumer Disc Powershares" />
+  <上市公司 代码="PFEM" 名称="Powershares Fundamental Emergin" />
+  <上市公司 代码="PFF" 名称="S&amp;P US Preferred Stock Index Ishares" />
+  <上市公司 代码="PFI" 名称="Dynamic Financials Powershares" />
+  <上市公司 代码="PFIG" 名称="Fundamental Inv Gr Corp Bond Powershares" />
+  <上市公司 代码="PFM" 名称="Dividend Achievers Powershares" />
+  <上市公司 代码="PFNX" 名称="Pfenex Inc." />
+  <上市公司 代码="PFXF" 名称="Market Vectors Preferred Securi" />
+  <上市公司 代码="PGAL" 名称="Global X FTSE Portugal 20 ETF" />
+  <上市公司 代码="PGD" 名称="Asian &amp; Gulf Currency Reval ETN Ipath" />
+  <上市公司 代码="PGF" 名称="Financial Preferred Powershares" />
+  <上市公司 代码="PGHY" 名称="Powershares Global Short Term H" />
+  <上市公司 代码="PGJ" 名称="Golden Dragon China Powershares" />
+  <上市公司 代码="PGM" 名称="DJ-UBS Platinum TR Sub-Idx ETN Ipath" />
+  <上市公司 代码="PGX" 名称="Preferred Portfolio Powershares" />
+  <上市公司 代码="PHB" 名称="Fundamental High Yld Corp Bd Powershares" />
+  <上市公司 代码="PHDG" 名称="Powershares S&amp;P 500 Downside He" />
+  <上市公司 代码="PHF" 名称="Pacholder High Yield Fund" />
+  <上市公司 代码="PHO" 名称="Water Resources Powershares" />
+  <上市公司 代码="PHYS" 名称="Sprott Physical Gold Trust" />
+  <上市公司 代码="PICB" 名称="Intl Corporate Bond Powershares" />
+  <上市公司 代码="PICK" 名称="Global Sel Metals &amp; Mining Prd MSCI Ishares" />
+  <上市公司 代码="PID" 名称="Intl Dividend Achievers Powershares" />
+  <上市公司 代码="PIE" 名称="Powershares DWA Emerging Markets Momentum Portfo" />
+  <上市公司 代码="PIN" 名称="India Powershares" />
+  <上市公司 代码="PIO" 名称="Global Water Powershares" />
+  <上市公司 代码="PIP" 名称="Pharmathene Inc" />
+  <上市公司 代码="PIZ" 名称="Powershares DWA Developed Markets Momentum Portf" />
+  <上市公司 代码="PJP" 名称="Dynamic Pharmaceuticals Powershares" />
+  <上市公司 代码="PKB" 名称="Dynamic Building &amp; Construct Powershares" />
+  <上市公司 代码="PKW" 名称="Buyback Achievers Powershares" />
+  <上市公司 代码="PLG" 名称="Platinum Group Metals Ltd" />
+  <上市公司 代码="PLM" 名称="Polymet Mining" />
+  <上市公司 代码="PLND" 名称="Poland ETF Market Vectors" />
+  <上市公司 代码="PLW" 名称="1-30 Laddered Treasury Powershares" />
+  <上市公司 代码="PLX" 名称="Protalix Biotherapeutics" />
+  <上市公司 代码="PMR" 名称="Dynamic Retail Powershares" />
+  <上市公司 代码="PPA" 名称="Aerospace &amp; Defense Powershares" />
+  <上市公司 代码="PPH" 名称="Pharmaceutical ETF Market Vectors" />
+  <上市公司 代码="PPLT" 名称="Physical Platinum" />
+  <上市公司 代码="PRB" 名称="Pre-Refunded Muni ETF Market Vectors" />
+  <上市公司 代码="PRF" 名称="FTSE Rafi US 1000 Powershares" />
+  <上市公司 代码="PRK" 名称="Park National Corp" />
+  <上市公司 代码="PRN" 名称="Powershares Dynamic Industrials" />
+  <上市公司 代码="PSI" 名称="Dynamic Semiconductors Powershares" />
+  <上市公司 代码="PSJ" 名称="Dynamic Software Powershares" />
+  <上市公司 代码="PSK" 名称="SPDR Wells Fargo Preferred Stock" />
+  <上市公司 代码="PSL" 名称="Dynamic Consumer Staples Powershares" />
+  <上市公司 代码="PSLV" 名称="Sprott Physical Silver Trust ETV" />
+  <上市公司 代码="PSP" 名称="Global Listed Private Eq Powershares" />
+  <上市公司 代码="PSQ" 名称="Short QQQ Proshares" />
+  <上市公司 代码="PSR" 名称="Active U.S. Real Estate Powershares" />
+  <上市公司 代码="PST" 名称="Ultrashort 7-10 Year Treasury Proshares" />
+  <上市公司 代码="PTF" 名称="Dynamic Technology Powershares" />
+  <上市公司 代码="PTH" 名称="Dynamic Healthcare Powershares" />
+  <上市公司 代码="PTM" 名称="Long Platinum TR ETN UBS E-Tracs" />
+  <上市公司 代码="PTN" 名称="Palatin Technologies" />
+  <上市公司 代码="PUI" 名称="Dynamic Utilities Powershares" />
+  <上市公司 代码="PUW" 名称="Wilderhill Progrsv Energy Powershares" />
+  <上市公司 代码="PVCT" 名称="Provectus Pharma" />
+  <上市公司 代码="PVI" 名称="Vrdo Tax-Free Weekly Powershares" />
+  <上市公司 代码="PW" 名称="Pittsburgh &amp; West Virginia Railroad" />
+  <上市公司 代码="PW-A" 名称="Power REIT 7.75% Series A Cumul" />
+  <上市公司 代码="PWB" 名称="Dynamic Largecap Growth Powershares" />
+  <上市公司 代码="PWC" 名称="Dynamic Market Powershares" />
+  <上市公司 代码="PWV" 名称="Dynamic Largecap Value Powershares" />
+  <上市公司 代码="PWZ" 名称="Insured California Muni Bond Powershares" />
+  <上市公司 代码="PXE" 名称="Dynamic Energy Explor &amp; Prod Powershares" />
+  <上市公司 代码="PXF" 名称="FTSE Rafi Dev Mkts Ex-US Powershares" />
+  <上市公司 代码="PXH" 名称="FTSE Rafi Emrg Mkts Powershares" />
+  <上市公司 代码="PXI" 名称="Dynamic Energy Powershares" />
+  <上市公司 代码="PXJ" 名称="Dynamic Oil &amp; Gas Services Powershares" />
+  <上市公司 代码="PXLC" 名称="Fundamental Pure Large Core Powershares" />
+  <上市公司 代码="PXLG" 名称="Fundamental Pure Large Grow Powershares" />
+  <上市公司 代码="PXLV" 名称="Fundamental Pure Large Value Powershares" />
+  <上市公司 代码="PXMC" 名称="Fundamental Pure Mid Core Powershares" />
+  <上市公司 代码="PXMG" 名称="Fundamental Pure Mid Growth Powershares" />
+  <上市公司 代码="PXMV" 名称="Fundamental Pure Mid Value Powershares" />
+  <上市公司 代码="PXQ" 名称="Dynamic Networking Powershares" />
+  <上市公司 代码="PXR" 名称="Emrg Mkts Infrastructure Powershares" />
+  <上市公司 代码="PXSC" 名称="Fundamental Pure Small Core Powershares" />
+  <上市公司 代码="PXSG" 名称="Fundamental Pure Small Grow Powershares" />
+  <上市公司 代码="PXSV" 名称="Fundamental Pure Small Value Powershares" />
+  <上市公司 代码="PYZ" 名称="Dynamic Basic Materials Powershares" />
+  <上市公司 代码="PZA" 名称="Insured National Muni Bond Powershares" />
+  <上市公司 代码="PZD" 名称="Cleantech Powershares" />
+  <上市公司 代码="PZG" 名称="Paramount Gold and Silver" />
+  <上市公司 代码="PZI" 名称="Zacks Micro Cap Powershares" />
+  <上市公司 代码="PZT" 名称="Insured New York Muni Bond Powershares" />
+  <上市公司 代码="QAI" 名称="IQ Hedge Multi-Strategy Tracker ETF" />
+  <上市公司 代码="QDEF" 名称="Flexshares Quality Dividend Def" />
+  <上市公司 代码="QDEM" 名称="Market Vectors MSCI Emerging Ma" />
+  <上市公司 代码="QDF" 名称="Flexshares Quality Dividend Ind" />
+  <上市公司 代码="QDXU" 名称="Market Vectors MSCI Internation" />
+  <上市公司 代码="QDYN" 名称="Flexshares Quality Dynamic Inde" />
+  <上市公司 代码="QEH" 名称="Advisorshares Qam Equity Hedge" />
+  <上市公司 代码="QEM" 名称="Market Vectors MSCI Emerging Ma" />
+  <上市公司 代码="QID" 名称="Ultrashort QQQ Proshares" />
+  <上市公司 代码="QLD" 名称="Ultra QQQ Proshares" />
+  <上市公司 代码="QLTA" 名称="AAA - A Rated Corporate Bond Ishares" />
+  <上市公司 代码="QLTB" 名称="BAA - BA Rated Corporate Bond Fund Ishares" />
+  <上市公司 代码="QLTC" 名称="B-Ca Rated Corporate Bond Fund Ishares" />
+  <上市公司 代码="QMN" 名称="IQ Hedge Market Neutral Tracker" />
+  <上市公司 代码="QQQE" 名称="Nasdaq-100 Equal Wtd Idx Direxion" />
+  <上市公司 代码="QQZ-K" 名称="SiM Internal Test 8" />
+  <上市公司 代码="QRM" 名称="Quest Rare Minerals Ltd" />
+  <上市公司 代码="QUAL" 名称="Ishares MSCI USA Quality Factor" />
+  <上市公司 代码="QXUS" 名称="Market Vectors MSCI Int'l Qlty" />
+  <上市公司 代码="RALS" 名称="Rafi Long/Short Proshares Proshares" />
+  <上市公司 代码="RAVI" 名称="Flexshares Ready Access Variabl" />
+  <上市公司 代码="RBL" 名称="SPDR S&amp;P Russia" />
+  <上市公司 代码="RBY" 名称="Rubicon Minerals Corp" />
+  <上市公司 代码="RCD" 名称="S&amp;P 500 Cons Discre Equal Weight Guggenheim" />
+  <上市公司 代码="RCG" 名称="Renaissance Capital Growth &amp; Income Fund III" />
+  <上市公司 代码="RDIV" 名称="Revenueshares Ultra Dividend Fund" />
+  <上市公司 代码="REE" 名称="Rare Element Res Ltd" />
+  <上市公司 代码="REED" 名称="Reeds Inc" />
+  <上市公司 代码="REI" 名称="Ring Energy Inc" />
+  <上市公司 代码="REK" 名称="Short Real Estate Proshares" />
+  <上市公司 代码="REM" 名称="FTSE Nareit Mort Plus Cp Idx Ishares" />
+  <上市公司 代码="REMX" 名称="Rare Earth/Str Metals ETF Market Vectors" />
+  <上市公司 代码="RETL" 名称="Retail Bull 3X Direxion" />
+  <上市公司 代码="REW" 名称="Ultrashort Technology Proshares" />
+  <上市公司 代码="REZ" 名称="FTSE Nareit Resid Plus Cp Idx Ishares" />
+  <上市公司 代码="RFG" 名称="S&amp;P Midcap 400 Pure Growth Guggenheim" />
+  <上市公司 代码="RFV" 名称="S&amp;P Midcap 400 Pure Value Guggenheim" />
+  <上市公司 代码="RGI" 名称="S&amp;P 500 Industrials Equal Weight Guggenheim" />
+  <上市公司 代码="RGRA" 名称="RBS Rogers Enhanced Agriculture" />
+  <上市公司 代码="RGRC" 名称="RBS Rogers Enhanced Commodity E" />
+  <上市公司 代码="RGRE" 名称="RBS Rogers Enhanced Energy ETN" />
+  <上市公司 代码="RGRI" 名称="RBS Rogers Enhanced Industrial" />
+  <上市公司 代码="RGRP" 名称="RBS Rogers Enhanced Precious Me" />
+  <上市公司 代码="RHS" 名称="S&amp;P 500 Cons Staples Equal Weight Guggenheim" />
+  <上市公司 代码="RIC" 名称="Richmont Mines" />
+  <上市公司 代码="RIF" 名称="Rmr Real Estate Income Fund" />
+  <上市公司 代码="RIGS" 名称="Riverfront Strategic Income Fun" />
+  <上市公司 代码="RINF" 名称="30 Year Tips/Tsy Spread Proshares" />
+  <上市公司 代码="RING" 名称="Global Gold Miners MSCI Ishares" />
+  <上市公司 代码="RJA" 名称="Rogers Agriculture ETN Elements" />
+  <上市公司 代码="RJI" 名称="Rogers Commodity ETN Elements" />
+  <上市公司 代码="RJN" 名称="Rogers Energy ETN Elements" />
+  <上市公司 代码="RJZ" 名称="Rogers Metal ETN Elements" />
+  <上市公司 代码="RKH" 名称="Bank and Brokerage ETF Market Vectors" />
+  <上市公司 代码="RLG-A" 名称="Radiant Logistics Inc. 9.75% S" />
+  <上市公司 代码="RLGT" 名称="Radiant Logistics" />
+  <上市公司 代码="RLGT-A" 名称="Radiant Logistics, Inc." />
+  <上市公司 代码="RLY" 名称="SPDR SSGA Multi-Asset Real Return ETF" />
+  <上市公司 代码="RNN" 名称="Rexahn Pharmaceuticals" />
+  <上市公司 代码="ROLA" 名称="Long Extd Russell 1000 TR ETN Ipath" />
+  <上市公司 代码="ROM" 名称="Ultra Technology Proshares" />
+  <上市公司 代码="ROOF" 名称="IQ US Real Estate Smallcap ETF" />
+  <上市公司 代码="ROX" 名称="Castle Brands" />
+  <上市公司 代码="RPG" 名称="S&amp;P 500 Pure Growth Guggenheim" />
+  <上市公司 代码="RPI" 名称="Roberts Realty Investors" />
+  <上市公司 代码="RPV" 名称="S&amp;P 500 Pure Value Guggenheim" />
+  <上市公司 代码="RPX" 名称="Growth Equity Strategy Fund" />
+  <上市公司 代码="RRF" 名称="Global Real Return Wisdomtree" />
+  <上市公司 代码="RSCO" 名称="SPDR Russell Small Cap Completeness ETF" />
+  <上市公司 代码="RSP" 名称="S&amp;P 500 Index Equal Weight Guggenheim" />
+  <上市公司 代码="RSX" 名称="Russia ETF Market Vectors" />
+  <上市公司 代码="RSXJ" 名称="Russia Smallcap ETF Market Vectors" />
+  <上市公司 代码="RTH" 名称="Retail ETF Market Vectors" />
+  <上市公司 代码="RTL" 名称="FTSE Nareit Retail Cp Idx Ishares" />
+  <上市公司 代码="RTLA" 名称="Long Extd Russell 2000 TR ETN Ipath" />
+  <上市公司 代码="RTM" 名称="S&amp;P 500 Materials Equal Weight Guggenheim" />
+  <上市公司 代码="RTR" 名称="Revenueshares ADR" />
+  <上市公司 代码="RUSL" 名称="Russia Bull 3X Direxion" />
+  <上市公司 代码="RUSS" 名称="Russia Bear 3X Direxion" />
+  <上市公司 代码="RVM" 名称="Revett Minerals Inc" />
+  <上市公司 代码="RVNU" 名称="Db-X-Trackers Municipal Infrast" />
+  <上市公司 代码="RVP" 名称="Retractable Technologies" />
+  <上市公司 代码="RWC" 名称="Relm Wireless Corp" />
+  <上市公司 代码="RWG" 名称="Columbia Select Large Cap Growth ETF" />
+  <上市公司 代码="RWJ" 名称="Revenueshares Smallcap" />
+  <上市公司 代码="RWK" 名称="Revenueshares Midcap" />
+  <上市公司 代码="RWL" 名称="Revenueshares Largecap" />
+  <上市公司 代码="RWM" 名称="Short Russell 2000 Proshares" />
+  <上市公司 代码="RWO" 名称="SPDR DJ Global Real Estate" />
+  <上市公司 代码="RWR" 名称="SPDR DJ REIT" />
+  <上市公司 代码="RWV" 名称="Revenueshares Navellier Overall A-100" />
+  <上市公司 代码="RWW" 名称="Revenueshares Financials Sector" />
+  <上市公司 代码="RWX" 名称="SPDR DJ Intl Real Estate" />
+  <上市公司 代码="RWXL" 名称="Monthly Pay 2X DJ Intl Rl Est ETN UBS E-Tracs" />
+  <上市公司 代码="RXD" 名称="Ultrashort Health Care Proshares" />
+  <上市公司 代码="RXI" 名称="S&amp;P Global Cons Discretionary Ishares" />
+  <上市公司 代码="RXL" 名称="Ultra Health Care Proshares" />
+  <上市公司 代码="RYE" 名称="S&amp;P 500 Energy Equal Weight Guggenheim" />
+  <上市公司 代码="RYF" 名称="S&amp;P 500 Financials Equal Weight Guggenheim" />
+  <上市公司 代码="RYH" 名称="S&amp;P 500 Healthcare Equal Weight Guggenheim" />
+  <上市公司 代码="RYJ" 名称="Raymond James Sb-1 Equity Guggenheim" />
+  <上市公司 代码="RYT" 名称="S&amp;P 500 Technology Equal Weight Guggenheim" />
+  <上市公司 代码="RYU" 名称="S&amp;P 500 Utilities Equal Weight Guggenheim" />
+  <上市公司 代码="RZG" 名称="S&amp;P Smallcap 600 Pure Growth Guggenheim" />
+  <上市公司 代码="RZV" 名称="S&amp;P Smallcap 600 Pure Value Guggenheim" />
+  <上市公司 代码="SAA" 名称="Ultra Smallcap 600 Proshares" />
+  <上市公司 代码="SAGG" 名称="Total Bond Market Bear 1X Direxion" />
+  <上市公司 代码="SAND" 名称="Sandstorm Gold Ltd" />
+  <上市公司 代码="SARA" 名称="Saratoga Res Inc" />
+  <上市公司 代码="SBB" 名称="Short Smallcap 600 Proshares" />
+  <上市公司 代码="SBI" 名称="Western Asset Intermediate Fund Inc" />
+  <上市公司 代码="SBM" 名称="Short Basic Materials Proshares" />
+  <上市公司 代码="SBND" 名称="DB 3X Short 25+ Yr Trsy Bd ETN Powershares" />
+  <上市公司 代码="SBV" 名称="Ipath Pure Beta Broad Commodity" />
+  <上市公司 代码="SCC" 名称="Ultrashort Consumer Services Proshares" />
+  <上市公司 代码="SCE-B" 名称="South CA Edis 408 Pf" />
+  <上市公司 代码="SCE-C" 名称="South CA Edis 424 Pf" />
+  <上市公司 代码="SCE-D" 名称="South CA Edis 431 Pf" />
+  <上市公司 代码="SCE-E" 名称="South CA Edis 478 Pf" />
+  <上市公司 代码="SCHA" 名称="Schwab US Smallcap ETF" />
+  <上市公司 代码="SCHB" 名称="Schwab US Broad Market ETF" />
+  <上市公司 代码="SCHC" 名称="Schwab Intl Smallcap Eq ETF" />
+  <上市公司 代码="SCHD" 名称="Schwab US Dividend Equity ETF" />
+  <上市公司 代码="SCHE" 名称="Schwab Emrg Mkts Equity ETF" />
+  <上市公司 代码="SCHF" 名称="Schwab Intl Equity ETF" />
+  <上市公司 代码="SCHG" 名称="Schwab US Largecap Growth ETF" />
+  <上市公司 代码="SCHH" 名称="Schwab US REIT ETF" />
+  <上市公司 代码="SCHM" 名称="Schwab US Midcap ETF" />
+  <上市公司 代码="SCHO" 名称="Schwab Short-Term US Trsy ETF" />
+  <上市公司 代码="SCHP" 名称="Schwab US Tips ETF" />
+  <上市公司 代码="SCHR" 名称="Schwab Interm-Term U.S. Trsy ETF" />
+  <上市公司 代码="SCHV" 名称="Schwab US Largecap Value ETF" />
+  <上市公司 代码="SCHX" 名称="Schwab US Largecap ETF" />
+  <上市公司 代码="SCHZ" 名称="Schwab US Aggregate Bond ETF" />
+  <上市公司 代码="SCIF" 名称="India Smallcap ETF Market Vectors" />
+  <上市公司 代码="SCIN" 名称="India Smallcap Egshares" />
+  <上市公司 代码="SCJ" 名称="Japan Smallcap Index MSCI Ishares" />
+  <上市公司 代码="SCO" 名称="Ultrashort DJ-UBS Crude Oil Proshares" />
+  <上市公司 代码="SCPB" 名称="SPDR Short-Term Corp Bd Barclays Capital" />
+  <上市公司 代码="SCZ" 名称="EAFE Smallcap Index MSCI Ishares" />
+  <上市公司 代码="SDA" 名称="Bank of America Corp" />
+  <上市公司 代码="SDD" 名称="Ultrashort Smallcap 600 Proshares" />
+  <上市公司 代码="SDIV" 名称="G-X Superdividend ETF" />
+  <上市公司 代码="SDK" 名称="Ultrashort Russell Mcap Growth Proshares" />
+  <上市公司 代码="SDOG" 名称="Alps Sector Dividend Dogs ETF" />
+  <上市公司 代码="SDOW" 名称="Ultrapro Short DOW 30 Proshares" />
+  <上市公司 代码="SDP" 名称="Ultrashort Utilities Proshares" />
+  <上市公司 代码="SDPI" 名称="Superior Drilling Products, Inc." />
+  <上市公司 代码="SDS" 名称="Ultrashort S&amp;P 500 Proshares" />
+  <上市公司 代码="SDY" 名称="SPDR S&amp;P Dividend" />
+  <上市公司 代码="SDYL" 名称="Monthly Pay 2X S&amp;P Dividend ETN Etracs" />
+  <上市公司 代码="SEA" 名称="Shipping Guggenheim" />
+  <上市公司 代码="SEB" 名称="Seaboard Corp" />
+  <上市公司 代码="SEF" 名称="Short Financials Proshares" />
+  <上市公司 代码="SEMF" 名称="Egshares Tcw EM Short Term Inve" />
+  <上市公司 代码="SFK" 名称="Ultrashort Russell 1000 Growth Proshares" />
+  <上市公司 代码="SFLA" 名称="Long Extd S&amp;P 500 TR ETN Ipath" />
+  <上市公司 代码="SGA" 名称="Saga Communications" />
+  <上市公司 代码="SGAR" 名称="Sugar Pure Beta ETN Ipath" />
+  <上市公司 代码="SGB" 名称="Southwest Georgia Financial Corp" />
+  <上市公司 代码="SGG" 名称="DJ-UBS Sugar TR Sub-Idx ETN Ipath" />
+  <上市公司 代码="SGOL" 名称="Physical Swiss Gold" />
+  <上市公司 代码="SH" 名称="Short S&amp;P 500 Proshares" />
+  <上市公司 代码="SHM" 名称="SPDR S/T Muni Bd Barclays Capital" />
+  <上市公司 代码="SHN" 名称="Bank of America Corp" />
+  <上市公司 代码="SHV" 名称="Short-Treasury Bond Ishares" />
+  <上市公司 代码="SHY" 名称="1-3 Year Treasury Bond Ishares" />
+  <上市公司 代码="SHYD" 名称="Market Vectors Short High-Yield" />
+  <上市公司 代码="SHYG" 名称="Ishares 0-5 Year High Yield Cor" />
+  <上市公司 代码="SIF" 名称="Sifco Industries" />
+  <上市公司 代码="SIJ" 名称="Ultrashort Industrials Proshares" />
+  <上市公司 代码="SIL" 名称="G-X Silver Miners ETF" />
+  <上市公司 代码="SILJ" 名称="Purefunds ISE Junior Silver [Sm" />
+  <上市公司 代码="SIM" 名称="Grupo Simec S.A. De C.V." />
+  <上市公司 代码="SINF" 名称="Ultrapro Short 10 Yr Tips/Tsy Sp Proshares" />
+  <上市公司 代码="SIPE" 名称="SPDR Barclays 0-5 Year Tips ETF" />
+  <上市公司 代码="SIVR" 名称="Physical Silver" />
+  <上市公司 代码="SIZ" 名称="US Size Market Neutral ETF Quantshares" />
+  <上市公司 代码="SIZE" 名称="Ishares MSCI USA Size Factor" />
+  <上市公司 代码="SJB" 名称="Short High Yield Proshares" />
+  <上市公司 代码="SJF" 名称="Ultrashort Russell 1000 Value Proshares" />
+  <上市公司 代码="SJH" 名称="Ultrashort Russell 2000 Value Proshares" />
+  <上市公司 代码="SJL" 名称="Ultrashort Russell Midcap Val Proshares" />
+  <上市公司 代码="SJNK" 名称="SPDR ST High Yield Bond ETF Barclays Capital" />
+  <上市公司 代码="SKF" 名称="Ultrashort Financials Proshares" />
+  <上市公司 代码="SKK" 名称="Ultrashort Russell 2000 Growth Proshares" />
+  <上市公司 代码="SKY" 名称="Skyline Corp" />
+  <上市公司 代码="SLI" 名称="SL Industries" />
+  <上市公司 代码="SLQD" 名称="Ishares 0-5 Year Investment Gra" />
+  <上市公司 代码="SLV" 名称="Silver Trust Ishares" />
+  <上市公司 代码="SLVP" 名称="Global Silver Miners MSCI Ishares" />
+  <上市公司 代码="SLX" 名称="Steel ETF Market Vectors" />
+  <上市公司 代码="SLY" 名称="SPDR DJ Smallcap ETF" />
+  <上市公司 代码="SLYG" 名称="SPDR DJ Smallcap Growth ETF" />
+  <上市公司 代码="SLYV" 名称="SPDR DJ Smallcap Value ETF" />
+  <上市公司 代码="SMB" 名称="Short Municipal Index ETF Market Vectors" />
+  <上市公司 代码="SMDD" 名称="Ultrapro Short Midcap 400 Proshares" />
+  <上市公司 代码="SMH" 名称="Semiconductor ETF Market Vectors" />
+  <上市公司 代码="SMIN" 名称="India Smallcap Index Fund MSCI Ishares" />
+  <上市公司 代码="SMK" 名称="Ultrashort MSCI Mexico Proshares" />
+  <上市公司 代码="SMLV" 名称="SPDR Russell 2000 Low Volatilit" />
+  <上市公司 代码="SMMU" 名称="Short-Term Muni Bond Strgy ETF Pimco" />
+  <上市公司 代码="SMN" 名称="Ultrashort Basic Materials Proshares" />
+  <上市公司 代码="SMU" 名称="Bank of America Corp" />
+  <上市公司 代码="SNLN" 名称="Pyxis/Iboxx Senior Loan ETF" />
+  <上市公司 代码="SOIL" 名称="G-X Fertilizers/Potash ETF" />
+  <上市公司 代码="SOQ" 名称="Sonde Resources Corp" />
+  <上市公司 代码="SOXL" 名称="Semiconductor Bull 3X Direxion" />
+  <上市公司 代码="SOXS" 名称="Semiconductor Bear 3X Direxion" />
+  <上市公司 代码="SOYB" 名称="Teucrium Soybean" />
+  <上市公司 代码="SPFF" 名称="Global X Superincome Preferred" />
+  <上市公司 代码="SPGH" 名称="S&amp;P 500 Gold Hedged Idx ETN UBS E-Tracs" />
+  <上市公司 代码="SPHB" 名称="S&amp;P 500 High Beta Powershares" />
+  <上市公司 代码="SPHD" 名称="Powershares S&amp;P 500 High Divide" />
+  <上市公司 代码="SPHQ" 名称="S&amp;P 500 High Quality Powershares" />
+  <上市公司 代码="SPLV" 名称="S&amp;P 500 Low Volatility Powershares" />
+  <上市公司 代码="SPLX" 名称="Etracs Monthly Reset 2Xleverage" />
+  <上市公司 代码="SPP" 名称="Sanchez Production Partners LLC" />
+  <上市公司 代码="SPPP" 名称="Sprott Physical Platinum and Pa" />
+  <上市公司 代码="SPXH" 名称="Velocityshares Volatility Hedge" />
+  <上市公司 代码="SPXL" 名称="Direxion Daily S&amp;P 500 Bull 3X Shares" />
+  <上市公司 代码="SPXS" 名称="Direxion Daily S&amp;P 500 Bear 3X Shares" />
+  <上市公司 代码="SPXU" 名称="Ultrapro Short S&amp;P 500 Proshares" />
+  <上市公司 代码="SPY" 名称="SPDR S&amp;P 500 ETF" />
+  <上市公司 代码="SPYG" 名称="SPDR DJ Largecap Growth ETF" />
+  <上市公司 代码="SPYV" 名称="SPDR DJ Largecap Value ETF" />
+  <上市公司 代码="SRLN" 名称="SPDR Blackstone Gso Senior Loan" />
+  <上市公司 代码="SRS" 名称="Ultrashort Real Estate Proshares" />
+  <上市公司 代码="SRTY" 名称="Ultrapro Short Russell 2000 Proshares" />
+  <上市公司 代码="SSG" 名称="Ultrashort Semiconductors Proshares" />
+  <上市公司 代码="SS-K" 名称="SiM Internal Test 9" />
+  <上市公司 代码="SSN" 名称="Samson Oil &amp; Gas Limited" />
+  <上市公司 代码="SSO" 名称="Ultra S&amp;P 500 Proshares" />
+  <上市公司 代码="SST" 名称="SPDR Short-Term Trsy Bond Barclays Capital" />
+  <上市公司 代码="SSY" 名称="Sunlink Health Systems" />
+  <上市公司 代码="STIP" 名称="0-5 Year Tips Bond Ishares" />
+  <上市公司 代码="STPP" 名称="US Trsy Steepener ETN Ipath" />
+  <上市公司 代码="STPZ" 名称="1-5 Year US Tips Index ETF Pimco" />
+  <上市公司 代码="STRP" 名称="Straight Path Communications In" />
+  <上市公司 代码="STS" 名称="Supreme Industries" />
+  <上市公司 代码="SUB" 名称="S&amp;P S/T Natnl Amt-Free Muni Bd Ishares" />
+  <上市公司 代码="SUBD" 名称="DB X-Trackers Solactive Investm" />
+  <上市公司 代码="SVBL" 名称="Silver Bull Resources Inc" />
+  <上市公司 代码="SVLC" 名称="Silvercrest Mines" />
+  <上市公司 代码="SVT" 名称="Servotronics Inc" />
+  <上市公司 代码="SVXY" 名称="Short VIX Short-Term Fut ETF Proshares" />
+  <上市公司 代码="SYE" 名称="SPDR MFS Systematic Core Equity" />
+  <上市公司 代码="SYG" 名称="SPDR MFS Systematic Growth Equi" />
+  <上市公司 代码="SYLD" 名称="Cambria Shareholder Yield ETF" />
+  <上市公司 代码="SYN" 名称="Synthetic Biologics Inc" />
+  <上市公司 代码="SYRG" 名称="Synergy Resources Cp" />
+  <上市公司 代码="SYV" 名称="SPDR MFS Systematic Value Equit" />
+  <上市公司 代码="SZK" 名称="Ultrashort Consumer Goods Proshares" />
+  <上市公司 代码="SZO" 名称="DB Crude Oil Short ETN Powershares" />
+  <上市公司 代码="TAGS" 名称="Teucrium Agricultural" />
+  <上市公司 代码="TAN" 名称="Solar ETF Guggenheim" />
+  <上市公司 代码="TAO" 名称="China Real Estate Guggenheim" />
+  <上市公司 代码="TAS" 名称="Tasman Metals" />
+  <上市公司 代码="TAT" 名称="Transatlantic Petroleum Ltd" />
+  <上市公司 代码="TBAR" 名称="RBS Gold Trendpilot ETN" />
+  <上市公司 代码="TBF" 名称="Short 20+ Year Treasury Proshares" />
+  <上市公司 代码="TBT" 名称="Ultrashort 20+ Year Treasury Proshares" />
+  <上市公司 代码="TBX" 名称="Short 7-10 Year Treasury Proshares" />
+  <上市公司 代码="TBZ" 名称="Ultrashort 3-7 Year Treasury Proshares" />
+  <上市公司 代码="TCHI" 名称="RBS China Trendpilot ETN" />
+  <上市公司 代码="TDD" 名称="DB-X 2010 Target Date ETF" />
+  <上市公司 代码="TDH" 名称="DB-X 2020 Target Date ETF" />
+  <上市公司 代码="TDN" 名称="DB-X 2030 Target Date ETF" />
+  <上市公司 代码="TDTF" 名称="Iboxx 5Yr Target Dur Tips ETF Flexshares" />
+  <上市公司 代码="TDTT" 名称="Iboxx 3Yr Target Dur Tips ETF Flexshares" />
+  <上市公司 代码="TDV" 名称="DB-X 2040 Target Date ETF" />
+  <上市公司 代码="TDX" 名称="DB-X In-Target Date ETF" />
+  <上市公司 代码="TECL" 名称="Technology Bull 3X Direxion" />
+  <上市公司 代码="TECS" 名称="Technology Bear 3X Direxion" />
+  <上市公司 代码="TENZ" 名称="7-15 Yr Trsy Index ETF Pimco" />
+  <上市公司 代码="TFI" 名称="SPDR Muni Bond Barclays Capital" />
+  <上市公司 代码="TFLO" 名称="Ishares Treasury Floating Rate" />
+  <上市公司 代码="TGB" 名称="Taseko Mines Limited" />
+  <上市公司 代码="TGC" 名称="Tengasco" />
+  <上市公司 代码="TGD" 名称="Timmins Gold Corp" />
+  <上市公司 代码="TGR" 名称="S&amp;P Target Date Retirement Inc Ishares" />
+  <上市公司 代码="THD" 名称="Thailand Invest Mkt Index MSCI Ishares" />
+  <上市公司 代码="THHY" 名称="Market Vectors Treasury-Hedged" />
+  <上市公司 代码="THM" 名称="International Tower Hill Mines Ltd" />
+  <上市公司 代码="THRK" 名称="SPDR Russell 3000 ETF" />
+  <上市公司 代码="TIK" 名称="Tel-Instrument Electronics" />
+  <上市公司 代码="TILT" 名称="Mstar US Mkt Factors Tilt ETF Flexshares" />
+  <上市公司 代码="TIP" 名称="Tips Bond Ishares" />
+  <上市公司 代码="TIPX" 名称="SPDR Barclays 1-10 Year Tips" />
+  <上市公司 代码="TIPZ" 名称="Broad U.S. Tips Index ETF Pimco" />
+  <上市公司 代码="TIS" 名称="Orchids Paper Products Company" />
+  <上市公司 代码="TLH" 名称="10-20 Year Treasury Bd Ishares" />
+  <上市公司 代码="TLL" 名称="Ultrashort Telecommunications Proshares" />
+  <上市公司 代码="TLO" 名称="SPDR Long-Term Treasury Barclays Capital" />
+  <上市公司 代码="TLR" 名称="Timberline Resources Corp" />
+  <上市公司 代码="TLT" 名称="20+ Year Trsy Bond Ishares" />
+  <上市公司 代码="TLTD" 名称="Flexshares Morningstar Develope" />
+  <上市公司 代码="TLTE" 名称="Flexshares Morningstar Emerging" />
+  <上市公司 代码="TMF" 名称="20+ Year Trsy Bull 3X Direxion" />
+  <上市公司 代码="TMP" 名称="Tompkinstrustco" />
+  <上市公司 代码="TMV" 名称="20+ Year Trsy Bear 3X Direxion" />
+  <上市公司 代码="TNA" 名称="Smallcap Bull 3X Direxion" />
+  <上市公司 代码="TNDQ" 名称="RBS Nasdaq 100 Trendpilot ETN" />
+  <上市公司 代码="TOF" 名称="Tofutti Brands Inc" />
+  <上市公司 代码="TOK" 名称="Kokusai Index MSCI Ishares" />
+  <上市公司 代码="TOLZ" 名称="Proshares DJ Brookfield Global" />
+  <上市公司 代码="TOTS" 名称="Total Market Bear 1X Direxion" />
+  <上市公司 代码="TPI" 名称="Tianyin Pharmaceutical Co." />
+  <上市公司 代码="TPLM" 名称="Triangle Petroleum Corp" />
+  <上市公司 代码="TPS" 名称="Ultrashort Tips Proshares" />
+  <上市公司 代码="TRC/WS" 名称="Tejon Ranch Co" />
+  <上市公司 代码="TRND" 名称="RBS US Largecap Trendpilot ETN" />
+  <上市公司 代码="TRNM" 名称="RBS US Midcap Trendpilot ETN" />
+  <上市公司 代码="TRSK" 名称="Velocityshares Tail Risk Hedged" />
+  <上市公司 代码="TRT" 名称="Trio-Tech International" />
+  <上市公司 代码="TRX" 名称="Tanzanian Royalty Exploration Corp" />
+  <上市公司 代码="TRXC" 名称="Transenterix Inc." />
+  <上市公司 代码="TSH" 名称="Teche Holding Company" />
+  <上市公司 代码="TTFS" 名称="Trimtabs Float Shrink ETF" />
+  <上市公司 代码="TTT" 名称="Ultrapro Short 20+ Year Trsy Proshares" />
+  <上市公司 代码="TUR" 名称="Turkey Invest Mkt Index MSCI Ishares" />
+  <上市公司 代码="TUZ" 名称="1-3 Year US Treasury Index ETF Pimco" />
+  <上市公司 代码="TWM" 名称="Ultrashort Russell 2000 Proshares" />
+  <上市公司 代码="TWOK" 名称="SPDR Russell 2000 ETF" />
+  <上市公司 代码="TWQ" 名称="Ultrashort Russell 3000 Proshares" />
+  <上市公司 代码="TWTI" 名称="RBS Oil Trendpilot ETN" />
+  <上市公司 代码="TXMD" 名称="Therapeuticsmd Inc" />
+  <上市公司 代码="TYBS" 名称="20+ Year Trsy Bear 1X Direxion" />
+  <上市公司 代码="TYD" 名称="7-10 Yr Trsy Bull 3X Direxion" />
+  <上市公司 代码="TYNS" 名称="7-10 Yr Trsy Bear 1X Direxion" />
+  <上市公司 代码="TYO" 名称="7-10 Yr Trsy Bear 3X Direxion" />
+  <上市公司 代码="TZA" 名称="Smallcap Bear 3X Direxion" />
+  <上市公司 代码="TZD" 名称="S&amp;P Target Date 2010 Ishares" />
+  <上市公司 代码="TZE" 名称="S&amp;P Target Date 2015 Ishares" />
+  <上市公司 代码="TZG" 名称="S&amp;P Target Date 2020 Ishares" />
+  <上市公司 代码="TZI" 名称="S&amp;P Target Date 2025 Ishares" />
+  <上市公司 代码="TZL" 名称="S&amp;P Target Date 2030 Ishares" />
+  <上市公司 代码="TZO" 名称="S&amp;P Target Date 2035 Ishares" />
+  <上市公司 代码="TZV" 名称="S&amp;P Target Date 2040 Ishares" />
+  <上市公司 代码="TZW" 名称="S&amp;P Target Date 2045 Ishares" />
+  <上市公司 代码="TZY" 名称="S&amp;P Target Date 2050 Ishares" />
+  <上市公司 代码="UAG" 名称="CMCI Agriculture TR ETN UBS E-Tracs" />
+  <上市公司 代码="UAMY" 名称="U S Antimony Corp" />
+  <上市公司 代码="UBC" 名称="CMCI Livestock TR ETN UBS E-Tracs" />
+  <上市公司 代码="UBG" 名称="CMCI Gold TR ETN UBS E-Tracs" />
+  <上市公司 代码="UBM" 名称="CMCI Industrial Mtls TR ETN UBS E-Tracs" />
+  <上市公司 代码="UBN" 名称="CMCI Energy TR ETN UBS E-Tracs" />
+  <上市公司 代码="UBR" 名称="Ultra MSCI Brazil Proshares" />
+  <上市公司 代码="UBT" 名称="Ultra 20+ Year Treasury Proshares" />
+  <上市公司 代码="UCC" 名称="Ultra Consumer Services Proshares" />
+  <上市公司 代码="UCD" 名称="Ultra DJ-UBS Commodity Proshares" />
+  <上市公司 代码="UCI" 名称="CMCI TR ETN UBS E-Tracs" />
+  <上市公司 代码="UCO" 名称="Ultra DJ-UBS Crude Oil Proshares" />
+  <上市公司 代码="UDN" 名称="DB US Dollar Index Bearish Powershares" />
+  <上市公司 代码="UDNT" 名称="DB 3X Short US Dollar Fut ETN Powershares" />
+  <上市公司 代码="UDOW" 名称="Ultrapro DOW 30 Proshares" />
+  <上市公司 代码="UEC" 名称="Uranium Energy" />
+  <上市公司 代码="UGA" 名称="US Gasoline" />
+  <上市公司 代码="UGAZ" 名称="3X Long Natural Gas ETN Velocityshares" />
+  <上市公司 代码="UGE" 名称="Ultra Consumer Goods Proshares" />
+  <上市公司 代码="UGL" 名称="Ultra Gold Proshares" />
+  <上市公司 代码="UHN" 名称="US Heating Oil" />
+  <上市公司 代码="UINF" 名称="Ultrapro 10 Yr Tips/Tsy Sp Proshares" />
+  <上市公司 代码="UJB" 名称="Ultra High Yield Proshares" />
+  <上市公司 代码="UKF" 名称="Ultra Russell 1000 Growth Proshares" />
+  <上市公司 代码="UKK" 名称="Ultra Russell 2000 Growth Proshares" />
+  <上市公司 代码="UKW" 名称="Ultra Russell Midcap Growth Proshares" />
+  <上市公司 代码="ULE" 名称="Ultra Euro Proshares" />
+  <上市公司 代码="ULST" 名称="SPDR SSGA Ultra Short Term Bond" />
+  <上市公司 代码="UMDD" 名称="Ultrapro Midcap 400 Proshares" />
+  <上市公司 代码="UMX" 名称="Ultra MSCI Mexico Proshares" />
+  <上市公司 代码="UNG" 名称="US Natural Gas" />
+  <上市公司 代码="UNL" 名称="US 12 Month Natural Gas" />
+  <上市公司 代码="UPRO" 名称="Ultrapro S&amp;P 500 Proshares" />
+  <上市公司 代码="UPV" 名称="Proshares Ultra FTSE Europe" />
+  <上市公司 代码="UPW" 名称="Ultra Utilities Proshares" />
+  <上市公司 代码="UQM" 名称="Uqm Technologies Inc" />
+  <上市公司 代码="URA" 名称="G-X Uranium ETF" />
+  <上市公司 代码="URE" 名称="Ultra Real Estate Proshares" />
+  <上市公司 代码="URG" 名称="Ur Energy Inc" />
+  <上市公司 代码="URR" 名称="Euro Double Long ETN Market Vectors" />
+  <上市公司 代码="URTH" 名称="World Index MSCI Ishares" />
+  <上市公司 代码="URTY" 名称="Ultrapro Russell 2000 Proshares" />
+  <上市公司 代码="URZ" 名称="Uranerz Energy Corp" />
+  <上市公司 代码="USAG" 名称="US Agriculture Index" />
+  <上市公司 代码="USCI" 名称="US Commodity Index" />
+  <上市公司 代码="USD" 名称="Ultra Semiconductors Proshares" />
+  <上市公司 代码="USDU" 名称="Wisdomtree Bloomberg USD Bullish" />
+  <上市公司 代码="USFR" 名称="Wisdomtree Bloomberg Floating R" />
+  <上市公司 代码="USL" 名称="US 12 Month Oil" />
+  <上市公司 代码="USMI" 名称="United States Metals Index Fund" />
+  <上市公司 代码="USMV" 名称="USA Min Volatility MSCI Ishares" />
+  <上市公司 代码="USO" 名称="US Oil" />
+  <上市公司 代码="USQ" 名称="UNION ST ACQ CORP" />
+  <上市公司 代码="UST" 名称="Ultra 7-10 Year Treasury Proshares" />
+  <上市公司 代码="USV" 名称="CMCI Silver TR ETN UBS E-Tracs" />
+  <上市公司 代码="UTG" 名称="Reaves Utility" />
+  <上市公司 代码="UTLT" 名称="DB X-Trackers Regulated Utiliti" />
+  <上市公司 代码="UUP" 名称="DB US Dollar Index Bullish Powershares" />
+  <上市公司 代码="UUPT" 名称="DB 3X Long US Dollar Fut ETN Powershares" />
+  <上市公司 代码="UUU" 名称="Universal Security Instruments" />
+  <上市公司 代码="UUUU" 名称="Energy Fuels Inc" />
+  <上市公司 代码="UVG" 名称="Ultra Russell 1000 Value Proshares" />
+  <上市公司 代码="UVT" 名称="Ultra Russell 2000 Value Proshares" />
+  <上市公司 代码="UVU" 名称="Ultra Russell Midcap Value Proshares" />
+  <上市公司 代码="UVXY" 名称="Ultra VIX Short-Term Fut ETF Proshares" />
+  <上市公司 代码="UWC" 名称="Ultra Russell 3000 Proshares" />
+  <上市公司 代码="UWM" 名称="Ultra Russell 2000 Proshares" />
+  <上市公司 代码="UWN" 名称="Nevada Gold &amp; Casinos" />
+  <上市公司 代码="UWTI" 名称="3X Long Crude ETN Velocityshares" />
+  <上市公司 代码="UXI" 名称="Ultra Industrials Proshares" />
+  <上市公司 代码="UXJ" 名称="Ultra MSCI Pacific Ex-Japan Proshares" />
+  <上市公司 代码="UYG" 名称="Ultra Financials Proshares" />
+  <上市公司 代码="UYM" 名称="Ultra Basic Materials Proshares" />
+  <上市公司 代码="VAW" 名称="Materials ETF Vanguard" />
+  <上市公司 代码="VB" 名称="Smallcap ETF Vanguard" />
+  <上市公司 代码="VBK" 名称="Smallcap Growth ETF Vanguard" />
+  <上市公司 代码="VBR" 名称="Smallcap Value ETF Vanguard" />
+  <上市公司 代码="VCF" 名称="Delaware Colorado Muni Income Fund Inc" />
+  <上市公司 代码="VCR" 名称="Consumer Discretionary ETF Vanguard" />
+  <上市公司 代码="VDC" 名称="Consumer Staples ETF Vanguard" />
+  <上市公司 代码="VDE" 名称="Energy ETF Vanguard" />
+  <上市公司 代码="VEA" 名称="EAFE ETF MSCI Vanguard" />
+  <上市公司 代码="VEGA" 名称="Advisorshares Star Global Buy-Write ETF" />
+  <上市公司 代码="VEGI" 名称="Global Agriculture Prod MSCI Ishares" />
+  <上市公司 代码="VEU" 名称="FTSE All-World Ex-US ETF Vanguard" />
+  <上市公司 代码="VFH" 名称="Financial ETF Vanguard" />
+  <上市公司 代码="VFL" 名称="Delaware Florida Insured Muni" />
+  <上市公司 代码="VGK" 名称="Europe ETF FTSE Vanguard" />
+  <上市公司 代码="VGT" 名称="Information Technology ETF Vanguard" />
+  <上市公司 代码="VGZ" 名称="Vista Gold Corp" />
+  <上市公司 代码="VHC" 名称="Virnetx Holding Corp" />
+  <上市公司 代码="VHT" 名称="Healthcare ETF Vanguard" />
+  <上市公司 代码="VIG" 名称="Dividend Appreciation ETF Vanguard" />
+  <上市公司 代码="VII" 名称="Vicon Industries Inc" />
+  <上市公司 代码="VIOG" 名称="S&amp;P Smallcap 600 Gr Idx ETF Vanguard" />
+  <上市公司 代码="VIOO" 名称="S&amp;P Smallcap 600 Index ETF Vanguard" />
+  <上市公司 代码="VIOV" 名称="S&amp;P Smallcap 600 Value Idx ETF Vanguard" />
+  <上市公司 代码="VIS" 名称="Industrials ETF Vanguard" />
+  <上市公司 代码="VISI" 名称="Volt Information Sciences, Inc." />
+  <上市公司 代码="VIXH" 名称="First Trust CBOE S&amp;P 500 VIX Ta" />
+  <上市公司 代码="VIXM" 名称="VIX Mid-Term Futures ETF Proshares" />
+  <上市公司 代码="VIXY" 名称="VIX Short-Term Futures ETF Proshares" />
+  <上市公司 代码="VKI" 名称="Invesco Advantage Muni Income Trust II" />
+  <上市公司 代码="VLU" 名称="SPDR S&amp;P 1500 Value Tilt ETF" />
+  <上市公司 代码="VLUE" 名称="Ishares MSCI USA Value Factor" />
+  <上市公司 代码="VMM" 名称="Delaware Minnesota Muni II" />
+  <上市公司 代码="VNM" 名称="Vietnam ETF Market Vectors" />
+  <上市公司 代码="VNQ" 名称="REIT Index ETF Vanguard" />
+  <上市公司 代码="VO" 名称="Midcap ETF Vanguard" />
+  <上市公司 代码="VOE" 名称="Midcap Value ETF Vanguard" />
+  <上市公司 代码="VOO" 名称="S&amp;P 500 ETF Vanguard" />
+  <上市公司 代码="VOOG" 名称="S&amp;P 500 Growth Index ETF Vanguard" />
+  <上市公司 代码="VOOV" 名称="S&amp;P 500 Value Index ETF Vanguard" />
+  <上市公司 代码="VOT" 名称="Midcap Growth ETF Vanguard" />
+  <上市公司 代码="VOX" 名称="Telecom Services ETF Vanguard" />
+  <上市公司 代码="VPL" 名称="Pacific ETF FTSE Vanguard" />
+  <上市公司 代码="VPU" 名称="Utilities ETF Vanguard" />
+  <上市公司 代码="VQT" 名称="S&amp;P 500 Dynamic Veqtor ETN Barclays" />
+  <上市公司 代码="VRD" 名称="SPDR S&amp;P Vrdo Municipal Bond" />
+  <上市公司 代码="VRP" 名称="Powershares Variable Rate Prefe" />
+  <上市公司 代码="VSB" 名称="Vantagesouth Bancshares Inc" />
+  <上市公司 代码="VSPY" 名称="S&amp;P 500 RC Vlty Res Direxion" />
+  <上市公司 代码="VSR" 名称="Versar Inc" />
+  <上市公司 代码="VSS" 名称="FTSE All-World Ex-US Smcp Idx ETF Vanguard" />
+  <上市公司 代码="VT" 名称="Total World Stock Index ETF Vanguard" />
+  <上市公司 代码="VTG" 名称="Vantage Drilling Company" />
+  <上市公司 代码="VTI" 名称="Total Stock Market ETF Vanguard" />
+  <上市公司 代码="VTV" 名称="Value ETF Vanguard" />
+  <上市公司 代码="VUG" 名称="Growth ETF Vanguard" />
+  <上市公司 代码="VV" 名称="Largecap ETF Vanguard" />
+  <上市公司 代码="VWO" 名称="Emrg Mkts ETF MSCI Vanguard" />
+  <上市公司 代码="VXF" 名称="Extended Market Index ETF Vanguard" />
+  <上市公司 代码="VXX" 名称="VIX Short-Term Futures ETN Ipath" />
+  <上市公司 代码="VXZ" 名称="VIX Mid-Term Futures ETN Ipath" />
+  <上市公司 代码="VYM" 名称="High Dividend Yield Indx ETF Vanguard" />
+  <上市公司 代码="WDIV" 名称="SPDR S&amp;P Global Dividend" />
+  <上市公司 代码="WDTI" 名称="Managed Futures Wisdomtree" />
+  <上市公司 代码="WEAT" 名称="Teucrium Wheat" />
+  <上市公司 代码="WEET" 名称="Grains Pure Beta ETN Ipath" />
+  <上市公司 代码="WGA" 名称="Wells-Gardner Electronics Corp" />
+  <上市公司 代码="WIP" 名称="SPDR DB Intl Govt Infl-Protected Bond" />
+  <上市公司 代码="WITE" 名称="Physical White Metals Basket" />
+  <上市公司 代码="WMCR" 名称="Microcap ETF Wilshire" />
+  <上市公司 代码="WMW" 名称="Mstar Wide Moat Focus ETN Elements" />
+  <上市公司 代码="WPS" 名称="S&amp;P Dev Ex-US Property Index Ishares" />
+  <上市公司 代码="WREI" 名称="US REIT ETF Wilshire" />
+  <上市公司 代码="WRN" 名称="Western Copper Corp" />
+  <上市公司 代码="WTT" 名称="Wireless Telecom Group Inc" />
+  <上市公司 代码="WWZ-K" 名称="SiM Internal Test 10" />
+  <上市公司 代码="WYY" 名称="Widepoint Corp" />
+  <上市公司 代码="XAR" 名称="SPDR S&amp;P Aerospace &amp; Defense" />
+  <上市公司 代码="XBI" 名称="SPDR S&amp;P Biotech" />
+  <上市公司 代码="XES" 名称="SPDR S&amp;P Oil &amp; Gas Equipment &amp; Services" />
+  <上市公司 代码="XHB" 名称="SPDR S&amp;P Homebuilders" />
+  <上市公司 代码="XHE" 名称="SPDR S&amp;P Health Care Equipment" />
+  <上市公司 代码="XHS" 名称="SPDR S&amp;P Health Care Services" />
+  <上市公司 代码="XLB" 名称="Materials Select Sector SPDR" />
+  <上市公司 代码="XLE" 名称="Energy Select Sector SPDR" />
+  <上市公司 代码="XLF" 名称="Financial Select Sector SPDR" />
+  <上市公司 代码="XLG" 名称="Russell Top 50 Guggenheim" />
+  <上市公司 代码="XLI" 名称="Industrial Select Sector SPDR" />
+  <上市公司 代码="XLK" 名称="Technology Select Sector SPDR" />
+  <上市公司 代码="XLP" 名称="Consumer Staples Select Sector SPDR" />
+  <上市公司 代码="XLU" 名称="Utilities Select Sector SPDR" />
+  <上市公司 代码="XLV" 名称="Healthcare Select Sector SPDR" />
+  <上市公司 代码="XLY" 名称="Consumer Discret Select Sector SPDR" />
+  <上市公司 代码="XME" 名称="SPDR S&amp;P Metals &amp; Mining" />
+  <上市公司 代码="XMLV" 名称="Powershares S&amp;P Midcap Low Vola" />
+  <上市公司 代码="XMPT" 名称="CEF Municipal Income ETF Market Vectors" />
+  <上市公司 代码="XOP" 名称="SPDR S&amp;P Oil &amp; Gas Exploration &amp; Prod" />
+  <上市公司 代码="XOVR" 名称="SPDR Bofa Merrill Lynch Crossov" />
+  <上市公司 代码="XPH" 名称="SPDR S&amp;P Pharmaceuticals" />
+  <上市公司 代码="XPL" 名称="Solitario Exploration &amp; Royalty Corp" />
+  <上市公司 代码="XPP" 名称="Ultra FTSE China 25 Proshares" />
+  <上市公司 代码="XRA" 名称="Exeter Resource Corp" />
+  <上市公司 代码="XRT" 名称="SPDR S&amp;P Retail" />
+  <上市公司 代码="XSD" 名称="SPDR S&amp;P Semiconductor" />
+  <上市公司 代码="XSLV" 名称="Powershares S&amp;P Smallcap Low Vo" />
+  <上市公司 代码="XSW" 名称="SPDR S&amp;P Software &amp; Services ETF" />
+  <上市公司 代码="XTL" 名称="SPDR S&amp;P Telecom" />
+  <上市公司 代码="XTN" 名称="SPDR S&amp;P Transportation" />
+  <上市公司 代码="XVIX" 名称="Daily Long-Short VIX ETN UBS E-Tracs" />
+  <上市公司 代码="XVZ" 名称="S&amp;P 500 Dynamic VIX ETN Ipath" />
+  <上市公司 代码="XXII" 名称="22Nd Cent" />
+  <上市公司 代码="XXV" 名称="S&amp;P 500 VIX Inverse S/T Fut ETN Ipath" />
+  <上市公司 代码="YANG" 名称="Direxion Daily FTSE China Bear 3X Shares" />
+  <上市公司 代码="YAO" 名称="China All-Cap Guggenheim" />
+  <上市公司 代码="YCL" 名称="Ultra Yen Proshares" />
+  <上市公司 代码="YCS" 名称="Ultrashort Yen Proshares" />
+  <上市公司 代码="YINN" 名称="Direxion Daily FTSE China Bull 3X Shares" />
+  <上市公司 代码="YMLI" 名称="Yorkville High Income Infrastru" />
+  <上市公司 代码="YMLP" 名称="High Income MLP ETF Yorkville" />
+  <上市公司 代码="YUMA" 名称="Yuma Energy, Inc." />
+  <上市公司 代码="YUMA-A" 名称="Yuma Energy, Inc." />
+  <上市公司 代码="YXI" 名称="Short FTSE China 25 Proshares" />
+  <上市公司 代码="YYY" 名称="Yieldshares High Income ETF" />
+  <上市公司 代码="ZBB" 名称="Zbb Energy Corp" />
+  <上市公司 代码="ZMLP" 名称="Direxion Zacks MLP High Income" />
+  <上市公司 代码="ZROZ" 名称="25+ Year Zero Cpn U.S. Trsy Idx ETF Pimco" />
+  <上市公司 代码="ZSL" 名称="Ultrashort Silver Proshares" />
+  <上市公司 代码="ZVV" 名称="Integr Sp Gdr Reg-S" />
+  <上市公司 代码="ZXX" 名称="SM Listed Test 3" />
+  <上市公司 代码="ZXX-F" 名称="SM Listed Test 3" />
+</root>

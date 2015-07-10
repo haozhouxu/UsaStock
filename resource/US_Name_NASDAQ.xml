@@ -1,0 +1,3229 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <上市公司 代码="AAIT" 名称="AC Asia Information Tech MSCI Ishares" />
+  <上市公司 代码="AAL" 名称="American Airlines Group Inc." />
+  <上市公司 代码="AAME" 名称="Atlantic American Corp" />
+  <上市公司 代码="AAOI" 名称="Applied Optoelectronics Inc" />
+  <上市公司 代码="AAON" 名称="Aaon Inc" />
+  <上市公司 代码="AAPL" 名称="Apple Inc" />
+  <上市公司 代码="AAVL" 名称="Avalanche Biotechnologies Inc" />
+  <上市公司 代码="AAWW" 名称="Atlas Air Worldwide Holdings" />
+  <上市公司 代码="AAXJ" 名称="All Country Asia Ex Jpn Idx MSCI Ishares" />
+  <上市公司 代码="ABAC" 名称="Aoxin Tianli Group, Inc." />
+  <上市公司 代码="ABAX" 名称="Abaxis Inc" />
+  <上市公司 代码="ABCB" 名称="Ameris Bancorp" />
+  <上市公司 代码="ABCD" 名称="Cambium Learning Group" />
+  <上市公司 代码="ABCO" 名称="The Advisory Board Company" />
+  <上市公司 代码="ABCW" 名称="Anchor BanCorp Wisconsin Inc" />
+  <上市公司 代码="ABDC" 名称="Alcentra Capital Corp." />
+  <上市公司 代码="ABFS" 名称="Arkansas Best Corp" />
+  <上市公司 代码="ABGB" 名称="Abengoa S.A." />
+  <上市公司 代码="ABIO" 名称="Arca Biopharma" />
+  <上市公司 代码="ABMD" 名称="Abiomed" />
+  <上市公司 代码="ABTL" 名称="Autobytel Inc" />
+  <上市公司 代码="ABY" 名称="Abengoa Yield PLC" />
+  <上市公司 代码="ACAD" 名称="Acadia Pharmaceuticals Inc" />
+  <上市公司 代码="ACAS" 名称="American Capital" />
+  <上市公司 代码="ACAT" 名称="Arctic Cat Inc" />
+  <上市公司 代码="ACCL" 名称="Accelrys Inc" />
+  <上市公司 代码="ACET" 名称="Aceto Corp" />
+  <上市公司 代码="ACFC" 名称="Atlantic Coast Federal Corp" />
+  <上市公司 代码="ACFN" 名称="Acorn Energy" />
+  <上市公司 代码="ACGL" 名称="Arch Capital Group Ltd" />
+  <上市公司 代码="ACHC" 名称="Acadia Healthcare Company Inc" />
+  <上市公司 代码="ACHN" 名称="Achillion Pharmaceuticals" />
+  <上市公司 代码="ACIW" 名称="Aci Worldwide" />
+  <上市公司 代码="ACLS" 名称="Axcelis Technologies" />
+  <上市公司 代码="ACNB" 名称="Acnb Corp" />
+  <上市公司 代码="ACOR" 名称="Acorda Therapeutics" />
+  <上市公司 代码="ACPW" 名称="Active Power" />
+  <上市公司 代码="ACRX" 名称="Acelrx Pharmaceuticals" />
+  <上市公司 代码="ACSF" 名称="American Capital Senior Floatin" />
+  <上市公司 代码="ACST" 名称="Acasti Pharma Inc" />
+  <上市公司 代码="ACTA" 名称="Actua Corporation" />
+  <上市公司 代码="ACTG" 名称="Acacia Research Corp" />
+  <上市公司 代码="ACTS" 名称="Actions Semiconductor Co." />
+  <上市公司 代码="ACUR" 名称="Acura Pharmaceuticals" />
+  <上市公司 代码="ACWI" 名称="ACWI Index MSCI Ishares" />
+  <上市公司 代码="ACWX" 名称="ACWI Ex-US Index MSCI Ishares" />
+  <上市公司 代码="ACXM" 名称="Acxiom Corp" />
+  <上市公司 代码="ADAT" 名称="Authentidate Holding" />
+  <上市公司 代码="ADBE" 名称="Adobe Systems Incorporated" />
+  <上市公司 代码="ADEP" 名称="Adept Technology" />
+  <上市公司 代码="ADES" 名称="Advanced Emissions Solutions Inc" />
+  <上市公司 代码="ADHD" 名称="Alcobra Ltd" />
+  <上市公司 代码="ADI" 名称="Analog Devices" />
+  <上市公司 代码="ADMA" 名称="ADMA Biologics Inc" />
+  <上市公司 代码="ADMP" 名称="Adamis Pharmaceuticl" />
+  <上市公司 代码="ADMS" 名称="Adamas Pharmaceuticals Inc." />
+  <上市公司 代码="ADNC" 名称="Audience Inc" />
+  <上市公司 代码="ADP" 名称="Automatic Data Processing" />
+  <上市公司 代码="ADPVV" 名称="Automatic Data Processing, Inc." />
+  <上市公司 代码="ADRA" 名称="Asia 50 ADR Index Bldrs" />
+  <上市公司 代码="ADRD" 名称="Dev Mkts 100 ADR Index Bldrs" />
+  <上市公司 代码="ADRE" 名称="Emrg Mkts 50 ADR Index Bldrs" />
+  <上市公司 代码="ADRU" 名称="Europe 100 ADR Index Bldrs" />
+  <上市公司 代码="ADSK" 名称="Autodesk Inc" />
+  <上市公司 代码="ADTN" 名称="Adtran Inc" />
+  <上市公司 代码="ADUS" 名称="Addus Homecare Corp" />
+  <上市公司 代码="ADVS" 名称="Advent Software" />
+  <上市公司 代码="ADXS" 名称="Advaxis Inc" />
+  <上市公司 代码="ADXSW" 名称="Advaxis Inc" />
+  <上市公司 代码="AEGN" 名称="Aegoin Corp" />
+  <上市公司 代码="AEGR" 名称="Aegerion Pharmaceuticals" />
+  <上市公司 代码="AEHR" 名称="Aehr Test Systems" />
+  <上市公司 代码="AEIS" 名称="Advanced Energy Industries" />
+  <上市公司 代码="AEPI" 名称="AEP Industries Inc" />
+  <上市公司 代码="AERI" 名称="Aerie Pharmaceuticals Inc" />
+  <上市公司 代码="AETI" 名称="American Electric Technologies" />
+  <上市公司 代码="AEY" 名称="Addvantage Technologies Group" />
+  <上市公司 代码="AEZS" 名称="Aeterna Zentaris" />
+  <上市公司 代码="AFAM" 名称="Almost Family Inc" />
+  <上市公司 代码="AFCB" 名称="Athens Bancshares Corp" />
+  <上市公司 代码="AFFX" 名称="Affymetrix" />
+  <上市公司 代码="AFH" 名称="Atlas Financial Holdings Inc" />
+  <上市公司 代码="AFMD" 名称="Affimed Therapeutics BV" />
+  <上市公司 代码="AFOP" 名称="Alliance Fiber Optic Products" />
+  <上市公司 代码="AFSI" 名称="Amtrust Financial Services" />
+  <上市公司 代码="AGEN" 名称="Agenus Inc" />
+  <上市公司 代码="AGII" 名称="Argo Group International Holdings Ltd" />
+  <上市公司 代码="AGIIL" 名称="Argo Group International Holdin" />
+  <上市公司 代码="AGIO" 名称="Agios Pharmaceuticals Inc" />
+  <上市公司 代码="AGMX" 名称="AutoGenomics, Inc." />
+  <上市公司 代码="AGNC" 名称="American Capital Agency" />
+  <上市公司 代码="AGNCB" 名称="American Capital Agency Corp." />
+  <上市公司 代码="AGNCP" 名称="American Capital" />
+  <上市公司 代码="AGND" 名称="Wisdomtree Barclays U.S. Aggreg" />
+  <上市公司 代码="AGRX" 名称="Agile Therapeutics, Inc. " />
+  <上市公司 代码="AGTC" 名称="Applied Genetic Technologies Co" />
+  <上市公司 代码="AGYS" 名称="Agilysys Inc" />
+  <上市公司 代码="AGZD" 名称="Wisdomtree Barclays U.S. Aggreg" />
+  <上市公司 代码="AHGP" 名称="Alliance Holdings Gp L.P." />
+  <上市公司 代码="AHPI" 名称="Allied Healthcare Products" />
+  <上市公司 代码="AIMC" 名称="Altra Holdings" />
+  <上市公司 代码="AINV" 名称="Apollo Investment Corp" />
+  <上市公司 代码="AIQ" 名称="Alliance Healthcare Services" />
+  <上市公司 代码="AIRM" 名称="Air Methods Corp" />
+  <上市公司 代码="AIRR" 名称="First Trust Rba American Indust" />
+  <上市公司 代码="AIRT" 名称="Air T Inc" />
+  <上市公司 代码="AIXG" 名称="Aixtron Se" />
+  <上市公司 代码="AKAM" 名称="Akamai Technologies" />
+  <上市公司 代码="AKAO" 名称="Achaogen Inc" />
+  <上市公司 代码="AKBA" 名称="Akebia Therapeutics Inc." />
+  <上市公司 代码="AKER" 名称="Akers Biosciences" />
+  <上市公司 代码="AKRX" 名称="Akorn Inc" />
+  <上市公司 代码="ALCO" 名称="Alico Inc" />
+  <上市公司 代码="ALCS" 名称="Alco Stores Inc" />
+  <上市公司 代码="ALDR" 名称="Alder Biopharmaceuticals Inc" />
+  <上市公司 代码="ALDX" 名称="Aldeyra Therapeutics Inc." />
+  <上市公司 代码="ALGN" 名称="Align Technology" />
+  <上市公司 代码="ALGT" 名称="Allegiant Travel Company" />
+  <上市公司 代码="ALIM" 名称="Alimera Sciences" />
+  <上市公司 代码="ALKS" 名称="Alkermes Plc" />
+  <上市公司 代码="ALLB" 名称="Alliance Bank" />
+  <上市公司 代码="ALLT" 名称="Allot Communications Ltd" />
+  <上市公司 代码="ALNY" 名称="Alnylam Pharmaceuticals" />
+  <上市公司 代码="ALOG" 名称="Analogic Corp" />
+  <上市公司 代码="ALOT" 名称="Astro-Med" />
+  <上市公司 代码="ALQA" 名称="Alliqua Inc" />
+  <上市公司 代码="ALSK" 名称="Alaska Communications Systems" />
+  <上市公司 代码="ALTI" 名称="Altair Nanotechnologies Inc" />
+  <上市公司 代码="ALTR" 名称="Altera Corp" />
+  <上市公司 代码="ALXA" 名称="Alexza Pharmaceuticals" />
+  <上市公司 代码="ALXN" 名称="Alexion Pharmaceuticals" />
+  <上市公司 代码="AMAG" 名称="Amag Pharmaceuticals" />
+  <上市公司 代码="AMAP" 名称="Autonavi Holdings" />
+  <上市公司 代码="AMAT" 名称="Applied Materials" />
+  <上市公司 代码="AMBA" 名称="Ambarella Inc" />
+  <上市公司 代码="AMBC" 名称="Ambac Financial Group Inc" />
+  <上市公司 代码="AMBCW" 名称="Ambac Financial Group Inc" />
+  <上市公司 代码="AMBI" 名称="Ambit Biosciences Corp" />
+  <上市公司 代码="AMBT" 名称="Ambient Corp" />
+  <上市公司 代码="AMBX" 名称="Ambrx Inc" />
+  <上市公司 代码="AMCC" 名称="Applied Micro Circuits Corp" />
+  <上市公司 代码="AMCF" 名称="Andatee China Marine Fuel Services" />
+  <上市公司 代码="AMCN" 名称="Airmedia Group Inc" />
+  <上市公司 代码="AMCX" 名称="Amc Networks Inc" />
+  <上市公司 代码="AMDA" 名称="Amedica Corp" />
+  <上市公司 代码="AMED" 名称="Amedisys Inc" />
+  <上市公司 代码="AMGN" 名称="Amgen Inc" />
+  <上市公司 代码="AMIC" 名称="American Independence" />
+  <上市公司 代码="AMKR" 名称="Amkor Technology" />
+  <上市公司 代码="AMNB" 名称="American National Bankshares" />
+  <上市公司 代码="AMOT" 名称="Allied Motion Technologies" />
+  <上市公司 代码="AMOV" 名称="America Movil S.A.B. De C.V." />
+  <上市公司 代码="AMPH" 名称="Amphastar Pharmaceuticals Inc" />
+  <上市公司 代码="AMRB" 名称="American River Bankshares" />
+  <上市公司 代码="AMRI" 名称="Albany Molecular Research" />
+  <上市公司 代码="AMRK" 名称="A-Mark Precious Metals Inc." />
+  <上市公司 代码="AMRN" 名称="Amarin Corporation Plc" />
+  <上市公司 代码="AMRS" 名称="Amyris Inc" />
+  <上市公司 代码="AMSC" 名称="American Superconductor Corp" />
+  <上市公司 代码="AMSF" 名称="Amerisafe Inc" />
+  <上市公司 代码="AMSG" 名称="Amsurg Corp" />
+  <上市公司 代码="AMSGP" 名称="Amsurg Corp." />
+  <上市公司 代码="AMSWA" 名称="American Software" />
+  <上市公司 代码="AMTX" 名称="Aemetis, Inc" />
+  <上市公司 代码="AMWD" 名称="American Woodmark Corp" />
+  <上市公司 代码="AMZN" 名称="Amazon.Com Inc" />
+  <上市公司 代码="ANAC" 名称="Anacor Pharmaceuticals" />
+  <上市公司 代码="ANAD" 名称="Anadigics Inc" />
+  <上市公司 代码="ANAT" 名称="American National Insurance" />
+  <上市公司 代码="ANCB" 名称="Anchor Bancorp" />
+  <上市公司 代码="ANCI" 名称="American Caresource Holdings" />
+  <上市公司 代码="ANCX" 名称="Access National Corp" />
+  <上市公司 代码="ANDE" 名称="The Andersons" />
+  <上市公司 代码="ANGI" 名称="Angie's List Inc" />
+  <上市公司 代码="ANGO" 名称="Angiodynamics" />
+  <上市公司 代码="ANIK" 名称="Anika Therapeutics Inc" />
+  <上市公司 代码="ANIP" 名称="ANI Pharmaceuticals Inc" />
+  <上市公司 代码="ANSS" 名称="Ansys Inc" />
+  <上市公司 代码="ANTH" 名称="Anthera Pharmaceuticals" />
+  <上市公司 代码="ANY" 名称="Sphere 3D Corp" />
+  <上市公司 代码="AOSL" 名称="Alpha and Omega Semiconductor" />
+  <上市公司 代码="APAGF" 名称="Apco Oil and Gas International" />
+  <上市公司 代码="APDN" 名称="Applied DNA Sciences Inc" />
+  <上市公司 代码="APDNW" 名称="Applied DNA Sciences Inc" />
+  <上市公司 代码="APEI" 名称="American Public Education" />
+  <上市公司 代码="APOG" 名称="Apogee Enterprises" />
+  <上市公司 代码="APOL" 名称="Apollo Group" />
+  <上市公司 代码="APPY" 名称="Aspenbio Pharma" />
+  <上市公司 代码="APRI" 名称="Apricus Biosciences Inc" />
+  <上市公司 代码="APSA" 名称="Alto Palermo S.A." />
+  <上市公司 代码="APTO" 名称="Aptose Biosciences, Inc." />
+  <上市公司 代码="APWC" 名称="Asia Pac Wire &amp;Cable" />
+  <上市公司 代码="AQU" 名称="Aquasition Corp" />
+  <上市公司 代码="AQUUU" 名称="Aquasition Corp" />
+  <上市公司 代码="AQUUW" 名称="Aquasition Corp" />
+  <上市公司 代码="AQXP" 名称="Aquinox Pharmaceuticals Inc." />
+  <上市公司 代码="ARAY" 名称="Accuray Incorporated" />
+  <上市公司 代码="ARBR" 名称="ArborGen Inc." />
+  <上市公司 代码="ARCB" 名称="Arcbest Corp." />
+  <上市公司 代码="ARCC" 名称="Ares Capital Corp" />
+  <上市公司 代码="ARCI" 名称="Appliance Recycling Centers" />
+  <上市公司 代码="ARCP" 名称="American Realty Capital Propert" />
+  <上市公司 代码="ARCPP" 名称="American Realty Capital Propert" />
+  <上市公司 代码="ARCW" 名称="Arc Group Worldwide Inc." />
+  <上市公司 代码="ARDM" 名称="Aradigm Corporation" />
+  <上市公司 代码="ARDX" 名称="Ardelyx Inc" />
+  <上市公司 代码="AREX" 名称="Approach Resources Inc" />
+  <上市公司 代码="ARGS" 名称="Argos Therapeutics Inc" />
+  <上市公司 代码="ARIA" 名称="Ariad Pharmaceuticals" />
+  <上市公司 代码="ARII" 名称="American Railcar Industries" />
+  <上市公司 代码="ARIS" 名称="Ari Network Svcs" />
+  <上市公司 代码="ARKR" 名称="Ark Restaurants" />
+  <上市公司 代码="ARLP" 名称="Alliance Resource Partners L.P." />
+  <上市公司 代码="ARMH" 名称="Arm Holdings Plc" />
+  <上市公司 代码="ARNA" 名称="Arena Pharmaceuticals" />
+  <上市公司 代码="AROW" 名称="Arrow Financial Corp" />
+  <上市公司 代码="ARQL" 名称="Arqule Inc" />
+  <上市公司 代码="ARRS" 名称="Arris Group Inc" />
+  <上市公司 代码="ARRY" 名称="Array Biopharma Inc" />
+  <上市公司 代码="ARTC" 名称="Arthrocare Corp" />
+  <上市公司 代码="ARTNA" 名称="Artesian Resources Corp" />
+  <上市公司 代码="ARTW" 名称="Art'S-Way Manufacturing Co." />
+  <上市公司 代码="ARTX" 名称="Arotech Corp" />
+  <上市公司 代码="ARUN" 名称="Aruba Networks" />
+  <上市公司 代码="ARWR" 名称="Arrowhead Research Corp" />
+  <上市公司 代码="ASBB" 名称="Asb Bancorp Inc" />
+  <上市公司 代码="ASBC" 名称="Associated Banc-Corp" />
+  <上市公司 代码="ASBCW" 名称="Associated Banc-Corp" />
+  <上市公司 代码="ASBI" 名称="Ameriana Bancorp" />
+  <上市公司 代码="ASCMA" 名称="Ascent Media Corp" />
+  <上市公司 代码="ASDR" 名称="Velocityshares Emerging Asia Dr" />
+  <上市公司 代码="ASEI" 名称="American Science and Engineering" />
+  <上市公司 代码="ASFI" 名称="Asta Funding" />
+  <上市公司 代码="ASMB" 名称="Assembly Biosciences, Inc." />
+  <上市公司 代码="ASMI" 名称="Asm International N.V." />
+  <上市公司 代码="ASML" 名称="Asml Holding N.V." />
+  <上市公司 代码="ASNA" 名称="Ascena Retail Group" />
+  <上市公司 代码="ASPS" 名称="Altisource Portfolio Solutions S.A." />
+  <上市公司 代码="ASPX" 名称="Auspex Pharmaceuticals Inc." />
+  <上市公司 代码="ASRV" 名称="Ameriserv Financial Inc" />
+  <上市公司 代码="ASRVP" 名称="Ameriserv Financial Inc" />
+  <上市公司 代码="ASTC" 名称="Astrotech Corp" />
+  <上市公司 代码="ASTE" 名称="Astec Industries" />
+  <上市公司 代码="ASTI" 名称="Ascent Solar Technologies" />
+  <上市公司 代码="ASTM" 名称="Aastrom Biosciences" />
+  <上市公司 代码="ASUR" 名称="Asure Software Inc" />
+  <上市公司 代码="ASYS" 名称="Amtech Systems" />
+  <上市公司 代码="ATAI" 名称="Ata Inc" />
+  <上市公司 代码="ATAX" 名称="America First Tax Exempt L.P." />
+  <上市公司 代码="ATEA" 名称="Astea International" />
+  <上市公司 代码="ATEC" 名称="Alphatec Holdings" />
+  <上市公司 代码="ATHN" 名称="Athenahealth" />
+  <上市公司 代码="ATHX" 名称="Athersys" />
+  <上市公司 代码="ATLC" 名称="Atlanticus Holdings Corp" />
+  <上市公司 代码="ATLO" 名称="Ames National Corp" />
+  <上市公司 代码="ATMI" 名称="Atmi Inc" />
+  <上市公司 代码="ATML" 名称="Atmel Corp" />
+  <上市公司 代码="ATNI" 名称="Atlantic Tele-Network" />
+  <上市公司 代码="ATNY" 名称="Api Technologies" />
+  <上市公司 代码="ATOS" 名称="Atossa Genetics Inc" />
+  <上市公司 代码="ATRA" 名称="Atara Biotherapeutics Inc" />
+  <上市公司 代码="ATRC" 名称="Atricure" />
+  <上市公司 代码="ATRI" 名称="Atrion Corp" />
+  <上市公司 代码="ATRM" 名称="Aetrium Inc" />
+  <上市公司 代码="ATRO" 名称="Astronics Corp" />
+  <上市公司 代码="ATRS" 名称="Antares Pharma" />
+  <上市公司 代码="ATSG" 名称="Air Transport Services Group Inc" />
+  <上市公司 代码="ATTU" 名称="Attunity Ltd" />
+  <上市公司 代码="ATVI" 名称="Activision Blizzard Inc" />
+  <上市公司 代码="AUBN" 名称="Auburn National Bancorporation" />
+  <上市公司 代码="AUDC" 名称="Audiocodes Ltd" />
+  <上市公司 代码="AUMA" 名称="AR Capital Acquisition Corp." />
+  <上市公司 代码="AUMAU" 名称="AR Capital Acquisition Corp." />
+  <上市公司 代码="AUMAW" 名称="AR Capital Acquisition Corp." />
+  <上市公司 代码="AUPH" 名称="Aurinia Pharmaceuticals Inc" />
+  <上市公司 代码="AURX" 名称="Audeo Oncology, Inc." />
+  <上市公司 代码="AUXL" 名称="Auxilium Pharmaceuticals" />
+  <上市公司 代码="AVAV" 名称="Aerovironment" />
+  <上市公司 代码="AVEO" 名称="Aveo Pharmaceuticals" />
+  <上市公司 代码="AVGO" 名称="Avago Technologies" />
+  <上市公司 代码="AVHI" 名称="Av Homes Inc" />
+  <上市公司 代码="AVID" 名称="Avid Technology, Inc." />
+  <上市公司 代码="AVNR" 名称="Avanir Pharmaceuticals Inc" />
+  <上市公司 代码="AVNW" 名称="Aviat Networks" />
+  <上市公司 代码="AVST" 名称="Avast Software N.V." />
+  <上市公司 代码="AWAY" 名称="Homeaway Inc" />
+  <上市公司 代码="AWRE" 名称="Aware Inc" />
+  <上市公司 代码="AXAS" 名称="Abraxas Petroleum Corp" />
+  <上市公司 代码="AXDX" 名称="Accelerate Diagnostics Inc" />
+  <上市公司 代码="AXGN" 名称="Axogen Inc." />
+  <上市公司 代码="AXJS" 名称="AC Asia Ex Japan Smallcap MSCI Ishares" />
+  <上市公司 代码="AXPW" 名称="Axion Power International, Inc." />
+  <上市公司 代码="AXPWW" 名称="Axion Power International, Inc." />
+  <上市公司 代码="AXTI" 名称="Axt Inc" />
+  <上市公司 代码="AZPN" 名称="Aspen Technology" />
+  <上市公司 代码="BABY" 名称="Natus Medical Inc" />
+  <上市公司 代码="BAGL" 名称="Einstein Noah Restaurant Group" />
+  <上市公司 代码="BAGR" 名称="Diversified Restaurant Holdings Inc" />
+  <上市公司 代码="BAMM" 名称="Books-A-Million" />
+  <上市公司 代码="BANC" 名称="First Pactrust Bancorp" />
+  <上市公司 代码="BANCL" 名称="First Pactrust Bancorp Inc" />
+  <上市公司 代码="BANCP" 名称="First Pactrust Bancorp Inc" />
+  <上市公司 代码="BANF" 名称="Bancfirst Corp" />
+  <上市公司 代码="BANFP" 名称="Bancfirst Corp" />
+  <上市公司 代码="BANR" 名称="Banner Corp" />
+  <上市公司 代码="BANX" 名称="Stonecastle Financial Corporati" />
+  <上市公司 代码="BASI" 名称="Bioanalytical Systems" />
+  <上市公司 代码="BAXS" 名称="Baxano Surgical Inc" />
+  <上市公司 代码="BBBY" 名称="Bed Bath &amp; Beyond Inc" />
+  <上市公司 代码="BBC" 名称="BioShares Biotechnology Clinical Trials Fund" />
+  <上市公司 代码="BBCN" 名称="Bbcn Bancorp Inc" />
+  <上市公司 代码="BBEP" 名称="Breitburn Energy Partners L.P." />
+  <上市公司 代码="BBEPP" 名称="BreitBurn Energy Partners, L.P." />
+  <上市公司 代码="BBGI" 名称="Beasley Broadcast Group" />
+  <上市公司 代码="BBLU" 名称="Blue Earth, Inc." />
+  <上市公司 代码="BBNK" 名称="Bridge Capital Holdings" />
+  <上市公司 代码="BBOX" 名称="Black Box Corp" />
+  <上市公司 代码="BBP" 名称="BioShares Biotechnology Products Fund" />
+  <上市公司 代码="BBRG" 名称="Bravo Brio Restaurant Group" />
+  <上市公司 代码="BBRY" 名称="Blackberry Limited" />
+  <上市公司 代码="BBSI" 名称="Barrett Business Services" />
+  <上市公司 代码="BCBP" 名称="Bcb Bancorp Inc. [Nj]" />
+  <上市公司 代码="BCLI" 名称="Brainstorm Cell Therapeutics Inc." />
+  <上市公司 代码="BCOM" 名称="B Communications Ltd" />
+  <上市公司 代码="BCOR" 名称="Blucora Inc" />
+  <上市公司 代码="BCOV" 名称="Brightcove Inc" />
+  <上市公司 代码="BCPC" 名称="Balchem Corp" />
+  <上市公司 代码="BCRX" 名称="Biocryst Pharmaceuticals" />
+  <上市公司 代码="BDBD" 名称="Boulder Brands Inc" />
+  <上市公司 代码="BDCV" 名称="BDCA Venture, Inc." />
+  <上市公司 代码="BDE" 名称="Black Diamond" />
+  <上市公司 代码="BDGE" 名称="Bridge Bancorp" />
+  <上市公司 代码="BDMS" 名称="Birner Dental Management Services" />
+  <上市公司 代码="BDSI" 名称="Biodelivery Sciences International" />
+  <上市公司 代码="BEAT" 名称="Cardionet" />
+  <上市公司 代码="BEAV" 名称="BE Aerospace" />
+  <上市公司 代码="BEAVV" 名称="B/E Aerospace, Inc." />
+  <上市公司 代码="BEBE" 名称="Bebe Stores" />
+  <上市公司 代码="BECN" 名称="Beacon Roofing Supply" />
+  <上市公司 代码="BELFA" 名称="Bel Fuse Inc" />
+  <上市公司 代码="BELFB" 名称="Bel Fuse Inc" />
+  <上市公司 代码="BFIN" 名称="Bankfinancial Corp" />
+  <上市公司 代码="BGCP" 名称="Bgc Partners" />
+  <上市公司 代码="BGFV" 名称="Big 5 Sporting Goods Corp" />
+  <上市公司 代码="BGMD" 名称="Bg Medicine" />
+  <上市公司 代码="BHBK" 名称="Blue Hills Bancorp, Inc." />
+  <上市公司 代码="BHZN" 名称="BioHorizons, Inc." />
+  <上市公司 代码="BIB" 名称="Ultra Nasdaq Biotechnology Proshares" />
+  <上市公司 代码="BICK" 名称="BICK Index First Trust" />
+  <上市公司 代码="BIDU" 名称="Baidu Inc" />
+  <上市公司 代码="BIIB" 名称="Biogen Idec Inc" />
+  <上市公司 代码="BIND" 名称="Bind Therapeutics Inc" />
+  <上市公司 代码="BIOC" 名称="Biocept Inc" />
+  <上市公司 代码="BIOD" 名称="Biodel Inc" />
+  <上市公司 代码="BIOF" 名称="Biofuel Energy" />
+  <上市公司 代码="BIOFR" 名称="BioFuel Energy Corp." />
+  <上市公司 代码="BIOL" 名称="Biolase Technology" />
+  <上市公司 代码="BIOS" 名称="Bioscrip Inc" />
+  <上市公司 代码="BIRT" 名称="Actuate Corp" />
+  <上市公司 代码="BIS" 名称="Ultrashort Nasdaq Biotech Proshares" />
+  <上市公司 代码="BJRI" 名称="Bj's Restaurants" />
+  <上市公司 代码="BKCC" 名称="Blackrock Kelso Capital Corp" />
+  <上市公司 代码="BKEP" 名称="Blueknight Energy" />
+  <上市公司 代码="BKEPP" 名称="Blueknight Energy Partners L.P." />
+  <上市公司 代码="BKMU" 名称="Bank Mutual Corp" />
+  <上市公司 代码="BKSC" 名称="Bank of South Carolina" />
+  <上市公司 代码="BKYF" 名称="The Bank of Kentucky Financial" />
+  <上市公司 代码="BLCM" 名称="Bellicum Pharmaceuticals Inc" />
+  <上市公司 代码="BLDP" 名称="Ballard Power Systems" />
+  <上市公司 代码="BLDR" 名称="Builders Firstsource" />
+  <上市公司 代码="BLFS" 名称="Biolife Solutions" />
+  <上市公司 代码="BLIN" 名称="Bridgeline Digital" />
+  <上市公司 代码="BLKB" 名称="Blackbaud Inc" />
+  <上市公司 代码="BLMN" 名称="Bloomin' Brands Inc" />
+  <上市公司 代码="BLMT" 名称="Bsb Bancorp Inc" />
+  <上市公司 代码="BLRX" 名称="Biolinerx Ltd" />
+  <上市公司 代码="BLUE" 名称="Bluebird Bio Inc" />
+  <上市公司 代码="BLVD" 名称="Belvedere Resources" />
+  <上市公司 代码="BLVDU" 名称="Boulevard Acquisition Corp." />
+  <上市公司 代码="BLVDW" 名称="Boulevard Acquisition Corp." />
+  <上市公司 代码="BMRC" 名称="Bank of Marin Bancorp" />
+  <上市公司 代码="BMRN" 名称="Biomarin Pharmaceutical Inc" />
+  <上市公司 代码="BMTC" 名称="Bryn Mawr Bank Corp" />
+  <上市公司 代码="BNCL" 名称="Beneficial Mutual Bancorp" />
+  <上市公司 代码="BNCN" 名称="BNC Bancorp" />
+  <上市公司 代码="BNDX" 名称="Vanguard Total International Bo" />
+  <上市公司 代码="BNFT" 名称="Benefitfocus Inc" />
+  <上市公司 代码="BNSO" 名称="Bonso Electronics International" />
+  <上市公司 代码="BOBE" 名称="Bob Evans Farms" />
+  <上市公司 代码="BOCH" 名称="Bank of Commerce Holdings [Ca]" />
+  <上市公司 代码="BODY" 名称="Body Central" />
+  <上市公司 代码="BOFI" 名称="Bofi Holding" />
+  <上市公司 代码="BOKF" 名称="Bok Financial Corp" />
+  <上市公司 代码="BOLT" 名称="Bolt Technology Corp" />
+  <上市公司 代码="BONA" 名称="Bona Film Group Limited" />
+  <上市公司 代码="BONT" 名称="The Bon-Ton Stores" />
+  <上市公司 代码="BOOM" 名称="Dynamic Materials Corp" />
+  <上市公司 代码="BOSC" 名称="B.O.S. Better Online Solutions" />
+  <上市公司 代码="BOTA" 名称="Biota Pharmaceuticals Inc" />
+  <上市公司 代码="BOTJ" 名称="Bank of The Jame Fnl" />
+  <上市公司 代码="BPFH" 名称="Boston Private Financial Holdings" />
+  <上市公司 代码="BPFHP" 名称="Boston Private Financial Holdings Inc. Dep." />
+  <上市公司 代码="BPFHW" 名称="Boston Private Financial Holdings" />
+  <上市公司 代码="BPHX" 名称="Bluephoenix Solutions" />
+  <上市公司 代码="BPOP" 名称="Popular Inc" />
+  <上市公司 代码="BPOPM" 名称="Popular Inc" />
+  <上市公司 代码="BPOPN" 名称="Popular Inc" />
+  <上市公司 代码="BPTH" 名称="Bio-Path Holdings" />
+  <上市公司 代码="BRCD" 名称="Brocade Communications Systems" />
+  <上市公司 代码="BRCM" 名称="Broadcom Corp" />
+  <上市公司 代码="BRDR" 名称="Borderfree Inc." />
+  <上市公司 代码="BREW" 名称="Craft Brewers Alliance Inc" />
+  <上市公司 代码="BRID" 名称="Bridgford Foods Corp" />
+  <上市公司 代码="BRKL" 名称="Brookline Bancorp" />
+  <上市公司 代码="BRKR" 名称="Bruker Corp" />
+  <上市公司 代码="BRKS" 名称="Brooks Automation" />
+  <上市公司 代码="BRLI" 名称="Bio-Reference Laboratories" />
+  <上市公司 代码="BSDM" 名称="Bsd Medical Corp" />
+  <上市公司 代码="BSET" 名称="Bassett Furniture Industries Inc" />
+  <上市公司 代码="BSF" 名称="Bear State Financial, Inc." />
+  <上市公司 代码="BSFT" 名称="Broadsoft Inc" />
+  <上市公司 代码="BSPM" 名称="Biostar Pharmaceuticals" />
+  <上市公司 代码="BSQR" 名称="Bsquare Corp" />
+  <上市公司 代码="BSRR" 名称="Sierra Bancorp" />
+  <上市公司 代码="BSTC" 名称="Biospecifics Technologies Corp" />
+  <上市公司 代码="BSTM" 名称="Bluestem Brands, Inc." />
+  <上市公司 代码="BTUI" 名称="Btu International" />
+  <上市公司 代码="BUR" 名称="Burcon Nutrascience" />
+  <上市公司 代码="BUSE" 名称="First Busey Corp" />
+  <上市公司 代码="BV" 名称="Bazaarvoice Inc" />
+  <上市公司 代码="BVA" 名称="Cordia Bancorp Inc" />
+  <上市公司 代码="BVSN" 名称="Broadvision" />
+  <上市公司 代码="BWEN" 名称="Broadwind Energy" />
+  <上市公司 代码="BWFG" 名称="Bankwell Financial Group Inc." />
+  <上市公司 代码="BWINA" 名称="Baldwin &amp; Lyons" />
+  <上市公司 代码="BWINB" 名称="Baldwin &amp; Lyons" />
+  <上市公司 代码="BWLD" 名称="Buffalo Wild Wings" />
+  <上市公司 代码="BYBK" 名称="Bay Bancorp Inc" />
+  <上市公司 代码="BYFC" 名称="Broadway Financial Corp" />
+  <上市公司 代码="BYLK" 名称="Baylake Corp" />
+  <上市公司 代码="CA" 名称="CA Inc" />
+  <上市公司 代码="CAAS" 名称="China Automotive Systems" />
+  <上市公司 代码="CAC" 名称="Camden National Corp" />
+  <上市公司 代码="CACB" 名称="Cascade Bancorp" />
+  <上市公司 代码="CACC" 名称="Credit Acceptance Corp" />
+  <上市公司 代码="CACG" 名称="Chart Acquisition Corp" />
+  <上市公司 代码="CACGU" 名称="Chart Acquisition Corp" />
+  <上市公司 代码="CACGW" 名称="Chart Acquisition Corp." />
+  <上市公司 代码="CACH" 名称="Cache Inc" />
+  <上市公司 代码="CACQ" 名称="Caesars Acquisition Company" />
+  <上市公司 代码="CADC" 名称="China Advanced Construction" />
+  <上市公司 代码="CADT" 名称="DT Asia Investments Limited" />
+  <上市公司 代码="CADTR" 名称="DT Asia Investments Limited" />
+  <上市公司 代码="CADTU" 名称="DT Asia Investments Limited" />
+  <上市公司 代码="CADTW" 名称="DT Asia Investments Limited" />
+  <上市公司 代码="CAKE" 名称="The Cheesecake Factory Inc" />
+  <上市公司 代码="CALA" 名称="Calithera Biosciences Inc" />
+  <上市公司 代码="CALD" 名称="Callidus Software" />
+  <上市公司 代码="CALI" 名称="China Auto Logistics Inc" />
+  <上市公司 代码="CALL" 名称="Vocaltec Communications Ltd" />
+  <上市公司 代码="CALM" 名称="Cal-Maine Foods" />
+  <上市公司 代码="CAMB" 名称="Cambridge Capital Acquisition C" />
+  <上市公司 代码="CAMBU" 名称="Cambridge Capital Aquisition" />
+  <上市公司 代码="CAMBW" 名称="Cambridge Capital Acquisition C" />
+  <上市公司 代码="CAMP" 名称="Calamp Corp" />
+  <上市公司 代码="CAMT" 名称="Camtek Ltd" />
+  <上市公司 代码="CAPN" 名称="Capnia, Inc." />
+  <上市公司 代码="CAPNU" 名称="Capnia Inc" />
+  <上市公司 代码="CAPNW" 名称="Capnia, Inc." />
+  <上市公司 代码="CAR" 名称="Avis Budget Group" />
+  <上市公司 代码="CARA" 名称="Cara Therapeutics Inc." />
+  <上市公司 代码="CARB" 名称="Carbonite Inc" />
+  <上市公司 代码="CARO" 名称="Carolina Financial Corporation" />
+  <上市公司 代码="CART" 名称="Carolina Trust Bank" />
+  <上市公司 代码="CARV" 名称="Carver Bancorp" />
+  <上市公司 代码="CARZ" 名称="Nasdaq Global Auto Index First Trust" />
+  <上市公司 代码="CASH" 名称="Meta Financial Group" />
+  <上市公司 代码="CASI" 名称="CASI Pharmaceuticals, Inc." />
+  <上市公司 代码="CASM" 名称="Cas Medical Systems" />
+  <上市公司 代码="CASS" 名称="Cass Information Systems Inc" />
+  <上市公司 代码="CASY" 名称="Caseys General Stores" />
+  <上市公司 代码="CATM" 名称="Cardtronics Inc" />
+  <上市公司 代码="CATY" 名称="Cathay General Bancorp" />
+  <上市公司 代码="CATYW" 名称="Cathay General Bancorp" />
+  <上市公司 代码="CAVM" 名称="Cavium Inc" />
+  <上市公司 代码="CBAK" 名称="China Bak Battery" />
+  <上市公司 代码="CBAN" 名称="Colony Bankcorp" />
+  <上市公司 代码="CBAY" 名称="Cymabay Therapeutics Inc." />
+  <上市公司 代码="CBDE" 名称="CBD Energy Limited" />
+  <上市公司 代码="CBEY" 名称="Cbeyond Inc" />
+  <上市公司 代码="CBF" 名称="Capital Bank Financial Corp" />
+  <上市公司 代码="CBFV" 名称="CB Financial Services, Inc. (PA)" />
+  <上市公司 代码="CBIN" 名称="Community Bank Shares of Indiana" />
+  <上市公司 代码="CBLI" 名称="Cleveland Biolabs" />
+  <上市公司 代码="CBMG" 名称="Cellular Biomedicine Group, Inc." />
+  <上市公司 代码="CBMX" 名称="Combimatrix Corp" />
+  <上市公司 代码="CBMXW" 名称="Combimatrix Corp" />
+  <上市公司 代码="CBNJ" 名称="Cape Bancorp" />
+  <上市公司 代码="CBNK" 名称="Chicopee Bancorp" />
+  <上市公司 代码="CBOE" 名称="CBOE Holdings" />
+  <上市公司 代码="CBPO" 名称="China Biologic Products" />
+  <上市公司 代码="CBRL" 名称="Cracker Barrel Old Country Store" />
+  <上市公司 代码="CBRX" 名称="Columbia Laboratories" />
+  <上市公司 代码="CBSH" 名称="Commerce Bancshares" />
+  <上市公司 代码="CBSHP" 名称="Commerce Bancshares, Inc." />
+  <上市公司 代码="CBST" 名称="Cubist Pharmaceuticals" />
+  <上市公司 代码="CBSTZ" 名称="Cubist Pharma Cvr" />
+  <上市公司 代码="CCBG" 名称="Capital City Bank Group" />
+  <上市公司 代码="CCCL" 名称="China Ceramics Co." />
+  <上市公司 代码="CCCR" 名称="China Commercial Credit Inc" />
+  <上市公司 代码="CCFI" 名称="Community Choice Financial Inc." />
+  <上市公司 代码="CCIH" 名称="Chinacache International" />
+  <上市公司 代码="CCLP" 名称="CSI Compressco LP" />
+  <上市公司 代码="CCMP" 名称="Cabot Microelectronics Corp" />
+  <上市公司 代码="CCNE" 名称="Cnb Financial Corp" />
+  <上市公司 代码="CCOI" 名称="Cogent Communications Group" />
+  <上市公司 代码="CCRN" 名称="Cross Country Healthcare" />
+  <上市公司 代码="CCUR" 名称="Concurrent Computer Corp" />
+  <上市公司 代码="CCXI" 名称="Chemocentryx Inc" />
+  <上市公司 代码="CDC" 名称="Compass EMP U S EQ Income 100 Enhanced Volatility Weighted Fun" />
+  <上市公司 代码="CDK" 名称="CDK Global, Inc." />
+  <上市公司 代码="CDKVV" 名称="CDK Global, Inc." />
+  <上市公司 代码="CDNA" 名称="CareDx, Inc." />
+  <上市公司 代码="CDNS" 名称="Cadence Design Systems" />
+  <上市公司 代码="CDTI" 名称="Clean Diesel Technologies" />
+  <上市公司 代码="CDW" 名称="CDW Corp" />
+  <上市公司 代码="CDX" 名称="CardioDx, Inc." />
+  <上市公司 代码="CDXS" 名称="Codexis Inc" />
+  <上市公司 代码="CDZI" 名称="Cadiz Inc" />
+  <上市公司 代码="CECE" 名称="Ceco Environmental" />
+  <上市公司 代码="CECO" 名称="Career Education Corp" />
+  <上市公司 代码="CELG" 名称="Celgene Corp" />
+  <上市公司 代码="CELGZ" 名称="Celgene Corp" />
+  <上市公司 代码="CEMI" 名称="Chembio Diagnostics" />
+  <上市公司 代码="CEMP" 名称="Cempra Inc" />
+  <上市公司 代码="CENT" 名称="Central Garden &amp; Pet Company" />
+  <上市公司 代码="CENTA" 名称="Central Garden &amp; Pet Company" />
+  <上市公司 代码="CENX" 名称="Century Aluminum Company" />
+  <上市公司 代码="CERE" 名称="Ceres Inc" />
+  <上市公司 代码="CERN" 名称="Cerner Corp" />
+  <上市公司 代码="CERS" 名称="Cerus Corp" />
+  <上市公司 代码="CERU" 名称="Cerulean Pharma Inc." />
+  <上市公司 代码="CETV" 名称="Central European Media Enterprises" />
+  <上市公司 代码="CEVA" 名称="Ceva Inc" />
+  <上市公司 代码="CFA" 名称="Compass EMP US 500 Volatility Weighted Index ETF" />
+  <上市公司 代码="CFBK" 名称="Central Federal Corp" />
+  <上市公司 代码="CFFI" 名称="C&amp;F Financial Corp" />
+  <上市公司 代码="CFFN" 名称="Capitol Federal Financial" />
+  <上市公司 代码="CFGE" 名称="Calamos Focus Growth ETF" />
+  <上市公司 代码="CFNB" 名称="California First National Bancorp" />
+  <上市公司 代码="CFNL" 名称="Cardinal Financial Corp" />
+  <上市公司 代码="CFO" 名称="Compass EMP US 500 Enhanced Volatility Weighted Index ETF" />
+  <上市公司 代码="CFRX" 名称="ContraFect Corporation" />
+  <上市公司 代码="CFRXU" 名称="CONTRAFECT CORP" />
+  <上市公司 代码="CFRXW" 名称="ContraFect Corporation" />
+  <上市公司 代码="CFRXZ" 名称="ContraFect Corporation" />
+  <上市公司 代码="CG" 名称="The Carlyle Group L.P." />
+  <上市公司 代码="CGEN" 名称="Compugen Ltd" />
+  <上市公司 代码="CGIX" 名称="Cancer Genetics Inc" />
+  <上市公司 代码="CGNX" 名称="Cognex Corp" />
+  <上市公司 代码="CGO" 名称="Calamos Global Total Return Fund" />
+  <上市公司 代码="CHCI" 名称="Comstock Homebuilding Companies" />
+  <上市公司 代码="CHCO" 名称="City Holding Company" />
+  <上市公司 代码="CHDN" 名称="Churchill Downs Inc" />
+  <上市公司 代码="CHDX" 名称="Chindex International" />
+  <上市公司 代码="CHEF" 名称="The Chefs' Warehouse Inc" />
+  <上市公司 代码="CHEV" 名称="Cheviot Financial Corp" />
+  <上市公司 代码="CHFC" 名称="Chemical Financial Corp" />
+  <上市公司 代码="CHFN" 名称="Charter Financial" />
+  <上市公司 代码="CHI" 名称="Calamos Convertible Opportunities" />
+  <上市公司 代码="CHKE" 名称="Cherokee Inc" />
+  <上市公司 代码="CHKP" 名称="Check Point Software Technologies Ltd" />
+  <上市公司 代码="CHLN" 名称="China Housing &amp; Land Development" />
+  <上市公司 代码="CHMG" 名称="Chemung Financial Corp" />
+  <上市公司 代码="CHNR" 名称="China Natural Resources" />
+  <上市公司 代码="CHOP" 名称="China Gerui Advanced Materials" />
+  <上市公司 代码="CHRM" 名称="Charm Communications Inc" />
+  <上市公司 代码="CHRS" 名称="Coherus Biosciences Inc" />
+  <上市公司 代码="CHRW" 名称="C.H. Robinson Worldwide" />
+  <上市公司 代码="CHSCM" 名称="CHS Inc" />
+  <上市公司 代码="CHSCN" 名称="CHS Inc" />
+  <上市公司 代码="CHSCO" 名称="CHS Inc Cl B Pfd" />
+  <上市公司 代码="CHSCP" 名称="CHS Inc" />
+  <上市公司 代码="CHTP" 名称="Chelsea Therapeutics International" />
+  <上市公司 代码="CHTR" 名称="Charter Communications" />
+  <上市公司 代码="CHUY" 名称="Chuy's Holding Inc" />
+  <上市公司 代码="CHW" 名称="Calamos Global Dynamic" />
+  <上市公司 代码="CHXF" 名称="Wisdomtree China Dividend Ex-Fi" />
+  <上市公司 代码="CHY" 名称="Calamos Convertible and High" />
+  <上市公司 代码="CHYR" 名称="Chyron Corp" />
+  <上市公司 代码="CIDM" 名称="Cinedigm Digital Cinema Corp" />
+  <上市公司 代码="CIFC" 名称="Cifc Corp" />
+  <上市公司 代码="CIMT" 名称="Cimatron Limited" />
+  <上市公司 代码="CINF" 名称="Cincinnati Financial Corp" />
+  <上市公司 代码="CISAA" 名称="Cis Acquisition Ltd" />
+  <上市公司 代码="CISAU" 名称="Cis Acquisition Ltd" />
+  <上市公司 代码="CISAW" 名称="Cis Acquisition Ltd" />
+  <上市公司 代码="CISG" 名称="Cninsure Inc" />
+  <上市公司 代码="CIZ" 名称="Compass EMP Developed 500 Enhanced Volatility Weighted Index E" />
+  <上市公司 代码="CIZN" 名称="Citizens Holding Company" />
+  <上市公司 代码="CJJD" 名称="China Jo-Jo Drugstores" />
+  <上市公司 代码="CKEC" 名称="Carmike Cinemas" />
+  <上市公司 代码="CKSW" 名称="Clicksoftware Technologies Ltd" />
+  <上市公司 代码="CLAC" 名称="Capitol Acquisition Corp. II" />
+  <上市公司 代码="CLACU" 名称="Capitol Acquisition Corp. II" />
+  <上市公司 代码="CLACW" 名称="Capitol Acquisition Corp. II" />
+  <上市公司 代码="CLBH" 名称="Carolina Bank Holdings Inc" />
+  <上市公司 代码="CLCT" 名称="Collectors Universe" />
+  <上市公司 代码="CLDN" 名称="Celladon Corp" />
+  <上市公司 代码="CLDX" 名称="Celldex Therapeutics Inc" />
+  <上市公司 代码="CLFD" 名称="Clearfield" />
+  <上市公司 代码="CLIR" 名称="Clearsign Combustion Corporatio" />
+  <上市公司 代码="CLMS" 名称="Calamos Asset Management" />
+  <上市公司 代码="CLMT" 名称="Calumet Specialty Products" />
+  <上市公司 代码="CLNE" 名称="Clean Energy Fuels" />
+  <上市公司 代码="CLNT" 名称="Cleantech Solutions International Inc" />
+  <上市公司 代码="CLRB" 名称="Cellectar Biosciences, Inc." />
+  <上市公司 代码="CLRBW" 名称="Cellectar Biosciences, Inc." />
+  <上市公司 代码="CLRO" 名称="Clearone Communications Inc" />
+  <上市公司 代码="CLRX" 名称="Tegal Corp" />
+  <上市公司 代码="CLSN" 名称="Celsion Corp" />
+  <上市公司 代码="CLTX" 名称="Celsus Therapeutics Plc." />
+  <上市公司 代码="CLUB" 名称="Town Sports International Holdings" />
+  <上市公司 代码="CLVS" 名称="Clovis Oncology Inc" />
+  <上市公司 代码="CLWT" 名称="Euro Tech Holdings Company" />
+  <上市公司 代码="CMCO" 名称="Columbus Mckinnon Corp" />
+  <上市公司 代码="CMCSA" 名称="Comcast Corp" />
+  <上市公司 代码="CMCSK" 名称="Comcast Corp" />
+  <上市公司 代码="CMCT" 名称="Cim Commercial Trust Corp." />
+  <上市公司 代码="CME" 名称="Cme Group Inc" />
+  <上市公司 代码="CMFN" 名称="Cm Finance Inc" />
+  <上市公司 代码="CMGE" 名称="China Mobile Games and Entertai" />
+  <上市公司 代码="CMLS" 名称="Cumulus Media Inc" />
+  <上市公司 代码="CMPR" 名称="Cimpress N.V" />
+  <上市公司 代码="CMRX" 名称="Chimerix Inc" />
+  <上市公司 代码="CMSB" 名称="Cms Bancorp" />
+  <上市公司 代码="CMTL" 名称="Comtech Telecommunications" />
+  <上市公司 代码="CNAT" 名称="Conatus Pharmaceuticals Inc" />
+  <上市公司 代码="CNBC" 名称="Center Bancorp" />
+  <上市公司 代码="CNBKA" 名称="Century Bancorp" />
+  <上市公司 代码="CNCE" 名称="Concert Pharmaceuticals Inc." />
+  <上市公司 代码="CNDO" 名称="Coronado Biosciences" />
+  <上市公司 代码="CNET" 名称="Chinanet Online Holdings" />
+  <上市公司 代码="CNIT" 名称="China Information Technology" />
+  <上市公司 代码="CNLI" 名称="Centre Lane Investment Corp." />
+  <上市公司 代码="CNLM" 名称="CB Pharma Acquisition Corp." />
+  <上市公司 代码="CNLMU" 名称="CB Pharma Acquisition Corp" />
+  <上市公司 代码="CNMD" 名称="Conmed Corp" />
+  <上市公司 代码="CNOB" 名称="Connectone Bancorp Inc" />
+  <上市公司 代码="CNQR" 名称="Concur Technologies" />
+  <上市公司 代码="CNSI" 名称="Comverse" />
+  <上市公司 代码="CNSL" 名称="Consolidated Communications Holdings" />
+  <上市公司 代码="CNTF" 名称="China Techfaith Wireless" />
+  <上市公司 代码="CNTY" 名称="Century Casinos" />
+  <上市公司 代码="CNV" 名称="Cnova NV" />
+  <上市公司 代码="CNVR" 名称="Conversant Inc." />
+  <上市公司 代码="CNXR" 名称="Connecture Inc" />
+  <上市公司 代码="CNYD" 名称="China Yida Holding Co." />
+  <上市公司 代码="COA" 名称="Coastal Contacts Inc" />
+  <上市公司 代码="COB" 名称="Solarwinds Inc" />
+  <上市公司 代码="COBK" 名称="Colonial Financial Services" />
+  <上市公司 代码="COBR" 名称="Cobra Electronics Corp" />
+  <上市公司 代码="COBZ" 名称="Cobiz Financial Inc" />
+  <上市公司 代码="COCO" 名称="Corinthian Colleges" />
+  <上市公司 代码="COHR" 名称="Coherent Inc" />
+  <上市公司 代码="COHU" 名称="Cohu Inc" />
+  <上市公司 代码="COKE" 名称="Coca-Cola Bottling Co. Consolidated" />
+  <上市公司 代码="COLB" 名称="Columbia Banking System" />
+  <上市公司 代码="COLM" 名称="Columbia Sportswear Company" />
+  <上市公司 代码="COMM" 名称="Commscope Holding Company Inc" />
+  <上市公司 代码="COMT" 名称="iShares Commodities Select Strategy ETF" />
+  <上市公司 代码="CONE" 名称="Cyrusone Inc" />
+  <上市公司 代码="CONN" 名称="Conn's Inc" />
+  <上市公司 代码="COOL" 名称="Majesco Entertainment Company" />
+  <上市公司 代码="CORE" 名称="Core-Mark Holding Company" />
+  <上市公司 代码="CORI" 名称="Corium International Inc." />
+  <上市公司 代码="CORT" 名称="Corcept Therapeutics Inc" />
+  <上市公司 代码="COSI" 名称="Cosi Inc" />
+  <上市公司 代码="COST" 名称="Costco Wholesale Corp" />
+  <上市公司 代码="COVS" 名称="Covisint Corp" />
+  <上市公司 代码="COVSV" 名称="Covisint Corporation" />
+  <上市公司 代码="COWN" 名称="Cowen Group" />
+  <上市公司 代码="COWNL" 名称="Cowen Group, Inc." />
+  <上市公司 代码="CPAH" 名称="Counterpath Corp" />
+  <上市公司 代码="CPGI" 名称="China Shengda Packaging Group" />
+  <上市公司 代码="CPHC" 名称="Canterbury Park Holding Corp" />
+  <上市公司 代码="CPHD" 名称="Cepheid" />
+  <上市公司 代码="CPHR" 名称="Cipher Pharmaceuticals Inc." />
+  <上市公司 代码="CPIX" 名称="Cumberland Pharmaceuticals Inc" />
+  <上市公司 代码="CPLA" 名称="Capella Education Company" />
+  <上市公司 代码="CPLP" 名称="Capital Product Partners L.P." />
+  <上市公司 代码="CPRT" 名称="Copart Inc" />
+  <上市公司 代码="CPRX" 名称="Catalyst Pharmaceutical Partners" />
+  <上市公司 代码="CPSI" 名称="Computer Programs and Systems" />
+  <上市公司 代码="CPSL" 名称="China Precision Steel" />
+  <上市公司 代码="CPSS" 名称="Consumer Portfolio Services" />
+  <上市公司 代码="CPST" 名称="Capstone Turbine Corp" />
+  <上市公司 代码="CPTA" 名称="Capitala Finance Corp" />
+  <上市公司 代码="CPWR" 名称="Compuware Corp" />
+  <上市公司 代码="CPXX" 名称="Celator Pharma" />
+  <上市公司 代码="CRAI" 名称="Cra Internationalinc." />
+  <上市公司 代码="CRAY" 名称="Cray Inc" />
+  <上市公司 代码="CRDC" 名称="Cardica Inc" />
+  <上市公司 代码="CRDI" 名称="China Resources Development Inc." />
+  <上市公司 代码="CRDS" 名称="Crossroads Systems" />
+  <上市公司 代码="CRDSH" 名称="Crossroads Systems, Inc." />
+  <上市公司 代码="CRDT" 名称="WisdomTree Global Corporate Bond Fund" />
+  <上市公司 代码="CREE" 名称="Cree Inc" />
+  <上市公司 代码="CREG" 名称="China Recycling Energy Corp" />
+  <上市公司 代码="CRESW" 名称="Cresud S.A.C.I.F. Y A." />
+  <上市公司 代码="CRESY" 名称="Cresud S.A.C.I.F. Y A." />
+  <上市公司 代码="CRIS" 名称="Curis Inc" />
+  <上市公司 代码="CRMB" 名称="Crumbs Bake Shop Inc" />
+  <上市公司 代码="CRMBU" 名称="Crumbs Bake Shop Inc. Un" />
+  <上市公司 代码="CRMBW" 名称="Crumbs Bake Shope Inc. Wt" />
+  <上市公司 代码="CRME" 名称="Cardiome Pharma Corp" />
+  <上市公司 代码="CRMT" 名称="America's Car-Mart" />
+  <上市公司 代码="CRNT" 名称="Ceragon Networks Ltd" />
+  <上市公司 代码="CROX" 名称="Crocs Inc" />
+  <上市公司 代码="CRRC" 名称="Courier Corp" />
+  <上市公司 代码="CRRS" 名称="Corp Res Svcs Inc" />
+  <上市公司 代码="CRSR" 名称="Corsair Components, Inc." />
+  <上市公司 代码="CRTN" 名称="Cartesian, Inc." />
+  <上市公司 代码="CRTO" 名称="Criteo S.A." />
+  <上市公司 代码="CRUS" 名称="Cirrus Logic" />
+  <上市公司 代码="CRVL" 名称="Corvel Corp" />
+  <上市公司 代码="CRWN" 名称="Crown Media Holdings" />
+  <上市公司 代码="CRWS" 名称="Crown Crafts" />
+  <上市公司 代码="CRZO" 名称="Carrizo Oil &amp; Gas" />
+  <上市公司 代码="CSBK" 名称="Clifton Savings Bancorp" />
+  <上市公司 代码="CSCD" 名称="Cascade Microtech" />
+  <上市公司 代码="CSCO" 名称="Cisco Systems" />
+  <上市公司 代码="CSF" 名称="Compass EMP U.S. Discovery 500 Enhanced Volatility Weighted Fu" />
+  <上市公司 代码="CSFL" 名称="Centerstate Banks" />
+  <上市公司 代码="CSGP" 名称="Costar Group" />
+  <上市公司 代码="CSGS" 名称="Csg Systems International" />
+  <上市公司 代码="CSII" 名称="Cardiovascular Systems" />
+  <上市公司 代码="CSIQ" 名称="Canadian Solar Inc" />
+  <上市公司 代码="CSOD" 名称="Cornerstone Ondemand Inc" />
+  <上市公司 代码="CSPI" 名称="Csp Inc" />
+  <上市公司 代码="CSQ" 名称="Calamos Strategic Total Return Fund" />
+  <上市公司 代码="CSRE" 名称="Csr Plc" />
+  <上市公司 代码="CSTE" 名称="Caesarstone Sdot-Yam Ltd" />
+  <上市公司 代码="CSUN" 名称="China Sunergy Co." />
+  <上市公司 代码="CSWC" 名称="Capital Southwest Corp" />
+  <上市公司 代码="CTAS" 名称="Cintas Corp" />
+  <上市公司 代码="CTBI" 名称="Community Trust Bancorp" />
+  <上市公司 代码="CTCM" 名称="Ctc Media" />
+  <上市公司 代码="CTCT" 名称="Constant Contact" />
+  <上市公司 代码="CTG" 名称="Computer Task Group Inc" />
+  <上市公司 代码="CTHR" 名称="Charles &amp; Colvard Ltd" />
+  <上市公司 代码="CTIB" 名称="Cti Industries Corp" />
+  <上市公司 代码="CTIC" 名称="Cell Therapeutics" />
+  <上市公司 代码="CTRE" 名称="CareTrust REIT, Inc." />
+  <上市公司 代码="CTRL" 名称="Control4 Corp" />
+  <上市公司 代码="CTRN" 名称="Citi Trends" />
+  <上市公司 代码="CTRP" 名称="Ctrip.Com International" />
+  <上市公司 代码="CTRX" 名称="Catamaran Corp" />
+  <上市公司 代码="CTSH" 名称="Cognizant Technology Solutions" />
+  <上市公司 代码="CTSO" 名称="Cytosorbents Corporation" />
+  <上市公司 代码="CTWS" 名称="Connecticut Water Service" />
+  <上市公司 代码="CTXS" 名称="Citrix Systems" />
+  <上市公司 代码="CU" 名称="ISE Global Copper Index First Trust" />
+  <上市公司 代码="CUBA" 名称="The Herzfeld Caribbean Basin Fund" />
+  <上市公司 代码="CUBI" 名称="Customers Bancorp" />
+  <上市公司 代码="CUBIL" 名称="Customers Bancorp Inc" />
+  <上市公司 代码="CUI" 名称="Cui Global Inc" />
+  <上市公司 代码="CUNB" 名称="California United Bk" />
+  <上市公司 代码="CUTR" 名称="Cutera Inc" />
+  <上市公司 代码="CVBF" 名称="Cvb Financial Corp" />
+  <上市公司 代码="CVCO" 名称="Cavco Industries" />
+  <上市公司 代码="CVCY" 名称="Central Valley Community Bancorp" />
+  <上市公司 代码="CVGI" 名称="Commercial Vehicle Group" />
+  <上市公司 代码="CVGW" 名称="Calavo Growers" />
+  <上市公司 代码="CVLT" 名称="Commvault Systems" />
+  <上市公司 代码="CVLY" 名称="Codorus Valley Bancorp Inc" />
+  <上市公司 代码="CVTI" 名称="Covenant Transportation Group" />
+  <上市公司 代码="CVTS" 名称="Civitas Therapeutics Inc" />
+  <上市公司 代码="CVV" 名称="CVD Equipment Corp" />
+  <上市公司 代码="CWAY" 名称="Coastway Bancorp Inc." />
+  <上市公司 代码="CWBC" 名称="Community West Bancshares" />
+  <上市公司 代码="CWCO" 名称="Consolidated Water Co. Ltd" />
+  <上市公司 代码="CWST" 名称="Casella Waste Systems" />
+  <上市公司 代码="CXDC" 名称="China Xd Plastics Company" />
+  <上市公司 代码="CY" 名称="Cypress Semiconductor Corp" />
+  <上市公司 代码="CYAN" 名称="Cyanotech Corp" />
+  <上市公司 代码="CYBE" 名称="Cyberoptics Corp" />
+  <上市公司 代码="CYBR" 名称="Cyber-Ark Software Ltd" />
+  <上市公司 代码="CYBX" 名称="Cyberonics Inc" />
+  <上市公司 代码="CYCC" 名称="Cyclacel Pharmaceuticals" />
+  <上市公司 代码="CYCCP" 名称="Cyclacel Pharmaceuticals" />
+  <上市公司 代码="CYHHZ" 名称="Community Health Systems Inc." />
+  <上市公司 代码="CYNO" 名称="Cynosure Inc" />
+  <上市公司 代码="CYOU" 名称="Changyou.Com Limited" />
+  <上市公司 代码="CYRN" 名称="Cyren Ltd." />
+  <上市公司 代码="CYTK" 名称="Cytokinetics Inc" />
+  <上市公司 代码="CYTR" 名称="Cytrx Corp" />
+  <上市公司 代码="CYTX" 名称="Cytori Therapeutics Inc" />
+  <上市公司 代码="CYTXW" 名称="Cytori Therapeutics Inc" />
+  <上市公司 代码="CZFC" 名称="Citizens First Corp" />
+  <上市公司 代码="CZNC" 名称="Citizens &amp; Northern Corp" />
+  <上市公司 代码="CZR" 名称="Caesars Entertainment Corporati" />
+  <上市公司 代码="CZWI" 名称="Citizens Community Bancorp" />
+  <上市公司 代码="DAEG" 名称="Unify Corp" />
+  <上市公司 代码="DAIO" 名称="Data I/O Corp" />
+  <上市公司 代码="DAKT" 名称="Daktronics" />
+  <上市公司 代码="DARA" 名称="Dara Biosciences" />
+  <上市公司 代码="DATE" 名称="Jiayuan.Com International Ltd" />
+  <上市公司 代码="DAVE" 名称="Famous Dave's of America" />
+  <上市公司 代码="DAX" 名称="Recon Capital DAX Germany ETF" />
+  <上市公司 代码="DBV" 名称="DBV Technologies SA" />
+  <上市公司 代码="DBVT" 名称="DBV Technologies S.A." />
+  <上市公司 代码="DCIN" 名称="Digital Cinema Destinations Cor" />
+  <上市公司 代码="DCIX" 名称="Diana Containerships Inc" />
+  <上市公司 代码="DCOM" 名称="Dime Community Bancshares" />
+  <上市公司 代码="DCTH" 名称="Delcath Systems" />
+  <上市公司 代码="DECK" 名称="Deckers Outdoor Corp" />
+  <上市公司 代码="DENN" 名称="Denny's Corp" />
+  <上市公司 代码="DEPO" 名称="Depomed Inc" />
+  <上市公司 代码="DERM" 名称="Dermira Inc" />
+  <上市公司 代码="DEST" 名称="Destination Maternity Corp" />
+  <上市公司 代码="DFRG" 名称="Del Frisco's Restaurant Group Llc." />
+  <上市公司 代码="DFZ" 名称="R.G. Barry Corp" />
+  <上市公司 代码="DGAS" 名称="Delta Natural Gas Company" />
+  <上市公司 代码="DGICA" 名称="Donegal Group" />
+  <上市公司 代码="DGICB" 名称="Donegal Group" />
+  <上市公司 代码="DGII" 名称="Digi International Inc" />
+  <上市公司 代码="DGLD" 名称="3X Inverse Gold ETN Velocityshares" />
+  <上市公司 代码="DGLY" 名称="Digital Ally" />
+  <上市公司 代码="DGRE" 名称="Wisdomtree Emerging Markets Dividend" />
+  <上市公司 代码="DGRS" 名称="Wisdomtree U.S. Smallcap Dividend" />
+  <上市公司 代码="DGRW" 名称="Wisdomtree U.S. Dividend Growth" />
+  <上市公司 代码="DHIL" 名称="Diamond Hill Investment Group" />
+  <上市公司 代码="DHRM" 名称="Dehaier Medical Systems" />
+  <上市公司 代码="DIOD" 名称="Diodes Inc" />
+  <上市公司 代码="DISCA" 名称="Discovery Communications Inc" />
+  <上市公司 代码="DISCB" 名称="Discovery Communications Inc" />
+  <上市公司 代码="DISCK" 名称="Discovery Communications Inc" />
+  <上市公司 代码="DISH" 名称="Dish Network Corp" />
+  <上市公司 代码="DJCO" 名称="Daily Journal Corp. [S.C.]" />
+  <上市公司 代码="DLHC" 名称="Dlh Holdings Corp" />
+  <上市公司 代码="DLIA" 名称="Delia*S Inc" />
+  <上市公司 代码="DLLR" 名称="Dollar Financial" />
+  <上市公司 代码="DLNG" 名称="Dynagas Lng Partners LP" />
+  <上市公司 代码="DLTR" 名称="Dollar Tree" />
+  <上市公司 代码="DMLP" 名称="Dorchester Minerals L.P." />
+  <上市公司 代码="DMND" 名称="Diamond Foods" />
+  <上市公司 代码="DMRC" 名称="Digimarc Corp" />
+  <上市公司 代码="DNBF" 名称="Dnb Financial Corp" />
+  <上市公司 代码="DNDN" 名称="Dendreon Corp" />
+  <上市公司 代码="DNKN" 名称="Dunkin' Brands Group Inc" />
+  <上市公司 代码="DORM" 名称="Dorman Products" />
+  <上市公司 代码="DOVR" 名称="Dover Saddlery" />
+  <上市公司 代码="DOX" 名称="Amdocs Limited" />
+  <上市公司 代码="DPRX" 名称="Dipexium Pharmaceuticals Llc" />
+  <上市公司 代码="DRAD" 名称="Digirad Corp" />
+  <上市公司 代码="DRAM" 名称="Dataram Corp" />
+  <上市公司 代码="DRIV" 名称="Digital River" />
+  <上市公司 代码="DRNA" 名称="Dicerna Pharmaceuticals Inc" />
+  <上市公司 代码="DRRX" 名称="Durect Corp" />
+  <上市公司 代码="DRTX" 名称="Durata Therapeutics Inc" />
+  <上市公司 代码="DRWI" 名称="Dragonwave Inc" />
+  <上市公司 代码="DRWIW" 名称="DragonWave Inc" />
+  <上市公司 代码="DRYS" 名称="Dryships Inc" />
+  <上市公司 代码="DSCI" 名称="Derma Sciences" />
+  <上市公司 代码="DSCO" 名称="Discovery Laboratories" />
+  <上市公司 代码="DSGX" 名称="The Descartes Systems Group Inc" />
+  <上市公司 代码="DSKX" 名称="Ds Healthcare Group Inc" />
+  <上市公司 代码="DSKY" 名称="IDreamSky Technology Ltd" />
+  <上市公司 代码="DSLV" 名称="3X Inverse Silver ETN Velocityshares" />
+  <上市公司 代码="DSPG" 名称="DSP Group" />
+  <上市公司 代码="DSWL" 名称="Deswell Industries" />
+  <上市公司 代码="DTLK" 名称="Datalink Corp" />
+  <上市公司 代码="DTSI" 名称="DTS Inc" />
+  <上市公司 代码="DTV" 名称="Directv" />
+  <上市公司 代码="DVAX" 名称="Dynavax Technologies Corp" />
+  <上市公司 代码="DVCR" 名称="Diversicare Healthcare Services Inc" />
+  <上市公司 代码="DWA" 名称="Dreamworks Animation Skg" />
+  <上市公司 代码="DWAT" 名称="Arrow Investments Trust" />
+  <上市公司 代码="DWCH" 名称="Datawatch Corp" />
+  <上市公司 代码="DWSN" 名称="Dawson Geophysical Company" />
+  <上市公司 代码="DXCM" 名称="Dexcom Inc" />
+  <上市公司 代码="DXGE" 名称="Wisdomtree Germany Hedged Equity" />
+  <上市公司 代码="DXJS" 名称="Wisdomtree Japan Hedged Smallcap" />
+  <上市公司 代码="DXKW" 名称="Wisdomtree Korea Hedged Equity" />
+  <上市公司 代码="DXLG" 名称="Casual Male Retail Group" />
+  <上市公司 代码="DXM" 名称="Dex Media Inc" />
+  <上市公司 代码="DXPE" 名称="Dxp Enterprises" />
+  <上市公司 代码="DXPS" 名称="Wisdomtree United Kingdom Hedge" />
+  <上市公司 代码="DXYN" 名称="The Dixie Group" />
+  <上市公司 代码="DYAX" 名称="Dyax Corp" />
+  <上市公司 代码="DYNT" 名称="Dynatronics Corp" />
+  <上市公司 代码="DYSL" 名称="Dynasil Corporation of America" />
+  <上市公司 代码="EA" 名称="Electronic Arts Inc" />
+  <上市公司 代码="EAC" 名称="Erickson Air-Crane Incorporated" />
+  <上市公司 代码="EAGL" 名称="Global Eagle Entertainment Inc" />
+  <上市公司 代码="EAGLU" 名称="Silver Eagle Acquisition Corp" />
+  <上市公司 代码="EAGLW" 名称="Silver Eagle Acquisition Corp." />
+  <上市公司 代码="EARS" 名称="Auris Medical Holding AG" />
+  <上市公司 代码="EBAY" 名称="Ebay Inc" />
+  <上市公司 代码="EBIO" 名称="Eleven Biotherapeutics Inc." />
+  <上市公司 代码="EBIX" 名称="Ebix Inc" />
+  <上市公司 代码="EBMT" 名称="Eagle Bancorp Montana" />
+  <上市公司 代码="EBSB" 名称="Meridian Interstate Bancorp" />
+  <上市公司 代码="EBTC" 名称="Enterprise Bancorp Inc" />
+  <上市公司 代码="ECAV" 名称="ETRE REIT, LLC" />
+  <上市公司 代码="ECHO" 名称="Echo Global Logistics" />
+  <上市公司 代码="ECOL" 名称="US Ecology" />
+  <上市公司 代码="ECPG" 名称="Encore Capital Group Inc" />
+  <上市公司 代码="ECTE" 名称="Echo Therapeutics" />
+  <上市公司 代码="ECYT" 名称="Endocyte Inc" />
+  <上市公司 代码="EDAP" 名称="Edap Tms S.A." />
+  <上市公司 代码="EDGW" 名称="Edgewater Technology" />
+  <上市公司 代码="EDMC" 名称="Education Management Corp" />
+  <上市公司 代码="EDS" 名称="Exceed Company Ltd" />
+  <上市公司 代码="EDUC" 名称="Educational Development Corp" />
+  <上市公司 代码="EEFT" 名称="Euronet Worldwide" />
+  <上市公司 代码="EEI" 名称="Ecology and Environment" />
+  <上市公司 代码="EEMA" 名称="Emrg Mkts Asia MSCI Ishares" />
+  <上市公司 代码="EEME" 名称="Emrg Mkts EMEA MSCI Ishares" />
+  <上市公司 代码="EEML" 名称="Emrg Mkts Latin Amer MSCI Ishares" />
+  <上市公司 代码="EFII" 名称="Electronics For Imaging" />
+  <上市公司 代码="EFOI" 名称="Energy Focus, Inc." />
+  <上市公司 代码="EFSC" 名称="Enterprise Financial Services Corp" />
+  <上市公司 代码="EFUT" 名称="Efuture Information Technology Inc" />
+  <上市公司 代码="EGAN" 名称="Egain Comm Corp" />
+  <上市公司 代码="EGBN" 名称="Eagle Bancorp" />
+  <上市公司 代码="EGHT" 名称="8X8 Inc" />
+  <上市公司 代码="EGLE" 名称="Eagle Bulk Shipping Inc" />
+  <上市公司 代码="EGLT" 名称="Egalet Corp" />
+  <上市公司 代码="EGOV" 名称="Nic Inc" />
+  <上市公司 代码="EGRW" 名称="Emrg Mkts Growth MSCI Ishares" />
+  <上市公司 代码="EGRX" 名称="Eagle Pharmaceuticals Inc." />
+  <上市公司 代码="EGT" 名称="Entertainment Gaming Asia Inc" />
+  <上市公司 代码="EHTH" 名称="Ehealth Inc" />
+  <上市公司 代码="EIGI" 名称="Endurance International Group H" />
+  <上市公司 代码="ELGX" 名称="Endologix Inc" />
+  <上市公司 代码="ELNK" 名称="Earthlink Inc" />
+  <上市公司 代码="ELON" 名称="Echelon Corp" />
+  <上市公司 代码="ELOS" 名称="Syneron Medical Ltd" />
+  <上市公司 代码="ELRC" 名称="Electro Rent Corp" />
+  <上市公司 代码="ELSE" 名称="Electro-Sensors" />
+  <上市公司 代码="ELTK" 名称="Eltek Ltd" />
+  <上市公司 代码="EMCB" 名称="Emrg Mkts Corporate Bond ETF Wisdomtree" />
+  <上市公司 代码="EMCF" 名称="Emclaire Financial Corp" />
+  <上市公司 代码="EMCG" 名称="Wisdomtree Emerging Markets Con" />
+  <上市公司 代码="EMCI" 名称="EMC Insurance Group" />
+  <上市公司 代码="EMDI" 名称="Emrg Mkts Cons Disc MSCI Ishares" />
+  <上市公司 代码="EMDR" 名称="Velocityshares Emerging Markets" />
+  <上市公司 代码="EMEY" 名称="Emrg Mkts Energy Sector Capped MSCI Ishares" />
+  <上市公司 代码="EMFN" 名称="Emrg Mkts Financials Idx MSCI Ishares" />
+  <上市公司 代码="EMIF" 名称="S&amp;P Emrg Mkts Infrastructure Ishares" />
+  <上市公司 代码="EMITF" 名称="Elbit Imaging Ltd" />
+  <上市公司 代码="EMKR" 名称="Emcore Corp" />
+  <上市公司 代码="EML" 名称="Eastern Company" />
+  <上市公司 代码="EMMS" 名称="Emmis Communications Corp" />
+  <上市公司 代码="EMMSP" 名称="Emmis Communications Corp" />
+  <上市公司 代码="EMMT" 名称="Emrg Mkts Materials Idx MSCI Ishares" />
+  <上市公司 代码="ENDP" 名称="Endo Pharmaceuticals Holdings Inc" />
+  <上市公司 代码="ENFC" 名称="Entegra Financial Corp." />
+  <上市公司 代码="ENG" 名称="Englobal Corp" />
+  <上市公司 代码="ENMD" 名称="Entremed Inc" />
+  <上市公司 代码="ENOC" 名称="Enernoc Inc" />
+  <上市公司 代码="ENPH" 名称="Enphase Energy Inc" />
+  <上市公司 代码="ENSG" 名称="The Ensign Group" />
+  <上市公司 代码="ENT" 名称="Global Eagle Entertainment Inc" />
+  <上市公司 代码="ENTA" 名称="Enanta Pharmaceuticals Inc" />
+  <上市公司 代码="ENTG" 名称="Entegris Inc" />
+  <上市公司 代码="ENTR" 名称="Entropic Communications" />
+  <上市公司 代码="ENVE" 名称="Enventis Corp." />
+  <上市公司 代码="ENVI" 名称="Envivio Inc" />
+  <上市公司 代码="ENZN" 名称="Enzon Pharmaceuticals" />
+  <上市公司 代码="ENZY" 名称="Enzymotec Ltd" />
+  <上市公司 代码="EONC" 名称="Eon Communications Corp" />
+  <上市公司 代码="EOPN" 名称="E2Open Inc" />
+  <上市公司 代码="EPAX" 名称="Ambassadors Group" />
+  <上市公司 代码="EPAY" 名称="Bottomline Technologies" />
+  <上市公司 代码="EPIQ" 名称="Epiq Systems" />
+  <上市公司 代码="EPRS" 名称="EPIRUS Biopharmaceuticals, Inc." />
+  <上市公司 代码="EPZM" 名称="Epizyme Inc" />
+  <上市公司 代码="EQIX" 名称="Equinix Inc" />
+  <上市公司 代码="ERI" 名称="Eldorado Resorts, Inc." />
+  <上市公司 代码="ERIC" 名称="Lm Ericsson Telephone Company" />
+  <上市公司 代码="ERIE" 名称="Erie Indemnity Company" />
+  <上市公司 代码="ERII" 名称="Energy Recovery" />
+  <上市公司 代码="EROC" 名称="Eagle Rock Energy Partners L.P." />
+  <上市公司 代码="ERS" 名称="Empire Res Inc" />
+  <上市公司 代码="ERW" 名称="Velocityshares Equal Risk Weigh" />
+  <上市公司 代码="ESBF" 名称="Esb Financial Corp" />
+  <上市公司 代码="ESBK" 名称="Elmira Savings Bank Fsb" />
+  <上市公司 代码="ESCA" 名称="Escalade Inc" />
+  <上市公司 代码="ESCR" 名称="Escalera Resources Co." />
+  <上市公司 代码="ESCRP" 名称="Escalera Resources Co." />
+  <上市公司 代码="ESEA" 名称="Euroseas Ltd" />
+  <上市公司 代码="ESGR" 名称="Enstar Group Limited" />
+  <上市公司 代码="ESIO" 名称="Electro Scientific Industries" />
+  <上市公司 代码="ESLT" 名称="Elbit Systems Ltd" />
+  <上市公司 代码="ESMC" 名称="Escalon Medical" />
+  <上市公司 代码="ESPR" 名称="Esperion Therapeutics Inc" />
+  <上市公司 代码="ESRX" 名称="Express Scripts" />
+  <上市公司 代码="ESSA" 名称="Essa Bancorp" />
+  <上市公司 代码="ESSX" 名称="Essex Rental Corp" />
+  <上市公司 代码="ESXB" 名称="Community Bankers Trust Corp" />
+  <上市公司 代码="ESYS" 名称="Elecsys Corp" />
+  <上市公司 代码="ETFC" 名称="E*Trade Financial Corp" />
+  <上市公司 代码="ETRM" 名称="Enteromedics Inc" />
+  <上市公司 代码="EUFN" 名称="Europe Financials Index MSCI Ishares" />
+  <上市公司 代码="EVAL" 名称="Emrg Mkts Value MSCI Ishares" />
+  <上市公司 代码="EVAR" 名称="Lombard Medical Inc." />
+  <上市公司 代码="EVBS" 名称="Eastern Virginia Bankshares" />
+  <上市公司 代码="EVEP" 名称="Ev Energy Partners L.P." />
+  <上市公司 代码="EVLV" 名称="EVINE Live Inc." />
+  <上市公司 代码="EVOK" 名称="Evoke Pharma Inc" />
+  <上市公司 代码="EVOL" 名称="Evolving Systems" />
+  <上市公司 代码="EVRY" 名称="Everyware Global Inc" />
+  <上市公司 代码="EWBC" 名称="East West Bancorp" />
+  <上市公司 代码="EXA" 名称="Exa Corp" />
+  <上市公司 代码="EXAC" 名称="Exactech Inc" />
+  <上市公司 代码="EXAS" 名称="Exact Sciences Corp" />
+  <上市公司 代码="EXEL" 名称="Exelixis Inc" />
+  <上市公司 代码="EXFO" 名称="Exfo Inc" />
+  <上市公司 代码="EXLP" 名称="Exterran Partners L.P." />
+  <上市公司 代码="EXLS" 名称="Exlservice Holdings" />
+  <上市公司 代码="EXPD" 名称="Expeditors International of Washington" />
+  <上市公司 代码="EXPE" 名称="Expedia Inc" />
+  <上市公司 代码="EXPO" 名称="Exponent Inc" />
+  <上市公司 代码="EXTR" 名称="Extreme Networks" />
+  <上市公司 代码="EXXI" 名称="Energy Xxi [Bermuda] Limited" />
+  <上市公司 代码="EYEG" 名称="?Eyegate Pharmaceuticals Inc" />
+  <上市公司 代码="EYES" 名称="Second Sight Med Prod Inc" />
+  <上市公司 代码="EZCH" 名称="Ezchip Semiconductor Limited" />
+  <上市公司 代码="EZPW" 名称="Ezcorp Inc" />
+  <上市公司 代码="FALC" 名称="Falconstor Software" />
+  <上市公司 代码="FANG" 名称="Diamondback Energy Inc" />
+  <上市公司 代码="FARM" 名称="Farmer Brothers Company" />
+  <上市公司 代码="FARO" 名称="Faro Technologies" />
+  <上市公司 代码="FAST" 名称="Fastenal Company" />
+  <上市公司 代码="FATE" 名称="Fate Therapeutics Inc" />
+  <上市公司 代码="FB" 名称="Facebook Inc" />
+  <上市公司 代码="FBBC" 名称="Fortune Bank" />
+  <上市公司 代码="FBIZ" 名称="First Business Financial Services" />
+  <上市公司 代码="FBMI" 名称="Firstbank Corp" />
+  <上市公司 代码="FBMS" 名称="The First Bancshares" />
+  <上市公司 代码="FBNC" 名称="First Bancorp" />
+  <上市公司 代码="FBNK" 名称="First Connecticut Bancorp Inc" />
+  <上市公司 代码="FBRC" 名称="Fbr &amp; Co" />
+  <上市公司 代码="FBSS" 名称="Fauquier Bankshares" />
+  <上市公司 代码="FCAP" 名称="First Capital" />
+  <上市公司 代码="FCBC" 名称="First Community Bancshares" />
+  <上市公司 代码="FCCO" 名称="First Community Corp" />
+  <上市公司 代码="FCCY" 名称="1St Constitution Bancorp [Nj]" />
+  <上市公司 代码="FCEL" 名称="Fuelcell Energy" />
+  <上市公司 代码="FCFS" 名称="First Cash Financial Services" />
+  <上市公司 代码="FCHI" 名称="FTSE China [Hk Listed] Index Ishares" />
+  <上市公司 代码="FCLF" 名称="First Clover Leaf Financial" />
+  <上市公司 代码="FCNCA" 名称="First Citizens Bancshares" />
+  <上市公司 代码="FCS" 名称="Fairchild Semiconductor International" />
+  <上市公司 代码="FCSC" 名称="Fibrocell Science Inc" />
+  <上市公司 代码="FCTY" 名称="1St Century Bancshares Inc" />
+  <上市公司 代码="FCVA" 名称="First Capital Bancorp Inc. [Va]" />
+  <上市公司 代码="FCZA" 名称="First Citizens Banc" />
+  <上市公司 代码="FCZAP" 名称="First Citizens Banc Corp." />
+  <上市公司 代码="FDEF" 名称="First Defiance Financial" />
+  <上市公司 代码="FDIV" 名称="First Trust Strategic Income ETF" />
+  <上市公司 代码="FDML" 名称="Federal-Mogul Corp" />
+  <上市公司 代码="FDUS" 名称="Fidus Investment Corp" />
+  <上市公司 代码="FEFN" 名称="Far East Financials Index MSCI Ishares" />
+  <上市公司 代码="FEIC" 名称="Fei Company" />
+  <上市公司 代码="FEIM" 名称="Frequency Electronics" />
+  <上市公司 代码="FELE" 名称="Franklin Electric Co." />
+  <上市公司 代码="FEMB" 名称="First Trust Emerging Markets Local Currency Bond ETF" />
+  <上市公司 代码="FES" 名称="Forbes Energy Svcs" />
+  <上市公司 代码="FEUZ" 名称="First Trust Eurozone AlphaDEX ETF" />
+  <上市公司 代码="FEYE" 名称="Fireeye Inc" />
+  <上市公司 代码="FFBC" 名称="First Financial Bancorp" />
+  <上市公司 代码="FFBCW" 名称="First Financial Bancorp" />
+  <上市公司 代码="FFBH" 名称="First Federal Bancshares of Arkansas" />
+  <上市公司 代码="FFCO" 名称="Fedfirst Financial Corp" />
+  <上市公司 代码="FFHL" 名称="Fuwei Films Co." />
+  <上市公司 代码="FFIC" 名称="Flushing Financial Corp" />
+  <上市公司 代码="FFIN" 名称="First Financial Bankshares" />
+  <上市公司 代码="FFIV" 名称="F5 Networks" />
+  <上市公司 代码="FFKT" 名称="Farmers Capital Bank Corp" />
+  <上市公司 代码="FFKY" 名称="First Financial Service Corp" />
+  <上市公司 代码="FFNM" 名称="First Federal of Northern Michigan Bancorp" />
+  <上市公司 代码="FFNW" 名称="First Financial Northwest" />
+  <上市公司 代码="FFWM" 名称="First Foundation Inc." />
+  <上市公司 代码="FGBI" 名称="First Guaranty Bancshares Inc" />
+  <上市公司 代码="FGEN" 名称="FibroGen Inc" />
+  <上市公司 代码="FHCO" 名称="Female Health Company" />
+  <上市公司 代码="FIBK" 名称="First Interstate Bancsystem" />
+  <上市公司 代码="FINL" 名称="The Finish Line" />
+  <上市公司 代码="FISH" 名称="Marlin Midstream Partners LP" />
+  <上市公司 代码="FISI" 名称="Financial Institutions" />
+  <上市公司 代码="FISV" 名称="Fiserv Inc" />
+  <上市公司 代码="FITB" 名称="Fifth Third Bancorp" />
+  <上市公司 代码="FITBI" 名称="Fifth Third Bancorp" />
+  <上市公司 代码="FIVE" 名称="Five Below Inc" />
+  <上市公司 代码="FIVN" 名称="Five9 Inc." />
+  <上市公司 代码="FIZZ" 名称="National Beverage" />
+  <上市公司 代码="FLDM" 名称="Fluidigm Corp" />
+  <上市公司 代码="FLEX" 名称="Flextronics International Ltd" />
+  <上市公司 代码="FLIC" 名称="The First of Long Island Corp" />
+  <上市公司 代码="FLIR" 名称="Flir Systems" />
+  <上市公司 代码="FLL" 名称="Full House Resorts" />
+  <上市公司 代码="FLML" 名称="Flamel Technologies S.A." />
+  <上市公司 代码="FLWS" 名称="1-800 Flowers.Com" />
+  <上市公司 代码="FLXN" 名称="Flexion Therapeutics Inc" />
+  <上市公司 代码="FLXS" 名称="Flexsteel Industries" />
+  <上市公司 代码="FMB" 名称="First Trust Managed Municipal E" />
+  <上市公司 代码="FMBH" 名称="First Mid Ill Bancshares Inc" />
+  <上市公司 代码="FMBI" 名称="First Midwest Bancorp" />
+  <上市公司 代码="FMER" 名称="Firstmerit Corp" />
+  <上市公司 代码="FMI" 名称="Foundation Medicine Inc" />
+  <上市公司 代码="FMNB" 名称="Farmers Natl Banc Corp Oh" />
+  <上市公司 代码="FNFG" 名称="First Niagara Financial Group Inc" />
+  <上市公司 代码="FNGN" 名称="Financial Engines" />
+  <上市公司 代码="FNHC" 名称="Federated National Holding Company" />
+  <上市公司 代码="FNJN" 名称="Finjan Holdings Inc." />
+  <上市公司 代码="FNLC" 名称="First Bancorp Inc [Me]" />
+  <上市公司 代码="FNRG" 名称="Forcefield Energy Inc" />
+  <上市公司 代码="FNSR" 名称="Finisar Corp" />
+  <上市公司 代码="FOLD" 名称="Amicus Therapeutics" />
+  <上市公司 代码="FOMX" 名称="Foamix Pharmaceuticals Ltd" />
+  <上市公司 代码="FONE" 名称="Nasdaq Cea Smartphone First Trust" />
+  <上市公司 代码="FONR" 名称="Fonar Corp" />
+  <上市公司 代码="FORD" 名称="Forward Industries" />
+  <上市公司 代码="FORM" 名称="Formfactor" />
+  <上市公司 代码="FORR" 名称="Forrester Research" />
+  <上市公司 代码="FORTY" 名称="Formula Systems Ltd" />
+  <上市公司 代码="FOSL" 名称="Fossil Inc" />
+  <上市公司 代码="FOX" 名称="21St Century Fox Class B" />
+  <上市公司 代码="FOXA" 名称="21St Century Fox Class A" />
+  <上市公司 代码="FOXF" 名称="Fox Factory Holding Corp" />
+  <上市公司 代码="FPRX" 名称="Five Prime Therapeutics Inc" />
+  <上市公司 代码="FPXI" 名称="First Trust International IPO ETF" />
+  <上市公司 代码="FRAN" 名称="Francesca's Holdings Corporatio" />
+  <上市公司 代码="FRBA" 名称="First Bank [Nj]" />
+  <上市公司 代码="FRBK" 名称="Republic First Bancorp" />
+  <上市公司 代码="FRED" 名称="Fred's Inc" />
+  <上市公司 代码="FREE" 名称="Freeseas Inc" />
+  <上市公司 代码="FRGI" 名称="Fiesta Restaurant Group Inc" />
+  <上市公司 代码="FRME" 名称="First Merchants Corp" />
+  <上市公司 代码="FRNK" 名称="Franklin Financial Corp" />
+  <上市公司 代码="FRP" 名称="Fairpoint Communications" />
+  <上市公司 代码="FRPH" 名称="FRP Holdings, Inc." />
+  <上市公司 代码="FRPT" 名称="FairPoint Communications Inc" />
+  <上市公司 代码="FRSH" 名称="Papa Murphys Holdings Inc." />
+  <上市公司 代码="FSAM" 名称="Fifth St Asset Mgmt Inc" />
+  <上市公司 代码="FSBK" 名称="First South Bancorp Inc" />
+  <上市公司 代码="FSBW" 名称="FS Bancorp Inc" />
+  <上市公司 代码="FSC" 名称="Fifth Street Finance Corp" />
+  <上市公司 代码="FSCFL" 名称="Fifth Street Finance Corp" />
+  <上市公司 代码="FSFG" 名称="First Savings Financial Group" />
+  <上市公司 代码="FSFR" 名称="Fifth Street Senior Floating Ra" />
+  <上市公司 代码="FSGI" 名称="First Security Group" />
+  <上市公司 代码="FSLR" 名称="First Solar" />
+  <上市公司 代码="FSNN" 名称="Fusion Telecommunications International, Inc." />
+  <上市公司 代码="FSRV" 名称="Firstservice Corp" />
+  <上市公司 代码="FSTM" 名称="FusionStorm Global Inc." />
+  <上市公司 代码="FSTR" 名称="L.B. Foster Company" />
+  <上市公司 代码="FSYS" 名称="Fuel Systems Solutions" />
+  <上市公司 代码="FTCS" 名称="Strategic Value Index First Trust" />
+  <上市公司 代码="FTD" 名称="Ftd Companies Inc" />
+  <上市公司 代码="FTEK" 名称="Fuel Tech" />
+  <上市公司 代码="FTGC" 名称="First Trust Global Tact Commodity Strategy" />
+  <上市公司 代码="FTHI" 名称="First Trust High Income ETF" />
+  <上市公司 代码="FTLB" 名称="First Trust Low Beta Income ETF" />
+  <上市公司 代码="FTNT" 名称="Fortinet Inc" />
+  <上市公司 代码="FTR" 名称="Frontier Communications Corp" />
+  <上市公司 代码="FTSL" 名称="First Trust Senior Loan Fund Et" />
+  <上市公司 代码="FTSM" 名称="First Trust Enhanced Short Maturity ETF" />
+  <上市公司 代码="FUBC" 名称="1St United Bancorp Inc. [Fl]" />
+  <上市公司 代码="FUEL" 名称="Rocket Fuel Inc." />
+  <上市公司 代码="FULL" 名称="Full Circle Capital Corp" />
+  <上市公司 代码="FULLL" 名称="Full Circle Capital Corp" />
+  <上市公司 代码="FULT" 名称="Fulton Financial Corp" />
+  <上市公司 代码="FUNC" 名称="First United Corp" />
+  <上市公司 代码="FUND" 名称="Royce Focus Trust" />
+  <上市公司 代码="FURX" 名称="Furiex Pharmaceuticals" />
+  <上市公司 代码="FV" 名称="First Trust Dorsey Wright Focus" />
+  <上市公司 代码="FWLT" 名称="Foster Wheeler Ag." />
+  <上市公司 代码="FWM" 名称="Fairway Group Holdings Corp" />
+  <上市公司 代码="FWP" 名称="Forward Pharma A/S" />
+  <上市公司 代码="FWRD" 名称="Forward Air Corp" />
+  <上市公司 代码="FXCB" 名称="Fox Chase Bancorp" />
+  <上市公司 代码="FXEN" 名称="FX Energy" />
+  <上市公司 代码="FXENP" 名称="FX Energy, Inc." />
+  <上市公司 代码="GABC" 名称="German American Bancorp" />
+  <上市公司 代码="GAGA" 名称="Le Gaga Holdings" />
+  <上市公司 代码="GAI" 名称="Global-Tech Advanced Innovations Inc" />
+  <上市公司 代码="GAIA" 名称="Gaiam Inc" />
+  <上市公司 代码="GAIN" 名称="Gladstone Investment Corp" />
+  <上市公司 代码="GAINO" 名称="Gladstone Investment Corporation" />
+  <上市公司 代码="GAINP" 名称="Gladstone Investment Corporatio" />
+  <上市公司 代码="GALE" 名称="Galena Biopharma" />
+  <上市公司 代码="GALT" 名称="Galectin Therapeutics Inc" />
+  <上市公司 代码="GALTU" 名称="Galectin Therapeutics Inc" />
+  <上市公司 代码="GALTW" 名称="Galectin Therapeutics Inc" />
+  <上市公司 代码="GAME" 名称="Shanda Games Limited" />
+  <上市公司 代码="GARS" 名称="Garrison Capital Inc" />
+  <上市公司 代码="GASS" 名称="Stealthgas" />
+  <上市公司 代码="GBCI" 名称="Glacier Bancorp" />
+  <上市公司 代码="GBDC" 名称="Golub Capital Bdc" />
+  <上市公司 代码="GBIM" 名称="GlobeImmune Inc" />
+  <上市公司 代码="GBLI" 名称="Global Indemnity Plc" />
+  <上市公司 代码="GBNK" 名称="Guaranty Bancorp" />
+  <上市公司 代码="GBSN" 名称="Great Basin Scientific, Inc." />
+  <上市公司 代码="GCBC" 名称="Greene County Bancorp" />
+  <上市公司 代码="GCTS" 名称="GCT Semiconductor, Inc." />
+  <上市公司 代码="GCVRZ" 名称="Sanofi-Aventis Cvr" />
+  <上市公司 代码="GDCT" 名称="GDC Technology Limited" />
+  <上市公司 代码="GDEF" 名称="Global Defense &amp; National Secur" />
+  <上市公司 代码="GENC" 名称="Gencor Industries Inc" />
+  <上市公司 代码="GENE" 名称="Genetic Technologies Ltd" />
+  <上市公司 代码="GEOS" 名称="Oyo Geospace Corp" />
+  <上市公司 代码="GERN" 名称="Geron Corp" />
+  <上市公司 代码="GEVA" 名称="Synageva Biopharma Corp" />
+  <上市公司 代码="GEVO" 名称="Gevo Inc" />
+  <上市公司 代码="GFED" 名称="Guaranty Federal Bancshares" />
+  <上市公司 代码="GFN" 名称="General Finance Corp" />
+  <上市公司 代码="GFNCP" 名称="General Financial" />
+  <上市公司 代码="GFNSL" 名称="General Finance Corporation" />
+  <上市公司 代码="GGAC" 名称="Garnero Group Acquisition Company" />
+  <上市公司 代码="GGACR" 名称="Garnero Group Acquisition Company" />
+  <上市公司 代码="GGACU" 名称="Garnero Group Acquisition Company" />
+  <上市公司 代码="GGACW" 名称="Garnero Group Acquisition Company" />
+  <上市公司 代码="GGAL" 名称="Grupo Financiero Galicia S.A." />
+  <上市公司 代码="GHDX" 名称="Genomic Health" />
+  <上市公司 代码="GIFI" 名称="Gulf Island Fabrication" />
+  <上市公司 代码="GIGA" 名称="Giga-Tronics Inc" />
+  <上市公司 代码="GIGM" 名称="Gigamedia Limited" />
+  <上市公司 代码="GIII" 名称="G-III Apparel Group" />
+  <上市公司 代码="GILD" 名称="Gilead Sciences" />
+  <上市公司 代码="GILT" 名称="Gilat Satellite Networks Ltd" />
+  <上市公司 代码="GK" 名称="G&amp;K Services" />
+  <上市公司 代码="GKNT" 名称="Geeknet Inc" />
+  <上市公司 代码="GLAD" 名称="Gladstone Capital Corp" />
+  <上市公司 代码="GLADO" 名称="Gladstone Capital Corporation" />
+  <上市公司 代码="GLADP" 名称="Gladstone Capital Corp" />
+  <上市公司 代码="GLBS" 名称="Globus Maritime Limited" />
+  <上市公司 代码="GLBZ" 名称="Glen Burnie Bancorp" />
+  <上市公司 代码="GLCB" 名称="Wisdomtree Global Corporate Bon" />
+  <上市公司 代码="GLCH" 名称="Gleacher &amp; Company" />
+  <上市公司 代码="GLDC" 名称="Golden Enterprises" />
+  <上市公司 代码="GLDD" 名称="Great Lakes Dredge &amp; Dock Corp" />
+  <上市公司 代码="GLDI" 名称="Credit Suisse Ag" />
+  <上市公司 代码="GLMD" 名称="Galmed Pharmaceuticals Ltd." />
+  <上市公司 代码="GLNG" 名称="Golar Lng Limited" />
+  <上市公司 代码="GLPI" 名称="Gaming and Leisure Properties" />
+  <上市公司 代码="GLPW" 名称="Global Power Equipment Group Inc" />
+  <上市公司 代码="GLRE" 名称="Greenlight Capital Re" />
+  <上市公司 代码="GLRI" 名称="Glori Energy Inc." />
+  <上市公司 代码="GLRIW" 名称="Glori Energy Inc." />
+  <上市公司 代码="GLUU" 名称="Glu Mobile Inc" />
+  <上市公司 代码="GLYC" 名称="Glycomimetics Inc" />
+  <上市公司 代码="GMAN" 名称="Gordmans Stores" />
+  <上市公司 代码="GMC" 名称="Global Market Group Limited" />
+  <上市公司 代码="GMCR" 名称="Keurig Green Mountain Inc." />
+  <上市公司 代码="GMETP" 名称="Geomet" />
+  <上市公司 代码="GMLP" 名称="Golar Lng Partners LP" />
+  <上市公司 代码="GNBC" 名称="Green Bancorp Inc" />
+  <上市公司 代码="GNCA" 名称="Genocea Biosciences Inc." />
+  <上市公司 代码="GNCMA" 名称="General Communication" />
+  <上市公司 代码="GNMA" 名称="GNMA Bond Ishares" />
+  <上市公司 代码="GNMK" 名称="Genmark Diagnostics" />
+  <上市公司 代码="GNTX" 名称="Gentex Corp" />
+  <上市公司 代码="GNVC" 名称="Genvec Inc" />
+  <上市公司 代码="GOGO" 名称="Gogo Inc" />
+  <上市公司 代码="GOLD" 名称="Randgold Resources Limited" />
+  <上市公司 代码="GOMO" 名称="Sungy Mobile Limited" />
+  <上市公司 代码="GOOD" 名称="Gladstone Commercial Corp" />
+  <上市公司 代码="GOODN" 名称="Gladstone Commercial Corporatio" />
+  <上市公司 代码="GOODO" 名称="Gladstone Commercial Corp" />
+  <上市公司 代码="GOODP" 名称="Gladstone Commercial Corp" />
+  <上市公司 代码="GOOG" 名称="Google Inc Class C" />
+  <上市公司 代码="GOOGL" 名称="Google Inc" />
+  <上市公司 代码="GPIC" 名称="Gaming Partners International Corp" />
+  <上市公司 代码="GPOR" 名称="Gulfport Energy Corp" />
+  <上市公司 代码="GPRC" 名称="Guanwei Recycling" />
+  <上市公司 代码="GPRE" 名称="Green Plains Renewable Energy" />
+  <上市公司 代码="GPRO" 名称="GoPro Inc" />
+  <上市公司 代码="GRBK" 名称="Green Brick Partners, Inc." />
+  <上市公司 代码="GRFS" 名称="Grifols S.A." />
+  <上市公司 代码="GRID" 名称="Nasdaq Clean Edge Smart Grid First Trust" />
+  <上市公司 代码="GRIF" 名称="Griffin Land &amp; Nurseries" />
+  <上市公司 代码="GRMN" 名称="Garmin Ltd" />
+  <上市公司 代码="GROW" 名称="U.S. Global Investors" />
+  <上市公司 代码="GRPN" 名称="Groupon Inc" />
+  <上市公司 代码="GRVY" 名称="Gravity Co." />
+  <上市公司 代码="GSBC" 名称="Great Southern Bancorp" />
+  <上市公司 代码="GSIG" 名称="Gsi Group Inc" />
+  <上市公司 代码="GSIT" 名称="Gsi Technology" />
+  <上市公司 代码="GSJK" 名称="Compressco Partners L.P." />
+  <上市公司 代码="GSM" 名称="Globe Specialty Metals Inc" />
+  <上市公司 代码="GSOL" 名称="Global Sources Ltd" />
+  <上市公司 代码="GSVC" 名称="Next Innovation Corp" />
+  <上市公司 代码="GT" 名称="Goodyear Tire &amp; Rubber Company" />
+  <上市公司 代码="GTAT" 名称="Gt Advanced Technologies Inc" />
+  <上市公司 代码="GTIM" 名称="Good Times Restaurants Inc" />
+  <上市公司 代码="GTIV" 名称="Gentiva Health Services" />
+  <上市公司 代码="GTLS" 名称="Chart Industries" />
+  <上市公司 代码="GTWN" 名称="Georgetown Bancp Ma" />
+  <上市公司 代码="GTXI" 名称="GTX Inc" />
+  <上市公司 代码="GUID" 名称="Guidance Software" />
+  <上市公司 代码="GULF" 名称="Middle East Dividend Wisdomtree" />
+  <上市公司 代码="GULTU" 名称="Gulf Coast Ultra Deep Royalty Trust" />
+  <上市公司 代码="GURE" 名称="Gulf Resources" />
+  <上市公司 代码="GWGH" 名称="GWG Holdings Inc" />
+  <上市公司 代码="GWPH" 名称="Gw Pharmaceuticals Plc Ads" />
+  <上市公司 代码="GYRO" 名称="Gyrodyne Company of America" />
+  <上市公司 代码="HA" 名称="Hawaiian Holdings" />
+  <上市公司 代码="HABT" 名称="The Habit Restaurants Inc" />
+  <上市公司 代码="HAFC" 名称="Hanmi Financial Corp" />
+  <上市公司 代码="HAIN" 名称="Hain Celestial Group" />
+  <上市公司 代码="HALL" 名称="Hallmark Financial Services" />
+  <上市公司 代码="HALO" 名称="Halozyme Therapeutics" />
+  <上市公司 代码="HART" 名称="Harvard Apparatus Regenerative" />
+  <上市公司 代码="HAS" 名称="Hasbro Inc" />
+  <上市公司 代码="HAST" 名称="Hastings Entertainment" />
+  <上市公司 代码="HAWK" 名称="Blackhawk Network Holdings Inc" />
+  <上市公司 代码="HAWKB" 名称="Blackhawk Network Holdings Inc" />
+  <上市公司 代码="HAYN" 名称="Haynes International" />
+  <上市公司 代码="HBAN" 名称="Huntington Bancshares Inc" />
+  <上市公司 代码="HBANP" 名称="Huntington Bancshares Inc" />
+  <上市公司 代码="HBCP" 名称="Home Bancorp" />
+  <上市公司 代码="HBHC" 名称="Hancock Holding Company" />
+  <上市公司 代码="HBIO" 名称="Harvard Bioscience" />
+  <上市公司 代码="HBK" 名称="Hamilton Bancorp Inc" />
+  <上市公司 代码="HBMD" 名称="Howard Bancorp MD" />
+  <上市公司 代码="HBNC" 名称="Horizon Bancorp [In]" />
+  <上市公司 代码="HBNK" 名称="Hampden Bancorp" />
+  <上市公司 代码="HBOS" 名称="Heritage Financial Group" />
+  <上市公司 代码="HBP" 名称="Huttig Bldg Products" />
+  <上市公司 代码="HCAC" 名称="Hennessy Capital Acquisition Co" />
+  <上市公司 代码="HCACU" 名称="Hennessy Capital Acquisition Co" />
+  <上市公司 代码="HCACW" 名称="Hennessy Capital Acquisition Co" />
+  <上市公司 代码="HCAP" 名称="Harvest Capital Credit Corporat" />
+  <上市公司 代码="HCBK" 名称="Hudson City Bancorp" />
+  <上市公司 代码="HCCI" 名称="Heritage-Crystal Clean" />
+  <上市公司 代码="HCKT" 名称="The Hackett Group" />
+  <上市公司 代码="HCOM" 名称="Hawaiian Telcom Hold" />
+  <上市公司 代码="HCSG" 名称="Healthcare Services Group" />
+  <上市公司 代码="HCT" 名称="American Realty Capital Healthc" />
+  <上市公司 代码="HDNG" 名称="Hardinge Inc" />
+  <上市公司 代码="HDP" 名称="Hortonworks Inc" />
+  <上市公司 代码="HDRA" 名称="Hydra Industries Acquisition Corp." />
+  <上市公司 代码="HDRAR" 名称="Hydra Industries Acquisition Corp." />
+  <上市公司 代码="HDRAU" 名称="Hydra Inds Acq Corp" />
+  <上市公司 代码="HDRAW" 名称="Hydra Industries Acquisition Corp." />
+  <上市公司 代码="HDS" 名称="HD Supply Holdings Inc" />
+  <上市公司 代码="HDSN" 名称="Hudson Technologies" />
+  <上市公司 代码="HEAR" 名称="Parametric Sound Corp." />
+  <上市公司 代码="HEES" 名称="H&amp;E Equipment Services" />
+  <上市公司 代码="HELE" 名称="Helen of Troy Limited" />
+  <上市公司 代码="HEOP" 名称="Heritage Oaks Bancorp" />
+  <上市公司 代码="HERO" 名称="Hercules Offshore" />
+  <上市公司 代码="HFBC" 名称="Hopfed Bancorp" />
+  <上市公司 代码="HFBL" 名称="Home Federal Bancorp Inc. of Louisiana" />
+  <上市公司 代码="HFFC" 名称="HF Financial" />
+  <上市公司 代码="HFWA" 名称="Heritage Financial Corp" />
+  <上市公司 代码="HGSH" 名称="China Hgs Real Estate" />
+  <上市公司 代码="HIBB" 名称="Hibbett Sports" />
+  <上市公司 代码="HIFS" 名称="Hingham Institution For Savings" />
+  <上市公司 代码="HIHO" 名称="Highway Holdings" />
+  <上市公司 代码="HIIQ" 名称="Health Insurance Innovations I" />
+  <上市公司 代码="HILL" 名称="Dot Hill Systems Corp" />
+  <上市公司 代码="HIMX" 名称="Himax Technologies" />
+  <上市公司 代码="HITT" 名称="Hittite Microwave Corp" />
+  <上市公司 代码="HKTV" 名称="Hong Kong Television Network Ltd. Ads" />
+  <上市公司 代码="HLIT" 名称="Harmonic Inc" />
+  <上市公司 代码="HLSS" 名称="Home Loan Servicing Solutions" />
+  <上市公司 代码="HMHC" 名称="Houghton Mifflin Harcourt C" />
+  <上市公司 代码="HMIN" 名称="Home Inns &amp; Hotels Management Inc" />
+  <上市公司 代码="HMNF" 名称="Hmn Financial" />
+  <上市公司 代码="HMNY" 名称="Helios &amp; Matheson North America Inc" />
+  <上市公司 代码="HMPR" 名称="Hampton Roads Bankshares Inc" />
+  <上市公司 代码="HMST" 名称="Homestreet Inc" />
+  <上市公司 代码="HMSY" 名称="Hms Holdings Corp" />
+  <上市公司 代码="HMTV" 名称="Hemisphere Media" />
+  <上市公司 代码="HNH" 名称="Handy &amp; Harman Ltd" />
+  <上市公司 代码="HNNA" 名称="Hennessy Advisors" />
+  <上市公司 代码="HNRG" 名称="Hallador Energy Company" />
+  <上市公司 代码="HNSN" 名称="Hansen Medical" />
+  <上市公司 代码="HOFT" 名称="Hooker Furniture Corp" />
+  <上市公司 代码="HOLI" 名称="Hollysys Automation Technologies" />
+  <上市公司 代码="HOLX" 名称="Hologic Inc" />
+  <上市公司 代码="HOMB" 名称="Home Bancshares" />
+  <上市公司 代码="HOME" 名称="Home Federal Bancorp" />
+  <上市公司 代码="HOTR" 名称="Chanticleer Holdings Inc" />
+  <上市公司 代码="HOTRW" 名称="Chanticleer Holdings Inc" />
+  <上市公司 代码="HOVNP" 名称="Hovnanian Enterprises Inc" />
+  <上市公司 代码="HPAC" 名称="Hyde Park Acquisition Corp. II" />
+  <上市公司 代码="HPJ" 名称="Hong Kong Highpower Technology" />
+  <上市公司 代码="HPTX" 名称="Hyperion Therapeutics Inc" />
+  <上市公司 代码="HQY" 名称="HealthEquity Inc" />
+  <上市公司 代码="HRMNU" 名称="Harmony Merger Corp" />
+  <上市公司 代码="HRTX" 名称="Heron Therapeutics Inc." />
+  <上市公司 代码="HRZN" 名称="Horizon Technology Finance Corp" />
+  <上市公司 代码="HSGX" 名称="Histogenics Corp" />
+  <上市公司 代码="HSIC" 名称="Henry Schein" />
+  <上市公司 代码="HSII" 名称="Heidrick &amp; Struggles International" />
+  <上市公司 代码="HSKA" 名称="Heska Corp" />
+  <上市公司 代码="HSNI" 名称="HSN Inc" />
+  <上市公司 代码="HSOL" 名称="Hanwha Solarone Co. Ltd" />
+  <上市公司 代码="HSON" 名称="Hudson Global Inc" />
+  <上市公司 代码="HSTM" 名称="Healthstream Inc" />
+  <上市公司 代码="HTBI" 名称="Hometrust Bancshares Inc" />
+  <上市公司 代码="HTBK" 名称="Heritage Commerce Corp" />
+  <上市公司 代码="HTBX" 名称="Heat Biologics Inc" />
+  <上市公司 代码="HTCH" 名称="Hutchinson Technology Inc" />
+  <上市公司 代码="HTCO" 名称="Hickory Tech Corp" />
+  <上市公司 代码="HTHT" 名称="China Lodging Group Limited" />
+  <上市公司 代码="HTLD" 名称="Heartland Express" />
+  <上市公司 代码="HTLF" 名称="Heartland Financial USA" />
+  <上市公司 代码="HTWO" 名称="Hf2 Financial Management Inc" />
+  <上市公司 代码="HTWR" 名称="Heartware International" />
+  <上市公司 代码="HUBG" 名称="Hub Group" />
+  <上市公司 代码="HURC" 名称="Hurco Companies" />
+  <上市公司 代码="HURN" 名称="Huron Consulting Group Inc" />
+  <上市公司 代码="HWAY" 名称="Healthways Inc" />
+  <上市公司 代码="HWBK" 名称="Hawthorn Bancshares" />
+  <上市公司 代码="HWCC" 名称="Houston Wire &amp; Cable Company" />
+  <上市公司 代码="HWKN" 名称="Hawkins Inc" />
+  <上市公司 代码="HYGS" 名称="Hydrogenics Corp" />
+  <上市公司 代码="HYLS" 名称="First Trust High Yield Long/Sho" />
+  <上市公司 代码="HYND" 名称="Wisdomtree Bofa Merrill Lynch H" />
+  <上市公司 代码="HYZD" 名称="Wisdomtree Bofa Merrill Lynch H" />
+  <上市公司 代码="HZNP" 名称="Horizon Pharma Inc" />
+  <上市公司 代码="IACI" 名称="Iac/Interactivecorp" />
+  <上市公司 代码="IART" 名称="Integra Lifesciences Holdings Corp" />
+  <上市公司 代码="IBB" 名称="Nasdaq Biotechnology Ishares" />
+  <上市公司 代码="IBCA" 名称="Intervest Bancshares" />
+  <上市公司 代码="IBCP" 名称="Independent Bank Corp" />
+  <上市公司 代码="IBKC" 名称="Iberiabank Corp" />
+  <上市公司 代码="IBKR" 名称="Interactive Brokers Group" />
+  <上市公司 代码="IBOC" 名称="International Bancshares Corp" />
+  <上市公司 代码="IBTX" 名称="Independent Bank Group Inc" />
+  <上市公司 代码="ICAD" 名称="Icad Inc" />
+  <上市公司 代码="ICCC" 名称="Immucell Corp" />
+  <上市公司 代码="ICEL" 名称="Cellular Dynamics International" />
+  <上市公司 代码="ICFI" 名称="Icf International" />
+  <上市公司 代码="ICGE" 名称="Internet Capital Group" />
+  <上市公司 代码="ICLD" 名称="Intercloud Systems Inc" />
+  <上市公司 代码="ICLDW" 名称="Intercloud Systems Inc" />
+  <上市公司 代码="ICLN" 名称="S&amp;P Global Clean Energy Index Ishares" />
+  <上市公司 代码="ICLR" 名称="Icon Plc" />
+  <上市公司 代码="ICON" 名称="Iconix Brand Group" />
+  <上市公司 代码="ICPT" 名称="Intercept Pharmaceuticals Inc" />
+  <上市公司 代码="ICUI" 名称="Icu Medical" />
+  <上市公司 代码="IDCC" 名称="Interdigital" />
+  <上市公司 代码="IDIX" 名称="Idenix Pharmaceuticals" />
+  <上市公司 代码="IDRA" 名称="Idera Pharmaceuticals" />
+  <上市公司 代码="IDSA" 名称="Industrial Services of America" />
+  <上市公司 代码="IDSY" 名称="I.D. Systems" />
+  <上市公司 代码="IDTI" 名称="Integrated Device Technology" />
+  <上市公司 代码="IDXX" 名称="Idexx Laboratories" />
+  <上市公司 代码="IEP" 名称="Icahn Enterprises L.P." />
+  <上市公司 代码="IESC" 名称="Integrated Electrical Services" />
+  <上市公司 代码="IEUS" 名称="iShares MSCI Europe Small-Cap ETF" />
+  <上市公司 代码="IFAS" 名称="FTSE Epra/Nareit Dev Asia Idx Ishares" />
+  <上市公司 代码="IFEU" 名称="FTSE Epra/Nareit Dev EU Idx Ishares" />
+  <上市公司 代码="IFGL" 名称="FTSE Epra/Nareit Dev Re Ex-US Ishares" />
+  <上市公司 代码="IFNA" 名称="FTSE Epra/Nareit North America Ishares" />
+  <上市公司 代码="IFON" 名称="Infosonics Corp" />
+  <上市公司 代码="IFSM" 名称="FTSE Dev Sm Cap Ex-North Amer Ishares" />
+  <上市公司 代码="IFV" 名称="First Trust Dorsey Wright International Focus 5 ETF" />
+  <上市公司 代码="IGLD" 名称="Internet Gold Golden Lines Ltd" />
+  <上市公司 代码="IGOV" 名称="S&amp;P/Citi Intl Treasury Bond Ishares" />
+  <上市公司 代码="IGTE" 名称="Igate Corp" />
+  <上市公司 代码="III" 名称="Information Services Group" />
+  <上市公司 代码="IIIN" 名称="Insteel Industries" />
+  <上市公司 代码="IIJI" 名称="Internet Initiative Japan" />
+  <上市公司 代码="IILG" 名称="Interval Leisure Group" />
+  <上市公司 代码="IIN" 名称="Intricon Corp" />
+  <上市公司 代码="IIVI" 名称="Ii-Vi Inc" />
+  <上市公司 代码="IKAN" 名称="Ikanos Communications" />
+  <上市公司 代码="IKGH" 名称="Iao Kun Group Holding Co." />
+  <上市公司 代码="IKNX" 名称="Ikonics Corp" />
+  <上市公司 代码="ILMN" 名称="Illumina Inc" />
+  <上市公司 代码="IMCB" 名称="Intermountain Comm" />
+  <上市公司 代码="IMDZ" 名称="Immune Design Corp" />
+  <上市公司 代码="IMGN" 名称="Immunogen" />
+  <上市公司 代码="IMI" 名称="Intermolecular Inc" />
+  <上市公司 代码="IMKTA" 名称="Ingles Markets Inc" />
+  <上市公司 代码="IMMR" 名称="Immersion Corp" />
+  <上市公司 代码="IMMU" 名称="Immunomedics" />
+  <上市公司 代码="IMMY" 名称="Imprimis Pharmaceuticals Inc" />
+  <上市公司 代码="IMNP" 名称="Immune Pharmaceuticals Ltd.             " />
+  <上市公司 代码="IMOS" 名称="Chipmos Technologies [Bermuda] Ltd" />
+  <上市公司 代码="IMRS" 名称="Imris Inc" />
+  <上市公司 代码="INAP" 名称="Internap Network Services Corp" />
+  <上市公司 代码="INBK" 名称="First Internet Bancorp" />
+  <上市公司 代码="INCR" 名称="INC Research Holdings Inc" />
+  <上市公司 代码="INCY" 名称="Incyte Corp" />
+  <上市公司 代码="INDB" 名称="Independent Bank" />
+  <上市公司 代码="INDY" 名称="S&amp;P India Nifty 50 Index Ishares" />
+  <上市公司 代码="INFA" 名称="Informatica Corp" />
+  <上市公司 代码="INFI" 名称="Infinity Pharmaceuticals" />
+  <上市公司 代码="INFN" 名称="Infinera Corp" />
+  <上市公司 代码="INGN" 名称="Inogen Inc" />
+  <上市公司 代码="ININ" 名称="Interactive Intelligence" />
+  <上市公司 代码="INNL" 名称="Innocoll GmbH" />
+  <上市公司 代码="INO" 名称="Inovio Pharmaceuticals, Inc." />
+  <上市公司 代码="INOD" 名称="Innodata Isogen Inc" />
+  <上市公司 代码="INPH" 名称="Interphase Corp" />
+  <上市公司 代码="INSM" 名称="Insmed Inc" />
+  <上市公司 代码="INSY" 名称="Insys Therapeutics Inc" />
+  <上市公司 代码="INTC" 名称="Intel Corp" />
+  <上市公司 代码="INTG" 名称="The Intergroup Corp" />
+  <上市公司 代码="INTL" 名称="Intl Fcstone Inc" />
+  <上市公司 代码="INTLL" 名称="Intl Fcstone Inc" />
+  <上市公司 代码="INTU" 名称="Intuit Inc" />
+  <上市公司 代码="INTX" 名称="Intersections" />
+  <上市公司 代码="INVE" 名称="Identive Group" />
+  <上市公司 代码="INVT" 名称="Inventergy Global, Inc." />
+  <上市公司 代码="INWK" 名称="Innerworkings" />
+  <上市公司 代码="IOSP" 名称="Innospec Inc" />
+  <上市公司 代码="IPAR" 名称="Inter Parfums" />
+  <上市公司 代码="IPAS" 名称="Ipass Inc" />
+  <上市公司 代码="IPCC" 名称="Infinity Property and Casualty Corp" />
+  <上市公司 代码="IPCI" 名称="Intellipharmaceutics International Inc" />
+  <上市公司 代码="IPCM" 名称="IPC The Hospitalist Company" />
+  <上市公司 代码="IPDN" 名称="Professional Diversity Network" />
+  <上市公司 代码="IPGP" 名称="Ipg Photonics Corp" />
+  <上市公司 代码="IPHS" 名称="Innophos Holdings" />
+  <上市公司 代码="IPKW" 名称="Powershares International Buyba" />
+  <上市公司 代码="IPWR" 名称="Ideal Power Inc." />
+  <上市公司 代码="IPXL" 名称="Impax Laboratories" />
+  <上市公司 代码="IQNT" 名称="Neutral Tandem" />
+  <上市公司 代码="IRBT" 名称="Irobot Corp" />
+  <上市公司 代码="IRDM" 名称="Iridium Communications Inc" />
+  <上市公司 代码="IRDMB" 名称="Iridium Communications Inc." />
+  <上市公司 代码="IRDMZ" 名称="Iridium Communications Inc" />
+  <上市公司 代码="IRG" 名称="Ignite Restaurant Group Inc" />
+  <上市公司 代码="IRIX" 名称="Iridex Corp" />
+  <上市公司 代码="IRMD" 名称="IRadimed Corp" />
+  <上市公司 代码="IROQ" 名称="If Bancorp Inc" />
+  <上市公司 代码="IRWD" 名称="Ironwood Pharmaceuticals" />
+  <上市公司 代码="ISBC" 名称="Investors Bancorp" />
+  <上市公司 代码="ISCA" 名称="International Speedway Corp" />
+  <上市公司 代码="ISHG" 名称="S&amp;P/Citi 1-3 Yr Intl Treasury Bd Ishares" />
+  <上市公司 代码="ISIG" 名称="Insignia Systems" />
+  <上市公司 代码="ISIL" 名称="Intersil Corp" />
+  <上市公司 代码="ISIS" 名称="Isis Pharmaceuticals" />
+  <上市公司 代码="ISLE" 名称="Isle of Capri Casinos" />
+  <上市公司 代码="ISM" 名称="SLM Corp" />
+  <上市公司 代码="ISNS" 名称="Image Sensing Systems" />
+  <上市公司 代码="ISRG" 名称="Intuitive Surgical" />
+  <上市公司 代码="ISRL" 名称="Isramco Inc" />
+  <上市公司 代码="ISSC" 名称="Innovative Solutions and Support" />
+  <上市公司 代码="ISSI" 名称="Integrated Silicon Solution" />
+  <上市公司 代码="ISTR" 名称="Investar Holding Corp" />
+  <上市公司 代码="ITCI" 名称="Intra-Cellular Ther" />
+  <上市公司 代码="ITIC" 名称="Investors Title Company" />
+  <上市公司 代码="ITMN" 名称="Intermune Inc" />
+  <上市公司 代码="ITRI" 名称="Itron Inc" />
+  <上市公司 代码="ITRN" 名称="Ituran Location and Control Ltd" />
+  <上市公司 代码="IVAC" 名称="Intevac Inc" />
+  <上市公司 代码="IVAN" 名称="Ivanhoe Energy" />
+  <上市公司 代码="IXYS" 名称="Ixys Corp" />
+  <上市公司 代码="JACK" 名称="Jack In The Box Inc" />
+  <上市公司 代码="JACQ" 名称="Collabrium Japan Acquisition Co" />
+  <上市公司 代码="JACQU" 名称="Collabrium Japan Acquisition Co" />
+  <上市公司 代码="JACQW" 名称="Collabrium Japan Acquisition Co" />
+  <上市公司 代码="JAGX" 名称="Jaguar Animal Health Inc" />
+  <上市公司 代码="JAKK" 名称="Jakks Pacific" />
+  <上市公司 代码="JASN" 名称="Jason Industries, Inc." />
+  <上市公司 代码="JASNW" 名称="Jason Industries, Inc." />
+  <上市公司 代码="JASO" 名称="JA Solar Holdings Co." />
+  <上市公司 代码="JAXB" 名称="Jacksonville Bancorp" />
+  <上市公司 代码="JAZZ" 名称="Jazz Pharmaceuticals" />
+  <上市公司 代码="JBHT" 名称="J.B. Hunt Transport Services" />
+  <上市公司 代码="JBLU" 名称="Jetblue Airways Corp" />
+  <上市公司 代码="JBSS" 名称="John B. Sanfilippo &amp; Son" />
+  <上市公司 代码="JCOM" 名称="J2 Global Communications Inc" />
+  <上市公司 代码="JCS" 名称="Communications Systems" />
+  <上市公司 代码="JCTCF" 名称="Jewett-Cameron Trading Company" />
+  <上市公司 代码="JD" 名称="JD.com, Inc. " />
+  <上市公司 代码="JDSU" 名称="Jds Uniphase Corp" />
+  <上市公司 代码="JFBI" 名称="Jefferson Bancshares" />
+  <上市公司 代码="JGBB" 名称="Wisdomtree Japan Interest Rate" />
+  <上市公司 代码="JIVE" 名称="Jive Software Inc" />
+  <上市公司 代码="JJSF" 名称="J &amp; J Snack Foods" />
+  <上市公司 代码="JKHY" 名称="Jack Henry &amp; Associates" />
+  <上市公司 代码="JMBA" 名称="Jamba Inc" />
+  <上市公司 代码="JOBS" 名称="51Job Inc" />
+  <上市公司 代码="JOEZ" 名称="Joe's Jeans Inc" />
+  <上市公司 代码="JOSB" 名称="Jos. A. Bank Clothiers" />
+  <上市公司 代码="JOUT" 名称="Johnson Outdoors Inc" />
+  <上市公司 代码="JRJC" 名称="China Finance Online Co. Limited" />
+  <上市公司 代码="JRVR" 名称="James River Group Inc" />
+  <上市公司 代码="JSM" 名称="SLM Corp" />
+  <上市公司 代码="JST" 名称="Jinpan International Limited" />
+  <上市公司 代码="JTPY" 名称="Jetpay Corp" />
+  <上市公司 代码="JUNO" 名称="Juno Therapeutics Inc" />
+  <上市公司 代码="JVA" 名称="Coffee Holding Co." />
+  <上市公司 代码="JXSB" 名称="Jacksonville Bancorp Inc" />
+  <上市公司 代码="JYNT" 名称="The Joint Corp" />
+  <上市公司 代码="KALU" 名称="Kaiser Aluminum Corp" />
+  <上市公司 代码="KANG" 名称="Ikang Healthcare Group Inc." />
+  <上市公司 代码="KBAL" 名称="Kimball International, Inc." />
+  <上市公司 代码="KBALB" 名称="Kimball International" />
+  <上市公司 代码="KBALV" 名称="Kimball International, Inc." />
+  <上市公司 代码="KBIO" 名称="Kalobios Pharmaceuticals Inc" />
+  <上市公司 代码="KBSF" 名称="KBS Fashion Group Limited" />
+  <上市公司 代码="KCAP" 名称="Kohlberg Capital Corp" />
+  <上市公司 代码="KCLI" 名称="Kansas City Life Insurance Company" />
+  <上市公司 代码="KE" 名称="Kimball Electronics, Inc." />
+  <上市公司 代码="KEIVV" 名称="Kimball Electronics, Inc." />
+  <上市公司 代码="KELYA" 名称="Kelly Services" />
+  <上市公司 代码="KELYB" 名称="Kelly Services, Inc." />
+  <上市公司 代码="KEQU" 名称="Kewaunee Scientific Corp" />
+  <上市公司 代码="KERX" 名称="Keryx Biopharmaceuticals" />
+  <上市公司 代码="KEYW" 名称="The Keyw Holding Corp" />
+  <上市公司 代码="KFFB" 名称="Kentucky First Federal Bancorp" />
+  <上市公司 代码="KFRC" 名称="Kforce Inc" />
+  <上市公司 代码="KFX" 名称="Kofax Ltd." />
+  <上市公司 代码="KGJI" 名称="Kingold Jewelry Inc" />
+  <上市公司 代码="KIN" 名称="Kindred Biosciences Inc." />
+  <上市公司 代码="KINS" 名称="Kingstone Companies Inc" />
+  <上市公司 代码="KIOR" 名称="Kior Inc" />
+  <上市公司 代码="KIPO" 名称="Keating Capital Inc" />
+  <上市公司 代码="KIPS" 名称="Kips Bay Medical" />
+  <上市公司 代码="KIRK" 名称="Kirkland's Inc" />
+  <上市公司 代码="KITE" 名称="Kite Pharma Inc" />
+  <上市公司 代码="KLAC" 名称="Kla-Tencor Corp" />
+  <上市公司 代码="KLIC" 名称="Kulicke and Soffa Industries" />
+  <上市公司 代码="KLXI" 名称="KLX Inc." />
+  <上市公司 代码="KLXIV" 名称="KLX Inc." />
+  <上市公司 代码="KMDA" 名称="Kamada Ltd" />
+  <上市公司 代码="KNDI" 名称="Kandi Technolgies" />
+  <上市公司 代码="KNMD" 名称="Kinemed Inc" />
+  <上市公司 代码="KONA" 名称="Kona Grill" />
+  <上市公司 代码="KONE" 名称="Kingtone Wirelessinfo Solution" />
+  <上市公司 代码="KOOL" 名称="Thermogenesis" />
+  <上市公司 代码="KOPN" 名称="Kopin Corp" />
+  <上市公司 代码="KOSS" 名称="Koss Corp" />
+  <上市公司 代码="KPTI" 名称="Karyopharm Therapeutics Inc" />
+  <上市公司 代码="KRFT" 名称="Kraft Foods Group Inc" />
+  <上市公司 代码="KRNY" 名称="Kearny Financial" />
+  <上市公司 代码="KTCC" 名称="Key Tronic Corp" />
+  <上市公司 代码="KTEC" 名称="Key Technology" />
+  <上市公司 代码="KTOS" 名称="Kratos Defense &amp; Security Solutions" />
+  <上市公司 代码="KTWO" 名称="K2M Group Holdings Inc." />
+  <上市公司 代码="KUTV" 名称="Ku6 Media Co." />
+  <上市公司 代码="KVHI" 名称="Kvh Industries" />
+  <上市公司 代码="KWEB" 名称="Kraneshares Csi China Internet" />
+  <上市公司 代码="KYTH" 名称="Kythera Biopharmaceuticals Inc" />
+  <上市公司 代码="KZ" 名称="Kongzhong Corp" />
+  <上市公司 代码="LABC" 名称="Louisiana Bancorp" />
+  <上市公司 代码="LABL" 名称="Multi-Color Corp" />
+  <上市公司 代码="LACO" 名称="Lakes Entertainment" />
+  <上市公司 代码="LAEC" 名称="Loyalty Alliance Enterprise Corporation" />
+  <上市公司 代码="LAKE" 名称="Lakeland Industries" />
+  <上市公司 代码="LALT" 名称="PowerShares Actively Managed Exchange-Traded Fund Trust" />
+  <上市公司 代码="LAMR" 名称="Lamar Advertising Company" />
+  <上市公司 代码="LANC" 名称="Lancaster Colony Corp" />
+  <上市公司 代码="LAND" 名称="Gladstone Land Corp" />
+  <上市公司 代码="LARK" 名称="Landmark Bancorp Inc" />
+  <上市公司 代码="LAWS" 名称="Lawson Products" />
+  <上市公司 代码="LAYN" 名称="Layne Christensen Company" />
+  <上市公司 代码="LBAI" 名称="Lakeland Bancorp" />
+  <上市公司 代码="LBDAV" 名称="Liberty Broadband Corporation" />
+  <上市公司 代码="LBDKV" 名称="Liberty Broadband Corporation" />
+  <上市公司 代码="LBIX" 名称="Leading Brands Inc" />
+  <上市公司 代码="LBRDA" 名称="Liberty Broadband Corporation" />
+  <上市公司 代码="LBRDK" 名称="Liberty Broadband Corporation" />
+  <上市公司 代码="LBRKR" 名称="Liberty Broadband Corporation" />
+  <上市公司 代码="LBTYA" 名称="Liberty Global" />
+  <上市公司 代码="LBTYB" 名称="Liberty Global" />
+  <上市公司 代码="LBTYK" 名称="Liberty Global" />
+  <上市公司 代码="LCAV" 名称="Lca-Vision Inc" />
+  <上市公司 代码="LCNB" 名称="Lcnb Corp" />
+  <上市公司 代码="LCUT" 名称="Lifetime Brands" />
+  <上市公司 代码="LDRH" 名称="Ldr Holding Corp" />
+  <上市公司 代码="LDRI" 名称="PowerShares LadderRite 0-5 Year Corporate Bond Portfolio" />
+  <上市公司 代码="LE" 名称="Lands' End Inc." />
+  <上市公司 代码="LECO" 名称="Lincoln Electric Holdings" />
+  <上市公司 代码="LEDS" 名称="Semileds Corp" />
+  <上市公司 代码="LEVY" 名称="Levy Acquisition Corp." />
+  <上市公司 代码="LEVYU" 名称="Levy Acquisition Corp" />
+  <上市公司 代码="LEVYW" 名称="Levy Acquisition Corp." />
+  <上市公司 代码="LFUS" 名称="Littelfuse" />
+  <上市公司 代码="LFVN" 名称="Lifevantage Corp" />
+  <上市公司 代码="LGCY" 名称="Legacy Reserves LP" />
+  <上市公司 代码="LGCYO" 名称="Legacy Reserves LP" />
+  <上市公司 代码="LGCYP" 名称="Legacy Reserves LP" />
+  <上市公司 代码="LGIH" 名称="LGI Homes Inc" />
+  <上市公司 代码="LGND" 名称="Ligand Pharmaceuticals Inc" />
+  <上市公司 代码="LHCG" 名称="LHC Group" />
+  <上市公司 代码="LIME" 名称="Lime Energy Co." />
+  <上市公司 代码="LINC" 名称="Lincoln Educational Services Corp" />
+  <上市公司 代码="LINE" 名称="Linn Energy Llc" />
+  <上市公司 代码="LINTA" 名称="Liberty Media Corp" />
+  <上市公司 代码="LINTB" 名称="Liberty Media Corp" />
+  <上市公司 代码="LION" 名称="Fidelity Southern Corp" />
+  <上市公司 代码="LIOX" 名称="Lionbridge Technologies" />
+  <上市公司 代码="LIQD" 名称="Liquid Holdings Group Inc" />
+  <上市公司 代码="LIVE" 名称="Livedeal Inc" />
+  <上市公司 代码="LIWA" 名称="Lihua International" />
+  <上市公司 代码="LJPC" 名称="La Jolla Pharma" />
+  <上市公司 代码="LKFN" 名称="Lakeland Financial Corp" />
+  <上市公司 代码="LKQ" 名称="LKQ Corp" />
+  <上市公司 代码="LLEX" 名称="Lilis Energy Inc." />
+  <上市公司 代码="LLNW" 名称="Limelight Networks" />
+  <上市公司 代码="LLTC" 名称="Linear Technology Corp" />
+  <上市公司 代码="LMAC" 名称="Liberty Mutual Agency Corporation" />
+  <上市公司 代码="LMAT" 名称="Lemaitre Vascular" />
+  <上市公司 代码="LMBS" 名称="First Trust Low Duration Mortgage Opportunities ETF" />
+  <上市公司 代码="LMCA" 名称="Liberty Media Corp. Series A" />
+  <上市公司 代码="LMCB" 名称="Liberty Media Corp" />
+  <上市公司 代码="LMCK" 名称="Liberty Media Corporation" />
+  <上市公司 代码="LMCKV" 名称="Liberty Media Corporation" />
+  <上市公司 代码="LMIA" 名称="LMI Aerospace" />
+  <上市公司 代码="LMNR" 名称="Limoneira Co" />
+  <上市公司 代码="LMNS" 名称="Lumenis Ltd" />
+  <上市公司 代码="LMNX" 名称="Luminex Cor" />
+  <上市公司 代码="LMOS" 名称="Lumos Networks Corp" />
+  <上市公司 代码="LMRK" 名称="Landmark Infrastructure" />
+  <上市公司 代码="LNBB" 名称="LNB Bancorp" />
+  <上市公司 代码="LNCE" 名称="Snyder'S-Lance Inc" />
+  <上市公司 代码="LNCO" 名称="Linn Co Llc" />
+  <上市公司 代码="LNDC" 名称="Landec Corp" />
+  <上市公司 代码="LNTH" 名称="Lantheus Holdings Inc" />
+  <上市公司 代码="LOAN" 名称="Manhattan Bridge Capital Inc" />
+  <上市公司 代码="LOCM" 名称="Local Corp" />
+  <上市公司 代码="LOCO" 名称="El Pollo Loco Holdings Inc" />
+  <上市公司 代码="LOGI" 名称="Logitech International S.A." />
+  <上市公司 代码="LOGM" 名称="Logmein Inc" />
+  <上市公司 代码="LOJN" 名称="Lojack Corp" />
+  <上市公司 代码="LONG" 名称="Elong Inc" />
+  <上市公司 代码="LOOK" 名称="Looksmart Ltd" />
+  <上市公司 代码="LOPE" 名称="Grand Canyon Education" />
+  <上市公司 代码="LORL" 名称="Loral Space and Communications" />
+  <上市公司 代码="LOXO" 名称="Loxo Oncology, Inc." />
+  <上市公司 代码="LPCN" 名称="Lipocine Inc" />
+  <上市公司 代码="LPDX" 名称="Liposcience Inc" />
+  <上市公司 代码="LPHI" 名称="Life Partners Holdings Inc" />
+  <上市公司 代码="LPLA" 名称="Lpl Investment Holdings Inc" />
+  <上市公司 代码="LPNT" 名称="Lifepoint Hospitals" />
+  <上市公司 代码="LPSB" 名称="Laporte Bancorp" />
+  <上市公司 代码="LPSN" 名称="Liveperson Inc" />
+  <上市公司 代码="LPTH" 名称="Lightpath Technologies" />
+  <上市公司 代码="LPTN" 名称="Lpath Inc" />
+  <上市公司 代码="LQDT" 名称="Liquidity Services" />
+  <上市公司 代码="LRAD" 名称="Lrad Corp" />
+  <上市公司 代码="LRCX" 名称="Lam Research Corp" />
+  <上市公司 代码="LSBI" 名称="Lsb Financial" />
+  <上市公司 代码="LSBK" 名称="Lake Shore Bancorp" />
+  <上市公司 代码="LSCC" 名称="Lattice Semiconductor Corp" />
+  <上市公司 代码="LSI" 名称="Lsi Logic Corp" />
+  <上市公司 代码="LSTR" 名称="Landstar System" />
+  <上市公司 代码="LTBR" 名称="Lightbridge Corp" />
+  <上市公司 代码="LTRE" 名称="Learning Tree International" />
+  <上市公司 代码="LTRPA" 名称="Liberty TripAdvisor Holdings, Inc." />
+  <上市公司 代码="LTRPB" 名称="Liberty TripAdvisor Holdings, Inc." />
+  <上市公司 代码="LTRX" 名称="Lantronix Inc" />
+  <上市公司 代码="LTXC" 名称="Ltx-Credence Corp" />
+  <上市公司 代码="LULU" 名称="Lululemon Athletica Inc" />
+  <上市公司 代码="LUNA" 名称="Luna Innovations Inc" />
+  <上市公司 代码="LVNTA" 名称="Liberty Interactive Corp" />
+  <上市公司 代码="LVNTB" 名称="Liberty Interactive Corp" />
+  <上市公司 代码="LWAY" 名称="Lifeway Foods" />
+  <上市公司 代码="LXRX" 名称="Lexicon Pharmaceuticals" />
+  <上市公司 代码="LYTS" 名称="Lsi Industries Inc" />
+  <上市公司 代码="MACK" 名称="Merrimack Pharmaceuticals Inc" />
+  <上市公司 代码="MAG" 名称="Magnetek Inc" />
+  <上市公司 代码="MAGS" 名称="Magal Security Systems Ltd" />
+  <上市公司 代码="MAMS" 名称="Mam Software Group Inc" />
+  <上市公司 代码="MANH" 名称="Manhattan Associates" />
+  <上市公司 代码="MANT" 名称="Mantech International Corp" />
+  <上市公司 代码="MAPI" 名称="Mapi - Pharma Ltd" />
+  <上市公司 代码="MAR" 名称="Marriot International" />
+  <上市公司 代码="MARA" 名称="Marathon Patent Group, Inc." />
+  <上市公司 代码="MARK" 名称="Remark Media Inc" />
+  <上市公司 代码="MARPS" 名称="Marine Petroleum Trust" />
+  <上市公司 代码="MASI" 名称="Masimo Corp" />
+  <上市公司 代码="MAT" 名称="Mattel Inc" />
+  <上市公司 代码="MATR" 名称="Mattersight Corp" />
+  <上市公司 代码="MATW" 名称="Matthews International Corp" />
+  <上市公司 代码="MAYS" 名称="J. W. Mays" />
+  <上市公司 代码="MBCN" 名称="Middlefield Banc Corp." />
+  <上市公司 代码="MBFI" 名称="MB Financial Inc" />
+  <上市公司 代码="MBFIP" 名称="MB Financial Inc." />
+  <上市公司 代码="MBII" 名称="Marrone Bio Innovations Inc" />
+  <上市公司 代码="MBIS" 名称="Mediabistro Inc" />
+  <上市公司 代码="MBLX" 名称="Metabolix" />
+  <上市公司 代码="MBRG" 名称="Middleburg Financial Corp" />
+  <上市公司 代码="MBSD" 名称="FlexShares Disciplined Duration MBS Index Fund" />
+  <上市公司 代码="MBTF" 名称="M B T Financial Corp" />
+  <上市公司 代码="MBUU" 名称="Malibu Boats Inc." />
+  <上市公司 代码="MBVT" 名称="Merchants Bancshares" />
+  <上市公司 代码="MBWM" 名称="Mercantile Bank Corp" />
+  <上市公司 代码="MCBC" 名称="Macatawa Bank Corp" />
+  <上市公司 代码="MCBK" 名称="Madison County Financial Inc" />
+  <上市公司 代码="MCEP" 名称="Mid-Con Energy Partners LP" />
+  <上市公司 代码="MCGC" 名称="MCG Capital Corp" />
+  <上市公司 代码="MCHP" 名称="Microchip Technology Inc" />
+  <上市公司 代码="MCHX" 名称="Marchex Inc" />
+  <上市公司 代码="MCLB" 名称="Microlin Bio Inc" />
+  <上市公司 代码="MCLBW" 名称="Microlin Bio, Inc." />
+  <上市公司 代码="MCOX" 名称="Mecox Lane Limited" />
+  <上市公司 代码="MCRI" 名称="Monarch Casino &amp; Resort" />
+  <上市公司 代码="MCRL" 名称="Micrel Inc" />
+  <上市公司 代码="MCRS" 名称="Micros Systems" />
+  <上市公司 代码="MCUR" 名称="MACROCURE LTD." />
+  <上市公司 代码="MDAS" 名称="Medassets Inc" />
+  <上市公司 代码="MDCA" 名称="M.D.C. Partners Inc" />
+  <上市公司 代码="MDCI" 名称="Medical Action Industries Inc" />
+  <上市公司 代码="MDCO" 名称="The Medicines Company" />
+  <上市公司 代码="MDIV" 名称="First Trust Exchange-Traded Fun" />
+  <上市公司 代码="MDLZ" 名称="Mondelez International Inc. Cl A" />
+  <上市公司 代码="MDRX" 名称="Allscripts Healthcare Solutions" />
+  <上市公司 代码="MDSO" 名称="Medidata Solutions" />
+  <上市公司 代码="MDSY" 名称="BluePhoenix Solutions, Ltd." />
+  <上市公司 代码="MDVN" 名称="Medivation Inc" />
+  <上市公司 代码="MDVX" 名称="Medovex Corp." />
+  <上市公司 代码="MDVXU" 名称="Medovex Corp." />
+  <上市公司 代码="MDWD" 名称="Mediwound Ltd." />
+  <上市公司 代码="MDXG" 名称="Mimedx Group Inc" />
+  <上市公司 代码="MEAS" 名称="Measurement Specialties" />
+  <上市公司 代码="MEET" 名称="Meetme Inc" />
+  <上市公司 代码="MEIL" 名称="Methes Energies International L" />
+  <上市公司 代码="MEILW" 名称="Methes Energies International L" />
+  <上市公司 代码="MEILZ" 名称="Methes Energies International L" />
+  <上市公司 代码="MEIP" 名称="Mei Pharma Inc" />
+  <上市公司 代码="MELA" 名称="Mela Sciences Inc" />
+  <上市公司 代码="MELI" 名称="Mercadolibre Inc" />
+  <上市公司 代码="MELR" 名称="Melrose Bancorp, Inc." />
+  <上市公司 代码="MEMP" 名称="Memorial Production Partners LP" />
+  <上市公司 代码="MENT" 名称="Mentor Graphics Corp" />
+  <上市公司 代码="MEOH" 名称="Methanex Corp" />
+  <上市公司 代码="MERC" 名称="Mercer International Inc" />
+  <上市公司 代码="MERU" 名称="Meru Networks" />
+  <上市公司 代码="METR" 名称="Metro Bancorp Inc" />
+  <上市公司 代码="MFI" 名称="Microfinancial Inc" />
+  <上市公司 代码="MFLX" 名称="Multi-Fineline Electronix" />
+  <上市公司 代码="MFNC" 名称="Mackinac Financial Corp" />
+  <上市公司 代码="MFRI" 名称="MFRI Inc" />
+  <上市公司 代码="MFRM" 名称="Mattress Firm Holding Corp" />
+  <上市公司 代码="MFSF" 名称="Mutualfirst Financial Inc" />
+  <上市公司 代码="MGAM" 名称="Multimedia Games" />
+  <上市公司 代码="MGCD" 名称="Mgc Diagnostics Corp" />
+  <上市公司 代码="MGEE" 名称="Mge Energy Inc" />
+  <上市公司 代码="MGI" 名称="Moneygram International" />
+  <上市公司 代码="MGIC" 名称="Magic Software Enterprises Ltd" />
+  <上市公司 代码="MGLN" 名称="Magellan Health Services" />
+  <上市公司 代码="MGNX" 名称="Macrogenics Inc" />
+  <上市公司 代码="MGPI" 名称="Mgp Ingredients" />
+  <上市公司 代码="MGRC" 名称="Mcgrath Rentcorp" />
+  <上市公司 代码="MGYR" 名称="Magyar Bancorp" />
+  <上市公司 代码="MHGC" 名称="Morgans Hotel Group Co." />
+  <上市公司 代码="MHLD" 名称="Maiden Hldgs Ltd" />
+  <上市公司 代码="MHLDO" 名称="Maiden Holdings" />
+  <上市公司 代码="MICT" 名称="Micronet Enertec Technologies Inc" />
+  <上市公司 代码="MICTW" 名称="Micronet Enertec Technologies" />
+  <上市公司 代码="MIDD" 名称="The Middleby Corp" />
+  <上市公司 代码="MIFI" 名称="Novatel Wireless, Inc." />
+  <上市公司 代码="MIK" 名称="The Michaels Companies Inc" />
+  <上市公司 代码="MIND" 名称="Mitcham Industries" />
+  <上市公司 代码="MINI" 名称="Mobile Mini" />
+  <上市公司 代码="MITK" 名称="Mitek Systems Inc" />
+  <上市公司 代码="MITL" 名称="Mitel Networks Corp" />
+  <上市公司 代码="MKB" 名称="Moko Social Media Ltd" />
+  <上市公司 代码="MKSI" 名称="Mks Instruments" />
+  <上市公司 代码="MKTO" 名称="Marketo Inc" />
+  <上市公司 代码="MKTX" 名称="Marketaxess Holdings" />
+  <上市公司 代码="MLAB" 名称="Mesa Laboratories" />
+  <上市公司 代码="MLHR" 名称="Herman Miller" />
+  <上市公司 代码="MLNK" 名称="Moduslink Global Solutions Inc" />
+  <上市公司 代码="MLNX" 名称="Mellanox Technologies" />
+  <上市公司 代码="MLVF" 名称="Malvern Federal Bancorp" />
+  <上市公司 代码="MMAC" 名称="MMA Capital Management, LLC" />
+  <上市公司 代码="MMLP" 名称="Martin Midstream Partners L.P." />
+  <上市公司 代码="MMSI" 名称="Merit Medical Systems" />
+  <上市公司 代码="MMYT" 名称="Makemytrip Limited" />
+  <上市公司 代码="MNDL" 名称="Mandalay Media Inc" />
+  <上市公司 代码="MNDO" 名称="Mind C.T.I. Ltd" />
+  <上市公司 代码="MNGA" 名称="Magnegas Corp" />
+  <上市公司 代码="MNKD" 名称="Mannkind Corp" />
+  <上市公司 代码="MNOV" 名称="Medicinova" />
+  <上市公司 代码="MNRK" 名称="Monarch Financial Holdings" />
+  <上市公司 代码="MNRO" 名称="Monro Muffler Brake" />
+  <上市公司 代码="MNST" 名称="Monster Beverage Corp" />
+  <上市公司 代码="MNTA" 名称="Momenta Pharmaceuticals" />
+  <上市公司 代码="MNTG" 名称="Mtr Gaming Group" />
+  <上市公司 代码="MNTX" 名称="Manitex International" />
+  <上市公司 代码="MOBI" 名称="Sky-Mobi Limited" />
+  <上市公司 代码="MOBL" 名称="Mobile Iron Inc" />
+  <上市公司 代码="MOCO" 名称="Mocon Inc" />
+  <上市公司 代码="MOFG" 名称="Midwestone Financial Group" />
+  <上市公司 代码="MOKO" 名称="Moko Social Media Ltd" />
+  <上市公司 代码="MOLG" 名称="MOL GLOBAL, INC." />
+  <上市公司 代码="MOMO" 名称="Momo Inc" />
+  <上市公司 代码="MONT" 名称="Montage Technology Group Ltd." />
+  <上市公司 代码="MORN" 名称="Morningstar Inc" />
+  <上市公司 代码="MOSY" 名称="Mosys Inc" />
+  <上市公司 代码="MOVE" 名称="Move Inc" />
+  <上市公司 代码="MPAA" 名称="Motorcar Parts of America" />
+  <上市公司 代码="MPB" 名称="Mid Penn Bancorp" />
+  <上市公司 代码="MPEL" 名称="Melco Crown Entertainment Limited" />
+  <上市公司 代码="MPET" 名称="Magellan Petroleum Corp" />
+  <上市公司 代码="MPWR" 名称="Monolithic Power Systems" />
+  <上市公司 代码="MRCC" 名称="Monroe Capital Corp" />
+  <上市公司 代码="MRCY" 名称="Mercury Computer Systems" />
+  <上市公司 代码="MRD" 名称="Memorial Resource Dvlp Corp" />
+  <上市公司 代码="MRGE" 名称="Merge Healthcare Incorporated." />
+  <上市公司 代码="MRKT" 名称="Markit Ltd" />
+  <上市公司 代码="MRLN" 名称="Marlin Business Services" />
+  <上市公司 代码="MRNS" 名称="Marinus Pharmaceuticals Inc" />
+  <上市公司 代码="MRTN" 名称="Marten Transport" />
+  <上市公司 代码="MRTX" 名称="Mirati Therapeutics Inc" />
+  <上市公司 代码="MRVC" 名称="M R V Commun Inc" />
+  <上市公司 代码="MRVL" 名称="Marvell Technology Group" />
+  <上市公司 代码="MSBF" 名称="MSB Financial" />
+  <上市公司 代码="MSCC" 名称="Microsemi Corp" />
+  <上市公司 代码="MSEX" 名称="Middlesex Water Company" />
+  <上市公司 代码="MSFG" 名称="Mainsource Financial Group" />
+  <上市公司 代码="MSFT" 名称="Microsoft Corp" />
+  <上市公司 代码="MSG" 名称="Madison Square Garden" />
+  <上市公司 代码="MSLI" 名称="Merus Labs International Inc. Co" />
+  <上市公司 代码="MSON" 名称="Misonix Inc" />
+  <上市公司 代码="MSTR" 名称="Microstrategy Inc" />
+  <上市公司 代码="MTBC" 名称="MTBC" />
+  <上市公司 代码="MTEX" 名称="Mannatech Inc" />
+  <上市公司 代码="MTGE" 名称="American Capital Mortgage Inves" />
+  <上市公司 代码="MTGEP" 名称="American Capital Mortgage Inves" />
+  <上市公司 代码="MTLS" 名称="Materialise NV" />
+  <上市公司 代码="MTRX" 名称="Matrix Service Company" />
+  <上市公司 代码="MTSC" 名称="MTS Systems Corp" />
+  <上市公司 代码="MTSI" 名称="M/A-Com Technology Solutions Ho" />
+  <上市公司 代码="MTSL" 名称="Mer Telemanagement Solutions Ltd" />
+  <上市公司 代码="MTSN" 名称="Mattson Technology" />
+  <上市公司 代码="MU" 名称="Micron Technology" />
+  <上市公司 代码="MULT" 名称="AdvisorShares Sunrise Global Multi-Strategy ETF" />
+  <上市公司 代码="MVIS" 名称="Microvision" />
+  <上市公司 代码="MWIV" 名称="Mwi Veterinary Supply" />
+  <上市公司 代码="MWRX" 名称="Medworth Acquisition Corp" />
+  <上市公司 代码="MXIM" 名称="Maxim Integrated Products" />
+  <上市公司 代码="MXWL" 名称="Maxwell Technologies" />
+  <上市公司 代码="MYGN" 名称="Myriad Genetics" />
+  <上市公司 代码="MYL" 名称="Mylan Inc" />
+  <上市公司 代码="MYOS" 名称="MYOS Corporation" />
+  <上市公司 代码="MYRG" 名称="Myr Group" />
+  <上市公司 代码="MZOR" 名称="Mazor Robotics Ltd" />
+  <上市公司 代码="NAII" 名称="Natural Alternatives International" />
+  <上市公司 代码="NAME" 名称="Rightside Group, Ltd." />
+  <上市公司 代码="NAMEV" 名称="Rightside Group, Ltd." />
+  <上市公司 代码="NANO" 名称="Nanometrics Inc" />
+  <上市公司 代码="NASB" 名称="Nasb Financial Inc" />
+  <上市公司 代码="NATH" 名称="Nathan's Famous" />
+  <上市公司 代码="NATI" 名称="National Instruments Corp" />
+  <上市公司 代码="NATL" 名称="National Interstate Corp" />
+  <上市公司 代码="NATR" 名称="Nature's Sunshine Products" />
+  <上市公司 代码="NAUH" 名称="National American University Holdings" />
+  <上市公司 代码="NAVG" 名称="The Navigators Group" />
+  <上市公司 代码="NAVI" 名称="Navient Corporation" />
+  <上市公司 代码="NAVIV" 名称="Navient Corporation" />
+  <上市公司 代码="NBBC" 名称="Newbridge Bancorp" />
+  <上市公司 代码="NBCB" 名称="First Nbc Bank Holding Company" />
+  <上市公司 代码="NBIX" 名称="Neurocrine Biosciences" />
+  <上市公司 代码="NBN" 名称="Northeast Bancorp" />
+  <上市公司 代码="NBS" 名称="Neostem" />
+  <上市公司 代码="NBTB" 名称="NBT Bancorp Inc" />
+  <上市公司 代码="NBTF" 名称="NB&amp;T Financial Group Inc" />
+  <上市公司 代码="NCBC" 名称="New Century Bancorp Inc. [Nc]" />
+  <上市公司 代码="NCIT" 名称="NCI Inc" />
+  <上市公司 代码="NCLH" 名称="Norwegian Cruise Line Holdings" />
+  <上市公司 代码="NCMI" 名称="National Cinemedia" />
+  <上市公司 代码="NCTY" 名称="The9 Limited" />
+  <上市公司 代码="NDAQ" 名称="The Nasdaq Omx Group" />
+  <上市公司 代码="NDLS" 名称="Noodles &amp; Company" />
+  <上市公司 代码="NDRM" 名称="Neuroderm Ltd" />
+  <上市公司 代码="NDSN" 名称="Nordson Corp" />
+  <上市公司 代码="NECB" 名称="Northeast Community Bancorp" />
+  <上市公司 代码="NEFF" 名称="NEFF Corp" />
+  <上市公司 代码="NEO" 名称="Neogenomics Inc" />
+  <上市公司 代码="NEOG" 名称="Neogen Corp" />
+  <上市公司 代码="NEON" 名称="Neonode Inc" />
+  <上市公司 代码="NEOT" 名称="Neothetics Inc" />
+  <上市公司 代码="NEPT" 名称="Neptune Technologies &amp; Bioresources Inc" />
+  <上市公司 代码="NERV" 名称="Minerva Neurosciences Inc" />
+  <上市公司 代码="NETE" 名称="Net Element Inc" />
+  <上市公司 代码="NEWL" 名称="Newlead Holdings Ltd" />
+  <上市公司 代码="NEWP" 名称="Newport Corp" />
+  <上市公司 代码="NEWS" 名称="Newstar Financial" />
+  <上市公司 代码="NEWT" 名称="Newtek Business Services Inc" />
+  <上市公司 代码="NFBK" 名称="Northfield Bancorp" />
+  <上市公司 代码="NFEC" 名称="NF Energy Saving Corp" />
+  <上市公司 代码="NFLX" 名称="Netflix Inc" />
+  <上市公司 代码="NGHC" 名称="National General Holdings Corp" />
+  <上市公司 代码="NGHCP" 名称="National General Holdings Corp" />
+  <上市公司 代码="NGPC" 名称="Ngp Capital Resources Company" />
+  <上市公司 代码="NHTB" 名称="New Hampshire Thrift Bancshares" />
+  <上市公司 代码="NICE" 名称="Nice-Systems Limited" />
+  <上市公司 代码="NICK" 名称="Nicholas Financial" />
+  <上市公司 代码="NIHD" 名称="NII Holdings" />
+  <上市公司 代码="NILE" 名称="Blue Nile Inc" />
+  <上市公司 代码="NINE" 名称="Ninetowns Internet Technology Group" />
+  <上市公司 代码="NKSH" 名称="National Bankshares" />
+  <上市公司 代码="NKTR" 名称="Nektar Therapeutics" />
+  <上市公司 代码="NLNK" 名称="Newlink Genetics Corp" />
+  <上市公司 代码="NLST" 名称="Netlist Inc" />
+  <上市公司 代码="NMIH" 名称="Nmi Holdings Inc" />
+  <上市公司 代码="NMRX" 名称="Numerex Corp" />
+  <上市公司 代码="NNBR" 名称="NN Inc" />
+  <上市公司 代码="NOVB" 名称="North Valley Bancorp" />
+  <上市公司 代码="NPBC" 名称="National Penn Bancshares" />
+  <上市公司 代码="NPSP" 名称="NPS Pharmaceuticals" />
+  <上市公司 代码="NRCIA" 名称="National Research Corp" />
+  <上市公司 代码="NRCIB" 名称="National Research Corp" />
+  <上市公司 代码="NRIM" 名称="Northrim Bancorp Inc" />
+  <上市公司 代码="NRX" 名称="Nephrogenex Inc." />
+  <上市公司 代码="NSEC" 名称="National Security Group" />
+  <上市公司 代码="NSIG" 名称="NeuroSigma Inc" />
+  <上市公司 代码="NSIT" 名称="Insight Enterprises" />
+  <上市公司 代码="NSPH" 名称="Nanosphere Inc" />
+  <上市公司 代码="NSSC" 名称="Napco Security Technologies" />
+  <上市公司 代码="NSTG" 名称="Nanostring Technologies Inc" />
+  <上市公司 代码="NSYS" 名称="Nortech Systems Inc" />
+  <上市公司 代码="NTAP" 名称="Netapp Inc" />
+  <上市公司 代码="NTCT" 名称="Netscout Systems" />
+  <上市公司 代码="NTES" 名称="Netease Inc" />
+  <上市公司 代码="NTGR" 名称="Netgear Inc" />
+  <上市公司 代码="NTIC" 名称="Northern Technologies International Corp" />
+  <上市公司 代码="NTK" 名称="Nortek Inc" />
+  <上市公司 代码="NTLS" 名称="Ntelos Holdings" />
+  <上市公司 代码="NTRI" 名称="Nutrisystem Inc" />
+  <上市公司 代码="NTRS" 名称="Northern Trust Corp" />
+  <上市公司 代码="NTRSP" 名称="Northern Trust Corporation" />
+  <上市公司 代码="NTWK" 名称="Netsol Technologies Inc" />
+  <上市公司 代码="NUAN" 名称="Nuance Communications" />
+  <上市公司 代码="NUCL" 名称="S&amp;P Global Nuclear Energy Index Ishares" />
+  <上市公司 代码="NURO" 名称="Neurometrix Inc" />
+  <上市公司 代码="NUTR" 名称="Nutraceutical International Corp" />
+  <上市公司 代码="NUVA" 名称="Nuvasive Inc" />
+  <上市公司 代码="NVAX" 名称="Novavax Inc" />
+  <上市公司 代码="NVBX" 名称="NanoVibronix, Inc." />
+  <上市公司 代码="NVBXU" 名称="NanoVibronix, Inc." />
+  <上市公司 代码="NVCN" 名称="Neovasc Inc." />
+  <上市公司 代码="NVDA" 名称="Nvidia Corp" />
+  <上市公司 代码="NVDQ" 名称="Novadaq Technologies" />
+  <上市公司 代码="NVEC" 名称="Nve Corp" />
+  <上市公司 代码="NVEE" 名称="Nv5 Holdings Inc" />
+  <上市公司 代码="NVEEW" 名称="Nv5 Holdings Inc" />
+  <上市公司 代码="NVFY" 名称="Nova Lifestyle Inc" />
+  <上市公司 代码="NVGN" 名称="Novogen Ltd" />
+  <上市公司 代码="NVMI" 名称="Nova Measuring Instruments Ltd" />
+  <上市公司 代码="NVSL" 名称="Naugatuck Valley Financial Corp" />
+  <上市公司 代码="NVTL" 名称="Novatel Wireless" />
+  <上市公司 代码="NWBI" 名称="Northwest Bancshares" />
+  <上市公司 代码="NWBO" 名称="Northwest Biotherapeutics" />
+  <上市公司 代码="NWBOW" 名称="Northwest Biotherapeutics Wt" />
+  <上市公司 代码="NWFL" 名称="Norwood Financial" />
+  <上市公司 代码="NWLI" 名称="National Western Life Insurance" />
+  <上市公司 代码="NWPX" 名称="Northwest Pipe Company" />
+  <上市公司 代码="NWS" 名称="News Corp Class B" />
+  <上市公司 代码="NWSA" 名称="News Corp Class A" />
+  <上市公司 代码="NXPI" 名称="Nxp Semiconductors N.V." />
+  <上市公司 代码="NXSN" 名称="Nexsan Corporation" />
+  <上市公司 代码="NXST" 名称="Nexstar Broadcasting Group" />
+  <上市公司 代码="NXTD" 名称="NXT-ID Inc." />
+  <上市公司 代码="NXTDW" 名称="NXT-ID Inc." />
+  <上市公司 代码="NXTM" 名称="Nxstage Medical" />
+  <上市公司 代码="NYMT" 名称="New York Mortgage Trust" />
+  <上市公司 代码="NYMTP" 名称="New York Mortgage Trust Inc" />
+  <上市公司 代码="NYMX" 名称="Nymox Pharmaceutical Corp" />
+  <上市公司 代码="NYNY" 名称="Empire Resorts" />
+  <上市公司 代码="OABC" 名称="Omniamerican Bancorp" />
+  <上市公司 代码="OBAF" 名称="Oba Financial Services" />
+  <上市公司 代码="OBAS" 名称="Optibase Ltd" />
+  <上市公司 代码="OBCI" 名称="Ocean Bio-Chem" />
+  <上市公司 代码="OCAT" 名称="Ocata Therapeutics, Inc." />
+  <上市公司 代码="OCC" 名称="Optical Cable Corp" />
+  <上市公司 代码="OCFC" 名称="Oceanfirst Financial" />
+  <上市公司 代码="OCLR" 名称="Oclaro Inc" />
+  <上市公司 代码="OCLS" 名称="Oculus Innovative Sciences" />
+  <上市公司 代码="OCRX" 名称="Ocera Therapeutics Inc" />
+  <上市公司 代码="OCUL" 名称="Ocular Therapeutix Inc" />
+  <上市公司 代码="ODFL" 名称="Old Dominion Freight Line" />
+  <上市公司 代码="ODP" 名称="Office Depot, Inc." />
+  <上市公司 代码="OFED" 名称="Oconee Federal Financial" />
+  <上市公司 代码="OFIX" 名称="Orthofix International N.V." />
+  <上市公司 代码="OFLX" 名称="Omega Flex" />
+  <上市公司 代码="OFS" 名称="Ofs Capital Corp" />
+  <上市公司 代码="OGAR" 名称="The O&amp;#39;Gara Group, Inc." />
+  <上市公司 代码="OGXI" 名称="Oncogenex Pharmaceuticals Inc" />
+  <上市公司 代码="OHAI" 名称="OHA Investment Corporation" />
+  <上市公司 代码="OHGI" 名称="One Horizon Group, Inc." />
+  <上市公司 代码="OHRP" 名称="Ohr Pharmaceutical Inc" />
+  <上市公司 代码="OIIM" 名称="O2Micro International Limited" />
+  <上市公司 代码="OINK" 名称="Tianli Agritech" />
+  <上市公司 代码="OKSB" 名称="Southwest Bancorp" />
+  <上市公司 代码="OLBK" 名称="Old Line Bancshares" />
+  <上市公司 代码="OLED" 名称="Universal Display Corp" />
+  <上市公司 代码="OMAB" 名称="Grupo Aeroportuario Del Centro" />
+  <上市公司 代码="OMCL" 名称="Omnicell Inc" />
+  <上市公司 代码="OMED" 名称="Oncomed Pharmaceuticals Inc" />
+  <上市公司 代码="OMER" 名称="Omeros Corp" />
+  <上市公司 代码="OMEX" 名称="Odyssey Marine Exploration" />
+  <上市公司 代码="ONB" 名称="Old National Bancorp Capital" />
+  <上市公司 代码="ONCY" 名称="Oncolytics Biotech" />
+  <上市公司 代码="ONEQ" 名称="Nasdaq Composite Tracking Fidelity" />
+  <上市公司 代码="ONFC" 名称="Oneida Financial" />
+  <上市公司 代码="ONNN" 名称="On Semiconductor Corp" />
+  <上市公司 代码="ONTX" 名称="Onconova Therapeutics Inc" />
+  <上市公司 代码="ONTY" 名称="Oncothyreon Inc" />
+  <上市公司 代码="ONVI" 名称="Onvia Inc" />
+  <上市公司 代码="OPB" 名称="Opus Bank" />
+  <上市公司 代码="OPEN" 名称="Opentable" />
+  <上市公司 代码="OPHC" 名称="Optimumbank Holdings" />
+  <上市公司 代码="OPHT" 名称="Ophthotech Corp" />
+  <上市公司 代码="OPLK" 名称="Oplink Communications" />
+  <上市公司 代码="OPOF" 名称="Old Point Financial Corp" />
+  <上市公司 代码="OPTT" 名称="Ocean Power Technologies" />
+  <上市公司 代码="OPXA" 名称="Opexa Therapeutics" />
+  <上市公司 代码="ORBC" 名称="Orbcomm Inc" />
+  <上市公司 代码="ORBK" 名称="Orbotech Ltd" />
+  <上市公司 代码="ORBT" 名称="Orbit International Corp" />
+  <上市公司 代码="OREX" 名称="Orexigen Therapeutics" />
+  <上市公司 代码="ORIG" 名称="Ocean Rig Udw Inc" />
+  <上市公司 代码="ORIT" 名称="Oritani Financial" />
+  <上市公司 代码="ORLY" 名称="O'Reilly Automotive" />
+  <上市公司 代码="ORMP" 名称="Oramed Pharmaceuticl" />
+  <上市公司 代码="ORPN" 名称="Bio Blast Pharma Ltd." />
+  <上市公司 代码="ORRF" 名称="Orrstown Financial Services Inc" />
+  <上市公司 代码="OSBC" 名称="Old Second Bancorp" />
+  <上市公司 代码="OSBCP" 名称="Old Second Bancorp" />
+  <上市公司 代码="OSHC" 名称="Ocean Shore Holding Co." />
+  <上市公司 代码="OSIR" 名称="Osiris Therapeutics" />
+  <上市公司 代码="OSIS" 名称="Osi Systems" />
+  <上市公司 代码="OSM" 名称="SLM Corp" />
+  <上市公司 代码="OSN" 名称="Ossen Innovation Co." />
+  <上市公司 代码="OSTK" 名称="Overstock.Com" />
+  <上市公司 代码="OSUR" 名称="Orasure Technologies" />
+  <上市公司 代码="OTEL" 名称="Otelco Inc. Class A" />
+  <上市公司 代码="OTEX" 名称="Open Text Corp" />
+  <上市公司 代码="OTIC" 名称="Otonomy Inc" />
+  <上市公司 代码="OTIV" 名称="On Track Innovations Ltd" />
+  <上市公司 代码="OTTR" 名称="Otter Tail Corp" />
+  <上市公司 代码="OUTR" 名称="Outerwall Inc" />
+  <上市公司 代码="OVAS" 名称="Ovascience Inc" />
+  <上市公司 代码="OVBC" 名称="Ohio Valley Banc" />
+  <上市公司 代码="OVLY" 名称="Oak Valley Bancorp [Ca]" />
+  <上市公司 代码="OVRL" 名称="Overland Storage" />
+  <上市公司 代码="OVTI" 名称="Omnivision Technologies" />
+  <上市公司 代码="OXBR" 名称="Oxbridge Re Holdings Limited" />
+  <上市公司 代码="OXBRU" 名称="Oxbridge Re Holdings Limited" />
+  <上市公司 代码="OXBRW" 名称="Oxbridge Re Holdings Limited" />
+  <上市公司 代码="OXBT" 名称="Oxygen Biotherapeutics" />
+  <上市公司 代码="OXFD" 名称="Oxford Immunotec Global Plc" />
+  <上市公司 代码="OXGN" 名称="Oxigene Inc" />
+  <上市公司 代码="OXLC" 名称="Oxford Lane Capital" />
+  <上市公司 代码="OXLCN" 名称="Oxford Lane Capital Corp." />
+  <上市公司 代码="OXLCO" 名称="Oxford Lane Capital Corp" />
+  <上市公司 代码="OXLCP" 名称="Oxford Lane Capital Corp" />
+  <上市公司 代码="OZRK" 名称="Bank of The Ozarks" />
+  <上市公司 代码="PAAS" 名称="Pan American Silver" />
+  <上市公司 代码="PACB" 名称="Pacific Biosciences of California" />
+  <上市公司 代码="PACW" 名称="Pacwest Bancorp" />
+  <上市公司 代码="PAGG" 名称="Global Agriculture Powershares" />
+  <上市公司 代码="PAHC" 名称="Phibro Animal Health Corp" />
+  <上市公司 代码="PANL" 名称="Pangaea Logistics Solutions Ltd. 			" />
+  <上市公司 代码="PARN" 名称="Parnell Pharma" />
+  <上市公司 代码="PATK" 名称="Patrick Industries" />
+  <上市公司 代码="PATR" 名称="Patriot Transportation Holding" />
+  <上市公司 代码="PAYX" 名称="Paychex Inc" />
+  <上市公司 代码="PBCP" 名称="Polonia Bancorp [Pa]" />
+  <上市公司 代码="PBCT" 名称="People's United Financial" />
+  <上市公司 代码="PBHC" 名称="Pathfinder Bancorp" />
+  <上市公司 代码="PBIB" 名称="Porter Bancorp" />
+  <上市公司 代码="PBIP" 名称="Prudential Bancorp of Pennsylvania" />
+  <上市公司 代码="PBMD" 名称="Prima Biomed Ltd" />
+  <上市公司 代码="PBPB" 名称="Potbelly Corp" />
+  <上市公司 代码="PBSK" 名称="Poage Bankshares Inc" />
+  <上市公司 代码="PCAR" 名称="Paccar Inc" />
+  <上市公司 代码="PCBK" 名称="Pacific Continental Corporation [Ore]" />
+  <上市公司 代码="PCCC" 名称="PC Connection" />
+  <上市公司 代码="PCH" 名称="Potlatch Corp" />
+  <上市公司 代码="PCLN" 名称="Priceline.Com Inc" />
+  <上市公司 代码="PCMI" 名称="PCM Inc" />
+  <上市公司 代码="PCO" 名称="Pendrell Corp" />
+  <上市公司 代码="PCOM" 名称="Points International" />
+  <上市公司 代码="PCRX" 名称="Pacira Pharmaceuticals" />
+  <上市公司 代码="PCTI" 名称="Pc-Tel Inc" />
+  <上市公司 代码="PCTY" 名称="Paylocity Holding Corp" />
+  <上市公司 代码="PCYC" 名称="Pharmacyclics Inc" />
+  <上市公司 代码="PCYG" 名称="Park City Group" />
+  <上市公司 代码="PCYO" 名称="Pure Cycle Corp" />
+  <上市公司 代码="PDBC" 名称="PowerShares DB Optimum Yield Diversified Commodity Strategy Po" />
+  <上市公司 代码="PDCE" 名称="Pdc Energy Inc" />
+  <上市公司 代码="PDCO" 名称="Patterson Companies Inc" />
+  <上市公司 代码="PDEX" 名称="Pro-Dex Inc" />
+  <上市公司 代码="PDFS" 名称="Pdf Solutions Inc" />
+  <上市公司 代码="PDII" 名称="Pdi Inc" />
+  <上市公司 代码="PDLI" 名称="Pdl Biopharma" />
+  <上市公司 代码="PEAK" 名称="Peak Resorts, Inc." />
+  <上市公司 代码="PEBK" 名称="Peoples Bancorp of North Carolina" />
+  <上市公司 代码="PEBO" 名称="Peoples Bancorp Inc" />
+  <上市公司 代码="PEER" 名称="IntelePeer, Inc." />
+  <上市公司 代码="PEGA" 名称="Pegasystems Inc" />
+  <上市公司 代码="PEGI" 名称="Pattern Energy Group Inc" />
+  <上市公司 代码="PEIX" 名称="Pacific Ethanol" />
+  <上市公司 代码="PENN" 名称="Penn National Gaming" />
+  <上市公司 代码="PENX" 名称="Penford Corp" />
+  <上市公司 代码="PEOP" 名称="Peoples Federal Bancshares" />
+  <上市公司 代码="PERF" 名称="Perfumania Holdings Inc" />
+  <上市公司 代码="PERI" 名称="Perion Network Ltd" />
+  <上市公司 代码="PERY" 名称="Perry Ellis International Inc" />
+  <上市公司 代码="PESI" 名称="Perma-Fix Environmental Services" />
+  <上市公司 代码="PETM" 名称="Petsmart Inc" />
+  <上市公司 代码="PETS" 名称="Petmed Express" />
+  <上市公司 代码="PETX" 名称="Aratana Therapeutics Inc" />
+  <上市公司 代码="PFBC" 名称="Preferred Bank" />
+  <上市公司 代码="PFBI" 名称="Premier Financial Bancorp" />
+  <上市公司 代码="PFBX" 名称="Peoples Financial Corp" />
+  <上市公司 代码="PFIE" 名称="Profire Energy Inc" />
+  <上市公司 代码="PFIN" 名称="P &amp; F Industries" />
+  <上市公司 代码="PFIS" 名称="Peoples Finl Svcs Co" />
+  <上市公司 代码="PFLT" 名称="Pennantpark Floating Rate Capit" />
+  <上市公司 代码="PFMT" 名称="Performant Financial Corp" />
+  <上市公司 代码="PFPT" 名称="Proofpoint Inc" />
+  <上市公司 代码="PFSW" 名称="Pfsweb Inc" />
+  <上市公司 代码="PGC" 名称="Peapack-Gladstone Financial Corp" />
+  <上市公司 代码="PGNX" 名称="Progenics Pharmaceuticals Inc" />
+  <上市公司 代码="PGTI" 名称="Pgt Industries" />
+  <上市公司 代码="PHII" 名称="PHI Inc" />
+  <上市公司 代码="PHIIK" 名称="PHI Inc" />
+  <上市公司 代码="PHMD" 名称="Photomedex" />
+  <上市公司 代码="PICO" 名称="Pico Holdings Inc" />
+  <上市公司 代码="PIH" 名称="1347 Property Insurance Holding" />
+  <上市公司 代码="PINC" 名称="Premier Inc" />
+  <上市公司 代码="PKBK" 名称="Parke Bancorp" />
+  <上市公司 代码="PKOH" 名称="Park-Ohio Holdings" />
+  <上市公司 代码="PKT" 名称="Procera Networks" />
+  <上市公司 代码="PLAB" 名称="Photronics" />
+  <上市公司 代码="PLAY" 名称="Dave &amp; Buster&amp;#39;s Entertainment, Inc." />
+  <上市公司 代码="PLBC" 名称="Plumas Bancorp" />
+  <上市公司 代码="PLCC" 名称="Paulson Capital" />
+  <上市公司 代码="PLCE" 名称="The Children's Place Retail Stores" />
+  <上市公司 代码="PLCM" 名称="Polycom Inc" />
+  <上市公司 代码="PLKI" 名称="Popeyes Louisiana Kitchen Inc." />
+  <上市公司 代码="PLMT" 名称="Palmetto Bancshs SC" />
+  <上市公司 代码="PLNR" 名称="Planar Systems" />
+  <上市公司 代码="PLPC" 名称="Preformed Line Products Company" />
+  <上市公司 代码="PLPD" 名称="PolyPid Ltd" />
+  <上市公司 代码="PLPM" 名称="Planet Payment" />
+  <上市公司 代码="PLTM" 名称="ISE Global Platinum Index First Trust" />
+  <上市公司 代码="PLUG" 名称="Plug Power Inc" />
+  <上市公司 代码="PLUS" 名称="Eplus Inc" />
+  <上市公司 代码="PLXS" 名称="Plexus Corp" />
+  <上市公司 代码="PLXT" 名称="Plx Technology" />
+  <上市公司 代码="PMBC" 名称="Pacific Mercantile Bancorp" />
+  <上市公司 代码="PMCS" 名称="Pmc - Sierra" />
+  <上市公司 代码="PMCT" 名称="Pmc Commercial Trust" />
+  <上市公司 代码="PMD" 名称="Psychemedics Corp" />
+  <上市公司 代码="PME" 名称="Sentry Select Primary Metals Corp" />
+  <上市公司 代码="PMFG" 名称="PMFG Inc" />
+  <上市公司 代码="PNBK" 名称="Patriot National Bancorp Inc" />
+  <上市公司 代码="PNFP" 名称="Pinnacle Financial Partners" />
+  <上市公司 代码="PNNT" 名称="Pennantpark Investment Corp" />
+  <上市公司 代码="PNQI" 名称="Nasdaq Internet Powershares" />
+  <上市公司 代码="PNRA" 名称="Panera Bread Company" />
+  <上市公司 代码="PNRG" 名称="Primeenergy Corp" />
+  <上市公司 代码="PNTR" 名称="Pointer Telocation Ltd" />
+  <上市公司 代码="PODD" 名称="Insulet Corp" />
+  <上市公司 代码="POOL" 名称="Pool Corp" />
+  <上市公司 代码="POPE" 名称="Pope Resources" />
+  <上市公司 代码="POWI" 名称="Power Integrations" />
+  <上市公司 代码="POWL" 名称="Powell Industries" />
+  <上市公司 代码="POZN" 名称="Pozen Inc" />
+  <上市公司 代码="PPBI" 名称="Pacific Premier Bancorp Inc" />
+  <上市公司 代码="PPC" 名称="Pilgrim's Pride Corp" />
+  <上市公司 代码="PPHM" 名称="Peregrine Pharmaceuticals Inc" />
+  <上市公司 代码="PPHMP" 名称="Peregrine Pharmaceuticals Inc." />
+  <上市公司 代码="PPSI" 名称="Pioneer Pwr Solution" />
+  <上市公司 代码="PRAA" 名称="Portfolio Recovery Associates" />
+  <上市公司 代码="PRAH" 名称="PRA Health Sciences Inc" />
+  <上市公司 代码="PRAN" 名称="Prana Biotechnology Ltd" />
+  <上市公司 代码="PRCP" 名称="Perceptron Inc" />
+  <上市公司 代码="PRFT" 名称="Perficient Inc" />
+  <上市公司 代码="PRFZ" 名称="FTSE Rafi US 1500 Small-Mid Powershares" />
+  <上市公司 代码="PRGN" 名称="Paragon Shipping Inc" />
+  <上市公司 代码="PRGNL" 名称="Paragon Shipping Inc." />
+  <上市公司 代码="PRGS" 名称="Progress Software Corp" />
+  <上市公司 代码="PRGX" 名称="Prgx Global" />
+  <上市公司 代码="PRIM" 名称="Primoris Services Corp" />
+  <上市公司 代码="PRKR" 名称="Parkervision" />
+  <上市公司 代码="PRLS" 名称="Peerless Systems Corp" />
+  <上市公司 代码="PRMW" 名称="Primo Water Corp" />
+  <上市公司 代码="PROV" 名称="Provident Financial Holdings" />
+  <上市公司 代码="PRPH" 名称="Prophase Labs" />
+  <上市公司 代码="PRQR" 名称="ProQR Therapeutics BV" />
+  <上市公司 代码="PRSC" 名称="The Providence Service Corp" />
+  <上市公司 代码="PRSS" 名称="Cafepress Inc" />
+  <上市公司 代码="PRTA" 名称="Prothena Corporation Plc" />
+  <上市公司 代码="PRTK" 名称="Paratek Pharmaceuticals, Inc. " />
+  <上市公司 代码="PRTO" 名称="Proteon Therapeutics Inc" />
+  <上市公司 代码="PRTS" 名称="U.S. Auto Parts Network" />
+  <上市公司 代码="PRXI" 名称="Premier Exhibitions" />
+  <上市公司 代码="PRXL" 名称="Parexel International Corp" />
+  <上市公司 代码="PSAU" 名称="Global Gold &amp; Prec Metals Powershares" />
+  <上市公司 代码="PSBH" 名称="Psb Holdings" />
+  <上市公司 代码="PSCC" 名称="S&amp;P Smallcap Cnsmr Staples Powershares" />
+  <上市公司 代码="PSCD" 名称="S&amp;P Smallcap Cnsmr Discret Powershares" />
+  <上市公司 代码="PSCE" 名称="S&amp;P Smallcap Energy Powershares" />
+  <上市公司 代码="PSCF" 名称="S&amp;P Smallcap Financials Powershares" />
+  <上市公司 代码="PSCH" 名称="S&amp;P Smallcap Health Care Powershares" />
+  <上市公司 代码="PSCI" 名称="S&amp;P Smallcap Industrials Powershares" />
+  <上市公司 代码="PSCM" 名称="S&amp;P Smallcap Materials Powershares" />
+  <上市公司 代码="PSCT" 名称="S&amp;P Smallcap Info Tech Powershares" />
+  <上市公司 代码="PSCU" 名称="S&amp;P Smallcap Utilities Powershares" />
+  <上市公司 代码="PSDV" 名称="Psivida Corp" />
+  <上市公司 代码="PSEC" 名称="Prospect Capital Corp" />
+  <上市公司 代码="PSEM" 名称="Pericom Semiconductor Corp" />
+  <上市公司 代码="PSIX" 名称="Power Solutions Inte" />
+  <上市公司 代码="PSMI" 名称="Peregrine Semiconductor Corp" />
+  <上市公司 代码="PSMT" 名称="Pricesmart Inc" />
+  <上市公司 代码="PSTB" 名称="Park Sterling Bank" />
+  <上市公司 代码="PSTI" 名称="Pluristem Therapeutics" />
+  <上市公司 代码="PSTR" 名称="Postrock Energy Corp" />
+  <上市公司 代码="PSUN" 名称="Pacific Sunwear of California" />
+  <上市公司 代码="PTBI" 名称="PlasmaTech Biopharmaceuticals, Inc." />
+  <上市公司 代码="PTBIW" 名称="PlasmaTech Biopharmaceuticals, Inc." />
+  <上市公司 代码="PTC" 名称="Ptc Inc." />
+  <上市公司 代码="PTCT" 名称="Ptc Therapeutics Inc" />
+  <上市公司 代码="PTEK" 名称="Pokertek Inc" />
+  <上市公司 代码="PTEN" 名称="Patterson-Uti Energy" />
+  <上市公司 代码="PTIE" 名称="Pain Therapeutics" />
+  <上市公司 代码="PTLA" 名称="Portola Pharmaceuticals Inc" />
+  <上市公司 代码="PTNR" 名称="Partner Communications Company Ltd" />
+  <上市公司 代码="PTNT" 名称="Internet Patents Corp" />
+  <上市公司 代码="PTRY" 名称="The Pantry Inc" />
+  <上市公司 代码="PTSI" 名称="P.A.M. Transportation Services" />
+  <上市公司 代码="PTSX" 名称="Point.360" />
+  <上市公司 代码="PTX" 名称="Pernix Therapeutics Holdings Inc." />
+  <上市公司 代码="PULB" 名称="Pulaski Financial" />
+  <上市公司 代码="PVTB" 名称="Privatebancorp" />
+  <上市公司 代码="PVTBP" 名称="Privatebancorp" />
+  <上市公司 代码="PWOD" 名称="Penns Woods Bancorp" />
+  <上市公司 代码="PWRD" 名称="Perfect World Co." />
+  <上市公司 代码="PWX" 名称="Providence and Worcester Railroad" />
+  <上市公司 代码="PXLW" 名称="Pixelworks" />
+  <上市公司 代码="PZZA" 名称="Papa John's International" />
+  <上市公司 代码="PZZI" 名称="Pizza Inn" />
+  <上市公司 代码="QABA" 名称="Nasdaq Aba Community Bank First Trust" />
+  <上市公司 代码="QADA" 名称="Qad Inc" />
+  <上市公司 代码="QADB" 名称="Qad Inc" />
+  <上市公司 代码="QAT" 名称="Ishares MSCI Qatar Capped ETF" />
+  <上市公司 代码="QBAK" 名称="Qualstar Corp" />
+  <上市公司 代码="QCCO" 名称="QC Holdings" />
+  <上市公司 代码="QCLN" 名称="Nasdaq Clean Edge Green First Trust" />
+  <上市公司 代码="QCOM" 名称="Qualcomm Inc" />
+  <上市公司 代码="QCOR" 名称="Questcor Pharmaceuticals" />
+  <上市公司 代码="QCRH" 名称="Qcr Holdings" />
+  <上市公司 代码="QDEL" 名称="Quidel Corp" />
+  <上市公司 代码="QGEN" 名称="Qiagen N.V." />
+  <上市公司 代码="QINC" 名称="First Trust Rba Quality Income" />
+  <上市公司 代码="QIWI" 名称="Qiwi Plc" />
+  <上市公司 代码="QKLS" 名称="Qkl Stores" />
+  <上市公司 代码="QLGC" 名称="Qlogic Corp" />
+  <上市公司 代码="QLIK" 名称="Qlik Technologies Inc" />
+  <上市公司 代码="QLTI" 名称="Qlt Inc" />
+  <上市公司 代码="QLTY" 名称="Quality Distribution" />
+  <上市公司 代码="QLYS" 名称="Qualys Inc" />
+  <上市公司 代码="QNST" 名称="Quinstreet Inc" />
+  <上市公司 代码="QPAC" 名称="Quinpario Acquisiton Corp" />
+  <上市公司 代码="QPACU" 名称="Quinpario Acquisition Corp" />
+  <上市公司 代码="QPACW" 名称="Quinpario Acquisiton Corp" />
+  <上市公司 代码="QQEW" 名称="Nasdaq-100 Equal Weight First Trust" />
+  <上市公司 代码="QQQ" 名称="Powershares QQQ" />
+  <上市公司 代码="QQQC" 名称="G-X Nasdaq China Technology ETF" />
+  <上市公司 代码="QQQX" 名称="Nasdaq Premium Income and Growth" />
+  <上市公司 代码="QQXT" 名称="Nasdaq-100 Ex-Tech Sec First Trust" />
+  <上市公司 代码="QRHC" 名称="Quest Resource Holding Corp." />
+  <上市公司 代码="QSII" 名称="Quality Systems" />
+  <上市公司 代码="QTEC" 名称="Nasdaq-100 Tech Index First Trust" />
+  <上市公司 代码="QTET" 名称="Quartet Merger Corp." />
+  <上市公司 代码="QTETR" 名称="Quartet Merger Corp." />
+  <上市公司 代码="QTETU" 名称="Quartet Merger Corp" />
+  <上市公司 代码="QTNT" 名称="Quotient Limited" />
+  <上市公司 代码="QTNTU" 名称="Quotient Limited" />
+  <上市公司 代码="QTNTW" 名称="Quotient Limited" />
+  <上市公司 代码="QTWW" 名称="Quantum Fuel Systems Technologies" />
+  <上市公司 代码="QUIK" 名称="Quicklogic Corp" />
+  <上市公司 代码="QUMU" 名称="Qumu Corp" />
+  <上市公司 代码="QUNR" 名称="Qunar Cayman Islands Limited" />
+  <上市公司 代码="QURE" 名称="Uniqure B.V." />
+  <上市公司 代码="QVCA" 名称="Liberty Interactive Corporation" />
+  <上市公司 代码="QVCB" 名称="Liberty Interactive Corporation" />
+  <上市公司 代码="QYLD" 名称="Recon Capital Nasdaq-100 Covere" />
+  <上市公司 代码="RADA" 名称="Rada Electronics Industries Limited" />
+  <上市公司 代码="RADB" 名称="Radius Bancorp Inc" />
+  <上市公司 代码="RAIL" 名称="Freightcar America" />
+  <上市公司 代码="RAND" 名称="Rand Capital Corp" />
+  <上市公司 代码="RARE" 名称="Ultragenyx Pharmaceutical Inc." />
+  <上市公司 代码="RAVN" 名称="Raven Industries" />
+  <上市公司 代码="RBCAA" 名称="Republic Bancorp" />
+  <上市公司 代码="RBCN" 名称="Rubicon Technology" />
+  <上市公司 代码="RBIO" 名称="REVO Biologics Inc" />
+  <上市公司 代码="RBPAA" 名称="Royal Bancshares of Pennsylvania" />
+  <上市公司 代码="RCII" 名称="Rent-A-Center Inc" />
+  <上市公司 代码="RCKB" 名称="Rockville Financial" />
+  <上市公司 代码="RCKY" 名称="Rocky Brands" />
+  <上市公司 代码="RCMT" 名称="Rcm Technologies" />
+  <上市公司 代码="RCON" 名称="Recon Technology" />
+  <上市公司 代码="RCPI" 名称="Rock Creek Pharmaceuticals, Inc." />
+  <上市公司 代码="RCPT" 名称="Receptos Inc" />
+  <上市公司 代码="RDA" 名称="Rda Microelectronics" />
+  <上市公司 代码="RDCM" 名称="Radcom Ltd" />
+  <上市公司 代码="RDEN" 名称="Elizabeth Arden" />
+  <上市公司 代码="RDHL" 名称="Redhill Biopharma Ltd" />
+  <上市公司 代码="RDI" 名称="Reading International Inc" />
+  <上市公司 代码="RDIB" 名称="Reading International Inc" />
+  <上市公司 代码="RDNT" 名称="Radnet Inc" />
+  <上市公司 代码="RDUS" 名称="Radius Health, Inc. " />
+  <上市公司 代码="RDVY" 名称="First Trust Nasdaq Rising Divid" />
+  <上市公司 代码="RDWR" 名称="Radware Ltd" />
+  <上市公司 代码="RECN" 名称="Resources Connection" />
+  <上市公司 代码="REDF" 名称="Rediff.Com India Limited" />
+  <上市公司 代码="REFR" 名称="Research Frontiers Inc" />
+  <上市公司 代码="REGI" 名称="Renewable Energy Group Inc" />
+  <上市公司 代码="REGN" 名称="Regeneron Pharmaceuticals" />
+  <上市公司 代码="REIS" 名称="Reis Inc" />
+  <上市公司 代码="RELL" 名称="Richardson Electronics" />
+  <上市公司 代码="RELV" 名称="Reliv International Inc" />
+  <上市公司 代码="REMY" 名称="Remy Intl Inc" />
+  <上市公司 代码="RENT" 名称="Rentrak Corp" />
+  <上市公司 代码="REPH" 名称="Recro Pharma Inc." />
+  <上市公司 代码="RESN" 名称="Resonant Inc" />
+  <上市公司 代码="REXI" 名称="Resource America" />
+  <上市公司 代码="REXX" 名称="Rex Energy Corp" />
+  <上市公司 代码="RFIL" 名称="RF Industries" />
+  <上市公司 代码="RFMD" 名称="RF Micro Devices" />
+  <上市公司 代码="RGCO" 名称="Rgc Resources Inc" />
+  <上市公司 代码="RGDO" 名称="Regado Biosciences Inc" />
+  <上市公司 代码="RGDX" 名称="Response Genetics" />
+  <上市公司 代码="RGEN" 名称="Repligen Corp" />
+  <上市公司 代码="RGLD" 名称="Royal Gold" />
+  <上市公司 代码="RGLS" 名称="Regulus Therapeutics Inc" />
+  <上市公司 代码="RGSE" 名称="Real Goods Solar Inc." />
+  <上市公司 代码="RIBT" 名称="Ricebran Technologies" />
+  <上市公司 代码="RIBTW" 名称="Ricebran Technologies" />
+  <上市公司 代码="RICK" 名称="Rick's Cabaret International" />
+  <上市公司 代码="RIGL" 名称="Rigel Pharmaceuticals" />
+  <上市公司 代码="RITT" 名称="Rit Technologies Ltd" />
+  <上市公司 代码="RITTW" 名称="Rit Technologies Ltd." />
+  <上市公司 代码="RIVR" 名称="River Valley Bancorp" />
+  <上市公司 代码="RJET" 名称="Republic Airways Holdings" />
+  <上市公司 代码="RLJE" 名称="Rlj Entertainment Inc" />
+  <上市公司 代码="RLOC" 名称="Reachlocal" />
+  <上市公司 代码="RLOG" 名称="Rand Logistics" />
+  <上市公司 代码="RLYP" 名称="Relypsa Inc" />
+  <上市公司 代码="RMBS" 名称="Rambus Inc" />
+  <上市公司 代码="RMCF" 名称="Rocky Mountain Chocolate Factory" />
+  <上市公司 代码="RMGN" 名称="Scg Financial Acquisition Corp" />
+  <上市公司 代码="RMTI" 名称="Rockwell Medical Technologies" />
+  <上市公司 代码="RNA" 名称="Prosensa Holding B.V." />
+  <上市公司 代码="RNET" 名称="Rignet Inc" />
+  <上市公司 代码="RNST" 名称="Renasant Corp" />
+  <上市公司 代码="RNWK" 名称="Realnetworks" />
+  <上市公司 代码="ROBO" 名称="Robo-Stox Global Robotics and A" />
+  <上市公司 代码="ROCK" 名称="Gibraltar Industries" />
+  <上市公司 代码="ROIA" 名称="Radio One Inc" />
+  <上市公司 代码="ROIAK" 名称="Radio One Inc" />
+  <上市公司 代码="ROIC" 名称="Retail Opportunity Investments" />
+  <上市公司 代码="ROICU" 名称="Retail Opportunity Investments" />
+  <上市公司 代码="ROICW" 名称="Retail Opportunity Investments" />
+  <上市公司 代码="ROIQ" 名称="Roi Acquisition Corp. II" />
+  <上市公司 代码="ROIQU" 名称="Roi Acquisition Corp. II" />
+  <上市公司 代码="ROIQW" 名称="Everyware Glb Wts" />
+  <上市公司 代码="ROKA" 名称="Roka Bioscience, Inc." />
+  <上市公司 代码="ROLL" 名称="RBC Bearings Inc" />
+  <上市公司 代码="ROSE" 名称="Rosetta Resources Inc" />
+  <上市公司 代码="ROSG" 名称="Rosetta Genomics Ltd" />
+  <上市公司 代码="ROST" 名称="Ross Stores" />
+  <上市公司 代码="ROVI" 名称="Rovi Corp" />
+  <上市公司 代码="ROYL" 名称="Royale Energy" />
+  <上市公司 代码="RP" 名称="Realpage Inc" />
+  <上市公司 代码="RPRX" 名称="Repros Therapeutics Inc" />
+  <上市公司 代码="RPRXW" 名称="Repros Therapeutics Inc." />
+  <上市公司 代码="RPRXZ" 名称="Repros Therapeutics Inc." />
+  <上市公司 代码="RPTP" 名称="Raptor Pharmaceutical" />
+  <上市公司 代码="RPXC" 名称="Rpx Corp" />
+  <上市公司 代码="RRD" 名称="R.R. Donnelley &amp; Sons Company" />
+  <上市公司 代码="RRGB" 名称="Red Robin Gourmet Burgers" />
+  <上市公司 代码="RRST" 名称="Rrsat Global Communications Network Ltd" />
+  <上市公司 代码="RSTI" 名称="Rofin-Sinar Technologies" />
+  <上市公司 代码="RSYS" 名称="Radisys Corp" />
+  <上市公司 代码="RTGN" 名称="Ruthigen Inc." />
+  <上市公司 代码="RTIX" 名称="Rti Biologics" />
+  <上市公司 代码="RTK" 名称="Rentech Inc" />
+  <上市公司 代码="RTRX" 名称="Retrophin Inc" />
+  <上市公司 代码="RUDR" 名称="VelocityShares Russia Select DR ETF" />
+  <上市公司 代码="RUSHA" 名称="Rush Enterprises" />
+  <上市公司 代码="RUSHB" 名称="Rush Enterprises" />
+  <上市公司 代码="RUTH" 名称="Ruth's Hospitality Group" />
+  <上市公司 代码="RVBD" 名称="Riverbed Technology" />
+  <上市公司 代码="RVLT" 名称="Nexxus Lighting" />
+  <上市公司 代码="RVNC" 名称="Revance Therapeutics Inc." />
+  <上市公司 代码="RVSB" 名称="Riverview Bancorp Inc" />
+  <上市公司 代码="RWLK" 名称="ReWalk Robotics Ltd" />
+  <上市公司 代码="RXDX" 名称="Ignyta Inc." />
+  <上市公司 代码="RXII" 名称="Rxi Pharmaceuticals" />
+  <上市公司 代码="RYAAY" 名称="Ryanair Holdings Plc" />
+  <上市公司 代码="SAAS" 名称="Incontact" />
+  <上市公司 代码="SABR" 名称="Sabre Corp" />
+  <上市公司 代码="SAEX" 名称="Saexploration Holdings Inc" />
+  <上市公司 代码="SAFM" 名称="Sanderson Farms" />
+  <上市公司 代码="SAFT" 名称="Safety Insurance Group" />
+  <上市公司 代码="SAGE" 名称="SAGE Therapeutics Inc" />
+  <上市公司 代码="SAIA" 名称="Saia Inc" />
+  <上市公司 代码="SAJA" 名称="Sajan, Inc. " />
+  <上市公司 代码="SAL" 名称="Salisbury Bancorp" />
+  <上市公司 代码="SALE" 名称="Retailmenot Inc" />
+  <上市公司 代码="SALM" 名称="Salem Communications Corp" />
+  <上市公司 代码="SAMG" 名称="Silvercrest Asset Management Gr" />
+  <上市公司 代码="SANM" 名称="Sanmina-Sci Corp" />
+  <上市公司 代码="SANW" 名称="S&amp;W Seed Company" />
+  <上市公司 代码="SANWZ" 名称="S&amp;W Seed Company" />
+  <上市公司 代码="SAPE" 名称="Sapient Corp" />
+  <上市公司 代码="SASR" 名称="Sandy Spring Bancorp" />
+  <上市公司 代码="SATS" 名称="Echostar Corp" />
+  <上市公司 代码="SAVE" 名称="Spirit Airlines Inc" />
+  <上市公司 代码="SBAC" 名称="SBA Communications Corp" />
+  <上市公司 代码="SBBX" 名称="Sussex Bancorp" />
+  <上市公司 代码="SBCF" 名称="Seacoast Banking Corporation of Florida" />
+  <上市公司 代码="SBCP" 名称="Sunshine Bancorp, Inc." />
+  <上市公司 代码="SBFG" 名称="Sb Financial Group Inc" />
+  <上市公司 代码="SBGI" 名称="Sinclair Broadcast Group" />
+  <上市公司 代码="SBLK" 名称="Star Bulk Carriers" />
+  <上市公司 代码="SBLKL" 名称="Star Bulk Carriers Corp." />
+  <上市公司 代码="SBNY" 名称="Signature Bank" />
+  <上市公司 代码="SBNYW" 名称="Signature Bank" />
+  <上市公司 代码="SBRA" 名称="Sabra Healthcare REIT Inc" />
+  <上市公司 代码="SBRAP" 名称="Sabra Healthcare REIT Inc" />
+  <上市公司 代码="SBSA" 名称="Spanish Broadcasting System" />
+  <上市公司 代码="SBSI" 名称="Southside Bancshares" />
+  <上市公司 代码="SBUX" 名称="Starbucks Corp" />
+  <上市公司 代码="SCAI" 名称="Surgical Care Affiliates Inc" />
+  <上市公司 代码="SCBT" 名称="Scbt Financial Corp" />
+  <上市公司 代码="SCHL" 名称="Scholastic Corp" />
+  <上市公司 代码="SCHN" 名称="Schnitzer Steel Industries" />
+  <上市公司 代码="SCLN" 名称="Sciclone Pharmaceuticals" />
+  <上市公司 代码="SCMP" 名称="Sucampo Pharmaceuticals" />
+  <上市公司 代码="SCOK" 名称="Sinocoking Coal and Coke Chemical Industries In" />
+  <上市公司 代码="SCON" 名称="Superconductor Technologies Inc" />
+  <上市公司 代码="SCOR" 名称="Comscore Inc" />
+  <上市公司 代码="SCSC" 名称="Scansource Inc" />
+  <上市公司 代码="SCSS" 名称="Select Comfort Corp" />
+  <上市公司 代码="SCTY" 名称="Solarcity Corp" />
+  <上市公司 代码="SCVL" 名称="Shoe Carnival" />
+  <上市公司 代码="SCYX" 名称="Scynexis Inc" />
+  <上市公司 代码="SEAC" 名称="Seachange International" />
+  <上市公司 代码="SEED" 名称="Origin Agritech Limited" />
+  <上市公司 代码="SEIC" 名称="Sei Investments Company" />
+  <上市公司 代码="SEMI" 名称="ALL AMER SEMICONDU" />
+  <上市公司 代码="SENEA" 名称="Seneca Foods" />
+  <上市公司 代码="SENEB" 名称="Seneca Foods" />
+  <上市公司 代码="SEV" 名称="Sevcon Inc" />
+  <上市公司 代码="SEVRR" 名称="Sevcon, Inc." />
+  <上市公司 代码="SFBC" 名称="Sound Financial Inc" />
+  <上市公司 代码="SFBS" 名称="Servisfirst Bancshares Inc." />
+  <上市公司 代码="SFLY" 名称="Shutterfly" />
+  <上市公司 代码="SFM" 名称="Sprouts Farmers Market Inc" />
+  <上市公司 代码="SFNC" 名称="Simmons First National Corp" />
+  <上市公司 代码="SFST" 名称="Southern First Bancshares" />
+  <上市公司 代码="SFXE" 名称="Sfx Entertainment Inc" />
+  <上市公司 代码="SGBK" 名称="Stonegate Bank" />
+  <上市公司 代码="SGC" 名称="Superior Uniform Group" />
+  <上市公司 代码="SGEN" 名称="Seattle Genetics" />
+  <上市公司 代码="SGI" 名称="Silicon Graphics International Corp" />
+  <上市公司 代码="SGMA" 名称="Sigmatron International" />
+  <上市公司 代码="SGMO" 名称="Sangamo Biosciences" />
+  <上市公司 代码="SGMS" 名称="Scientific Games Corp" />
+  <上市公司 代码="SGNL" 名称="Signal Genetics LLC" />
+  <上市公司 代码="SGNT" 名称="Sagent Pharmaceuticals Inc" />
+  <上市公司 代码="SGOC" 名称="Sgoco Group Ltd" />
+  <上市公司 代码="SGRP" 名称="Spar Group" />
+  <上市公司 代码="SGYP" 名称="Synergy Pharmaceuticals Inc" />
+  <上市公司 代码="SGYPU" 名称="Synergy Pharmaceuticals Inc" />
+  <上市公司 代码="SGYPW" 名称="Synergy Pharmaceuticals Inc" />
+  <上市公司 代码="SHBI" 名称="Shore Bancshares Inc" />
+  <上市公司 代码="SHEN" 名称="Shenandoah Telecommunications Co" />
+  <上市公司 代码="SHIP" 名称="Seanergy Maritime Holdings Corp" />
+  <上市公司 代码="SHLD" 名称="Sears Holdings Corp" />
+  <上市公司 代码="SHLDR" 名称="Sears Holdings Corporation" />
+  <上市公司 代码="SHLDW" 名称="Sears Holdings Corporation" />
+  <上市公司 代码="SHLDZ" 名称="Sears Holdings Corporation" />
+  <上市公司 代码="SHLM" 名称="A. Schulman" />
+  <上市公司 代码="SHLO" 名称="Shiloh Industries" />
+  <上市公司 代码="SHOO" 名称="Steven Madden" />
+  <上市公司 代码="SHOR" 名称="Shoretel Inc" />
+  <上市公司 代码="SHOS" 名称="Sears Hometown and Outlet Store" />
+  <上市公司 代码="SHPG" 名称="Shire Plc American Depositary Shares" />
+  <上市公司 代码="SIAL" 名称="Sigma-Aldrich Corp" />
+  <上市公司 代码="SIBC" 名称="State Investors Bancorp Inc" />
+  <上市公司 代码="SIEB" 名称="Siebert Financial" />
+  <上市公司 代码="SIEN" 名称="Sientra, Inc." />
+  <上市公司 代码="SIFI" 名称="Si Financial Group" />
+  <上市公司 代码="SIFY" 名称="Sify Technologies Limited" />
+  <上市公司 代码="SIGA" 名称="Siga Technologies Inc" />
+  <上市公司 代码="SIGI" 名称="Selective Insurance Group" />
+  <上市公司 代码="SIGM" 名称="Sigma Designs" />
+  <上市公司 代码="SILC" 名称="Silicom Ltd" />
+  <上市公司 代码="SIMG" 名称="Silicon Image" />
+  <上市公司 代码="SIMO" 名称="Silicon Motion Technology Corp" />
+  <上市公司 代码="SINA" 名称="Sina Corp" />
+  <上市公司 代码="SINO" 名称="Sino-Global Shipping America" />
+  <上市公司 代码="SIRI" 名称="Sirius XM Radio Inc" />
+  <上市公司 代码="SIRO" 名称="Sirona Dental Systems" />
+  <上市公司 代码="SIVB" 名称="Svb Financial Group" />
+  <上市公司 代码="SIVBO" 名称="Svb Financial Group" />
+  <上市公司 代码="SIXD" 名称="6D Global Technologies, Inc." />
+  <上市公司 代码="SKBI" 名称="Skystar Bio-Pharmaceutical Company" />
+  <上市公司 代码="SKIS" 名称="Peak Resorts, Inc." />
+  <上市公司 代码="SKLN" 名称="Skyline Medical Inc." />
+  <上市公司 代码="SKLNW" 名称="Skyline Medical Inc." />
+  <上市公司 代码="SKOR" 名称="FlexShares Credit-Scored US Corporate Bond Index Fund" />
+  <上市公司 代码="SKUL" 名称="Skullcandy Inc" />
+  <上市公司 代码="SKYS" 名称="Sky Solar Holdings Ltd" />
+  <上市公司 代码="SKYW" 名称="Skywest Inc" />
+  <上市公司 代码="SKYY" 名称="ISE Cloud Computing Index First Trust" />
+  <上市公司 代码="SLAB" 名称="Silicon Laboratories" />
+  <上市公司 代码="SLCT" 名称="Select Bancorp, Inc." />
+  <上市公司 代码="SLGN" 名称="Silgan Holdings" />
+  <上市公司 代码="SLM" 名称="SLM Corp" />
+  <上市公司 代码="SLMAP" 名称="SLM 6.97 Cum Pfd A" />
+  <上市公司 代码="SLMBP" 名称="SLM Corp Pfd B" />
+  <上市公司 代码="SLMVV" 名称="SLM Corporation" />
+  <上市公司 代码="SLP" 名称="Simulations Plus" />
+  <上市公司 代码="SLRC" 名称="Solar Capital Ltd" />
+  <上市公司 代码="SLTC" 名称="Selectica Inc" />
+  <上市公司 代码="SLVO" 名称="Credit Suisse Ag" />
+  <上市公司 代码="SLXP" 名称="Salix Pharmaceuticals" />
+  <上市公司 代码="SMAC" 名称="Sino Mercury Acquisition Corp." />
+  <上市公司 代码="SMACR" 名称="Sino Mercury Acquisition Corp." />
+  <上市公司 代码="SMACU" 名称="Sino Mercury Acquisition Corp" />
+  <上市公司 代码="SMBC" 名称="Southern Missouri Bancorp" />
+  <上市公司 代码="SMCI" 名称="Super Micro Computer" />
+  <上市公司 代码="SMED" 名称="Sharps Compliance Corp" />
+  <上市公司 代码="SMIT" 名称="Schmitt Industries" />
+  <上市公司 代码="SMLR" 名称="Semler Scientific Inc." />
+  <上市公司 代码="SMMF" 名称="Summit Financial Group" />
+  <上市公司 代码="SMPL" 名称="Kaiser Federal Financial Group" />
+  <上市公司 代码="SMRT" 名称="Stein Mart Inc" />
+  <上市公司 代码="SMSI" 名称="Smith Micro Software" />
+  <上市公司 代码="SMT" 名称="Smart Technologies Inc" />
+  <上市公司 代码="SMTC" 名称="Semtech Corp" />
+  <上市公司 代码="SMTH" 名称="Smith Electric Vehicles Corp." />
+  <上市公司 代码="SMTP" 名称="Smtp Inc" />
+  <上市公司 代码="SMTX" 名称="Smtc Corp" />
+  <上市公司 代码="SNAK" 名称="Inventure Foods" />
+  <上市公司 代码="SNBC" 名称="Sun Bancorp" />
+  <上市公司 代码="SNC" 名称="State National Companies, Inc." />
+  <上市公司 代码="SNCR" 名称="Synchronoss Technologies" />
+  <上市公司 代码="SNDE" 名称="Sundance Energy Australia Limited" />
+  <上市公司 代码="SNDK" 名称="Sandisk Corp" />
+  <上市公司 代码="SNDX" 名称="Syndax Pharmaceuticals Inc" />
+  <上市公司 代码="SNFCA" 名称="Security National Financial Corp" />
+  <上市公司 代码="SNHY" 名称="Sun Hydraulics Corp" />
+  <上市公司 代码="SNMX" 名称="Senomyx Inc" />
+  <上市公司 代码="SNPS" 名称="Synopsys Inc" />
+  <上市公司 代码="SNSS" 名称="Sunesis Pharmaceuticals" />
+  <上市公司 代码="SNTA" 名称="Synta Pharmaceuticals" />
+  <上市公司 代码="SOCB" 名称="Southcoast Financial Corp" />
+  <上市公司 代码="SOCL" 名称="G-X Social Media Index ETF" />
+  <上市公司 代码="SODA" 名称="Sodastream International Ltd" />
+  <上市公司 代码="SOFO" 名称="Sonic Foundry" />
+  <上市公司 代码="SOHO" 名称="Sotherly Hotels Inc" />
+  <上市公司 代码="SOHOL" 名称="Sotherly Hotels LP" />
+  <上市公司 代码="SOHOM" 名称="Sotherly Hotels LP" />
+  <上市公司 代码="SOHU" 名称="Sohu.Com Inc" />
+  <上市公司 代码="SONA" 名称="Southern National Bancorp of Virginia" />
+  <上市公司 代码="SONC" 名称="Sonic Corp" />
+  <上市公司 代码="SONS" 名称="Sonus Networks" />
+  <上市公司 代码="SORL" 名称="Sorl Auto Parts" />
+  <上市公司 代码="SOXX" 名称="PHLX Sox Semiconductor Sector Ishares" />
+  <上市公司 代码="SP" 名称="Sp Plus Corporation" />
+  <上市公司 代码="SPAN" 名称="Span-America Medical Systems" />
+  <上市公司 代码="SPAR" 名称="Spartan Motors" />
+  <上市公司 代码="SPBC" 名称="Sp Bancorp" />
+  <上市公司 代码="SPCB" 名称="Supercom Ltd" />
+  <上市公司 代码="SPCHA" 名称="Sport Chalet" />
+  <上市公司 代码="SPCHB" 名称="Sport Chalet" />
+  <上市公司 代码="SPDC" 名称="Speed Commerce Inc" />
+  <上市公司 代码="SPEX" 名称="Spherix Inc" />
+  <上市公司 代码="SPHS" 名称="Sophiris Bio Inc" />
+  <上市公司 代码="SPIL" 名称="Siliconware Precision Industries Company Ltd" />
+  <上市公司 代码="SPKE" 名称="Spark Energy Inc" />
+  <上市公司 代码="SPLK" 名称="Splunk Inc" />
+  <上市公司 代码="SPLS" 名称="Staples Inc" />
+  <上市公司 代码="SPNC" 名称="The Spectranetics Corp" />
+  <上市公司 代码="SPNS" 名称="Sapiens International Corporation N.V." />
+  <上市公司 代码="SPOK" 名称="Spok Holdings, Inc." />
+  <上市公司 代码="SPPI" 名称="Spectrum Pharmaceuticals" />
+  <上市公司 代码="SPPR" 名称="Supertel Hospitality" />
+  <上市公司 代码="SPPRO" 名称="Supertel Hospitality" />
+  <上市公司 代码="SPPRP" 名称="Supertel Hospitality" />
+  <上市公司 代码="SPRO" 名称="Smartpros Ltd" />
+  <上市公司 代码="SPRT" 名称="Support.Com Inc" />
+  <上市公司 代码="SPSC" 名称="Sps Commerce" />
+  <上市公司 代码="SPTN" 名称="Spartan Stores" />
+  <上市公司 代码="SPU" 名称="Skypeople Fruit Juice" />
+  <上市公司 代码="SPWH" 名称="Sportsman&amp;#39S Warehouse Holdi" />
+  <上市公司 代码="SPWR" 名称="Sunpower Corp" />
+  <上市公司 代码="SQBG" 名称="Sequential Brands Group Inc." />
+  <上市公司 代码="SQBK" 名称="Square 1 Financial Inc" />
+  <上市公司 代码="SQI" 名称="Sciquest Inc" />
+  <上市公司 代码="SQNM" 名称="Sequenom Inc" />
+  <上市公司 代码="SQQQ" 名称="Ultrapro Short QQQ Proshares" />
+  <上市公司 代码="SRCE" 名称="1St Source Corp" />
+  <上市公司 代码="SRCL" 名称="Stericycle Inc" />
+  <上市公司 代码="SRDX" 名称="Surmodics Inc" />
+  <上市公司 代码="SREV" 名称="Servicesource International In" />
+  <上市公司 代码="SRNE" 名称="Sorrento Therapeutics" />
+  <上市公司 代码="SRPT" 名称="Sarepta Therapeutics Inc" />
+  <上市公司 代码="SRSC" 名称="Sears Canada Inc. " />
+  <上市公司 代码="SRSCV" 名称="Sears Canada Inc. " />
+  <上市公司 代码="SRVA" 名称="SIRVA, Inc." />
+  <上市公司 代码="SSB" 名称="South State Corporation" />
+  <上市公司 代码="SSBI" 名称="Summit State Bank" />
+  <上市公司 代码="SSFN" 名称="Stewardship Financial Corp" />
+  <上市公司 代码="SSH" 名称="Sunshine Heart Inc" />
+  <上市公司 代码="SSNC" 名称="SS&amp;C Technologies Holdings" />
+  <上市公司 代码="SSRG" 名称="Symmetry Surgical Inc." />
+  <上市公司 代码="SSRI" 名称="Silver Standard Resources Inc" />
+  <上市公司 代码="SSYS" 名称="Stratasys Ltd" />
+  <上市公司 代码="STAA" 名称="Staar Surgical Company" />
+  <上市公司 代码="STB" 名称="Student Transn Inc" />
+  <上市公司 代码="STBA" 名称="S&amp;T Bancorp" />
+  <上市公司 代码="STBZ" 名称="State Bank Finl Corp" />
+  <上市公司 代码="STCK" 名称="Stock Building Supply Holdings" />
+  <上市公司 代码="STEM" 名称="Stemcells Inc" />
+  <上市公司 代码="STFC" 名称="State Auto Financial Corp" />
+  <上市公司 代码="STIM" 名称="Endostim Inc" />
+  <上市公司 代码="STKL" 名称="Sunopta Inc" />
+  <上市公司 代码="STLD" 名称="Steel Dynamics" />
+  <上市公司 代码="STLY" 名称="Stanley Furniture Company" />
+  <上市公司 代码="STML" 名称="Stemline Therapeutics Inc" />
+  <上市公司 代码="STMP" 名称="Stamps.Com Inc" />
+  <上市公司 代码="STNR" 名称="Steiner Leisure Limited" />
+  <上市公司 代码="STOR" 名称="Storagenetworks Inc" />
+  <上市公司 代码="STRA" 名称="Strayer Education" />
+  <上市公司 代码="STRL" 名称="Sterling Construction Company Inc" />
+  <上市公司 代码="STRM" 名称="Streamline Health Solutions" />
+  <上市公司 代码="STRN" 名称="Sutron Corp" />
+  <上市公司 代码="STRS" 名称="Stratus Properties" />
+  <上市公司 代码="STRT" 名称="Strattec Security Corp" />
+  <上市公司 代码="STRZA" 名称="Starz Series A Liberty Capital" />
+  <上市公司 代码="STRZB" 名称="Starz Series B Liberty Capital" />
+  <上市公司 代码="STSI" 名称="Star Scientific" />
+  <上市公司 代码="STX" 名称="Seagate Technology." />
+  <上市公司 代码="STXS" 名称="Stereotaxis" />
+  <上市公司 代码="SUBK" 名称="Suffolk Bancorp" />
+  <上市公司 代码="SUMR" 名称="Summer Infant" />
+  <上市公司 代码="SUNS" 名称="Solar Senior Capital Ltd" />
+  <上市公司 代码="SUPN" 名称="Supernus Pharmaceuticals Inc" />
+  <上市公司 代码="SURG" 名称="Synergetics USA" />
+  <上市公司 代码="SUSQ" 名称="Susquehanna Bancshares" />
+  <上市公司 代码="SUTR" 名称="Sutor Technology Group Limited" />
+  <上市公司 代码="SVA" 名称="Sinovac Biotech" />
+  <上市公司 代码="SVBI" 名称="Severn Bancorp Inc" />
+  <上市公司 代码="SVVC" 名称="Firsthand Technology Value Fund" />
+  <上市公司 代码="SWHC" 名称="Smith &amp; Wesson Holding Corp" />
+  <上市公司 代码="SWIR" 名称="Sierra Wireless" />
+  <上市公司 代码="SWKS" 名称="Skyworks Solutions" />
+  <上市公司 代码="SWSH" 名称="Swisher Hygiene" />
+  <上市公司 代码="SXB" 名称="S1 Biopharma Inc" />
+  <上市公司 代码="SXBUU" 名称="S1 Biopharma, Inc." />
+  <上市公司 代码="SYBT" 名称="S.Y. Bancorp" />
+  <上市公司 代码="SYKE" 名称="Sykes Enterprises Inc" />
+  <上市公司 代码="SYMC" 名称="Symantec Corp" />
+  <上市公司 代码="SYMX" 名称="Synthesis Energy Systems" />
+  <上市公司 代码="SYNA" 名称="Synaptics Inc" />
+  <上市公司 代码="SYNC" 名称="Synacor Inc" />
+  <上市公司 代码="SYNL" 名称="Synalloy Corp" />
+  <上市公司 代码="SYNM" 名称="Syntroleum Corp" />
+  <上市公司 代码="SYNT" 名称="Syntel Inc" />
+  <上市公司 代码="SYPR" 名称="Sypris Solutions" />
+  <上市公司 代码="SYRX" 名称="Sysorex Global Holdings Corp." />
+  <上市公司 代码="SYUT" 名称="Synutra International" />
+  <上市公司 代码="SZMK" 名称="Sizmek Inc." />
+  <上市公司 代码="SZYM" 名称="Solazyme Inc" />
+  <上市公司 代码="TACT" 名称="Transact Technologies Inc" />
+  <上市公司 代码="TAG" 名称="Taggares Agriculture Corp" />
+  <上市公司 代码="TAIT" 名称="Taitron Components Inc" />
+  <上市公司 代码="TANH" 名称="Tantech Holdings Ltd" />
+  <上市公司 代码="TAPR" 名称="Barclays PLC" />
+  <上市公司 代码="TASR" 名称="Taser International" />
+  <上市公司 代码="TAST" 名称="Carrols Restaurant Group" />
+  <上市公司 代码="TATT" 名称="Tat Technologies Ltd" />
+  <上市公司 代码="TAX" 名称="Jth Holding Inc" />
+  <上市公司 代码="TAXI" 名称="Medallion Financial" />
+  <上市公司 代码="TAYC" 名称="Taylor Capital Group" />
+  <上市公司 代码="TAYCO" 名称="Taylor Cap Group Inc" />
+  <上市公司 代码="TAYCP" 名称="Taylor Capital Group" />
+  <上市公司 代码="TAYD" 名称="Taylor Devices" />
+  <上市公司 代码="TBBK" 名称="The Bancorp" />
+  <上市公司 代码="TBIO" 名称="Transgenomic Inc" />
+  <上市公司 代码="TBK" 名称="Triumph Bancorp Inc" />
+  <上市公司 代码="TBNK" 名称="Territorial Bancorp Inc" />
+  <上市公司 代码="TBPH" 名称="Theravance Biopharma, Inc." />
+  <上市公司 代码="TBRA" 名称="Tobira Therapeutics Inc" />
+  <上市公司 代码="TCBI" 名称="Texas Capital Bancshares" />
+  <上市公司 代码="TCBIL" 名称="Texas Capital Bancshares Inc" />
+  <上市公司 代码="TCBIP" 名称="Texas Capital" />
+  <上市公司 代码="TCBIW" 名称="Texas Capital Bancshares" />
+  <上市公司 代码="TCBK" 名称="Trico Bancshares" />
+  <上市公司 代码="TCCO" 名称="Technical Communications Corp" />
+  <上市公司 代码="TCFC" 名称="Tri-County Financial Corp" />
+  <上市公司 代码="TCPC" 名称="TCP Capital Corp" />
+  <上市公司 代码="TCRD" 名称="THL Credit" />
+  <上市公司 代码="TCX" 名称="Tucows Inc" />
+  <上市公司 代码="TDIV" 名称="First Trust Nasdaq Technol ETF" />
+  <上市公司 代码="TEAR" 名称="Tearlab Corp" />
+  <上市公司 代码="TECD" 名称="Tech Data Corp" />
+  <上市公司 代码="TECH" 名称="Techne Corp" />
+  <上市公司 代码="TECU" 名称="Tecumseh Products Company" />
+  <上市公司 代码="TECUA" 名称="Tecumseh Products Company" />
+  <上市公司 代码="TECUB" 名称="Tecumseh Products Company" />
+  <上市公司 代码="TEDU" 名称="Tarena International Inc." />
+  <上市公司 代码="TELK" 名称="Telik Inc" />
+  <上市公司 代码="TENX" 名称="Tenax Therapeutics, Inc." />
+  <上市公司 代码="TERP" 名称="TerraForm Power Inc" />
+  <上市公司 代码="TESO" 名称="Tesco Corp" />
+  <上市公司 代码="TESS" 名称="Tessco Technologies Inc" />
+  <上市公司 代码="TFM" 名称="The Fresh Market" />
+  <上市公司 代码="TFSC" 名称="1347 Capital Corp." />
+  <上市公司 代码="TFSCR" 名称="1347 Capital Corp." />
+  <上市公司 代码="TFSCU" 名称="1347 Capital Corp" />
+  <上市公司 代码="TFSCW" 名称="1347 Capital Corp." />
+  <上市公司 代码="TFSL" 名称="Tfs Financial Corp" />
+  <上市公司 代码="TGA" 名称="Transglobe Energy Corp" />
+  <上市公司 代码="TGE" 名称="Tgc Industries" />
+  <上市公司 代码="TGEN" 名称="Tecogen Inc." />
+  <上市公司 代码="TGLS" 名称="Tecnoglass Inc." />
+  <上市公司 代码="TGTX" 名称="Tg Therapeutics" />
+  <上市公司 代码="THFF" 名称="First Financial Corporation Indiana" />
+  <上市公司 代码="THLD" 名称="Threshold Pharmaceuticals" />
+  <上市公司 代码="THOR" 名称="Thoratec Corp" />
+  <上市公司 代码="THRD" 名称="TF Financial Corp" />
+  <上市公司 代码="THRM" 名称="Gentherm Inc" />
+  <上市公司 代码="THRX" 名称="Theravance" />
+  <上市公司 代码="THST" 名称="Truett-Hurst Inc" />
+  <上市公司 代码="THTI" 名称="Tht Heat Transfer Technology" />
+  <上市公司 代码="TIBX" 名称="Tibco Software" />
+  <上市公司 代码="TICC" 名称="Ticc Capital" />
+  <上市公司 代码="TIGR" 名称="Tigerlogic Corp" />
+  <上市公司 代码="TILE" 名称="Interface" />
+  <上市公司 代码="TINY" 名称="Harris &amp; Harris Group" />
+  <上市公司 代码="TIPT" 名称="Tiptree Financial Inc" />
+  <上市公司 代码="TISA" 名称="Top Image Systems" />
+  <上市公司 代码="TITN" 名称="Titan Machinery Inc" />
+  <上市公司 代码="TIVO" 名称="Tivo Inc" />
+  <上市公司 代码="TKAI" 名称="Tokai Pharmaceuticals Inc" />
+  <上市公司 代码="TKMR" 名称="Tekmira Pharmaceuticals Corp" />
+  <上市公司 代码="TLF" 名称="Tandy Leather Factory" />
+  <上市公司 代码="TLMR" 名称="Talmer Bancorp Inc." />
+  <上市公司 代码="TLOG" 名称="Tetralogic Pharmaceuticals Corp" />
+  <上市公司 代码="TMNG" 名称="The Management Network Group" />
+  <上市公司 代码="TMWE" 名称="TIM W.E. SGPS, S.A." />
+  <上市公司 代码="TNAV" 名称="Telenav Inc" />
+  <上市公司 代码="TNDM" 名称="Tandem Diabetes Care Inc" />
+  <上市公司 代码="TNGO" 名称="Tangoe Inc" />
+  <上市公司 代码="TNXP" 名称="Tonix Pharm Hldg Cor" />
+  <上市公司 代码="TOFC" 名称="Tower Financial Corp" />
+  <上市公司 代码="TOPS" 名称="Top Ships Inc" />
+  <上市公司 代码="TORM" 名称="Tor Minerals International Inc" />
+  <上市公司 代码="TOUR" 名称="Tuniu Corp" />
+  <上市公司 代码="TOWN" 名称="Towne Bank" />
+  <上市公司 代码="TQNT" 名称="Triquint Semiconductor" />
+  <上市公司 代码="TQQQ" 名称="Ultrapro QQQ Proshares" />
+  <上市公司 代码="TRAK" 名称="Dealertrack Holdings" />
+  <上市公司 代码="TRCB" 名称="Two River Bancorp" />
+  <上市公司 代码="TRCH" 名称="Torchlight Energy Resources Inc" />
+  <上市公司 代码="TREE" 名称="Tree.Com" />
+  <上市公司 代码="TRGT" 名称="Targacept" />
+  <上市公司 代码="TRIA" 名称="Tria Beauty, Inc." />
+  <上市公司 代码="TRIB" 名称="Trinity Biotech Plc" />
+  <上市公司 代码="TRIL" 名称="Trillium Therapeutics Inc." />
+  <上市公司 代码="TRIP" 名称="Tripadvisor Inc" />
+  <上市公司 代码="TRIV" 名称="Trivascular Technologies Inc." />
+  <上市公司 代码="TRMB" 名称="Trimble Navigation Limited" />
+  <上市公司 代码="TRMK" 名称="Trustmark Corp" />
+  <上市公司 代码="TRNS" 名称="Transcat Inc" />
+  <上市公司 代码="TRNX" 名称="Tornier N.V." />
+  <上市公司 代码="TROV" 名称="Trovagene Inc" />
+  <上市公司 代码="TROVU" 名称="Trovagene Inc" />
+  <上市公司 代码="TROVW" 名称="Trovagene Inc" />
+  <上市公司 代码="TROW" 名称="T. Rowe Price Group" />
+  <上市公司 代码="TRS" 名称="Trimas Corp" />
+  <上市公司 代码="TRST" 名称="Trustco Bank Corp NY" />
+  <上市公司 代码="TRTL" 名称="Terrapin 3 Acquisition Corporation" />
+  <上市公司 代码="TRTLU" 名称="Terrapin 3 Acquisition Corp" />
+  <上市公司 代码="TRTLW" 名称="Terrapin 3 Acquisition Corporation" />
+  <上市公司 代码="TRUE" 名称="Truecar Inc." />
+  <上市公司 代码="TRVN" 名称="Trevena Inc." />
+  <上市公司 代码="TSBK" 名称="Timberland Bancorp" />
+  <上市公司 代码="TSC" 名称="Tristate Capital Holdings Inc" />
+  <上市公司 代码="TSCO" 名称="Tractor Supply Company" />
+  <上市公司 代码="TSEM" 名称="Tower Semiconductor Ltd" />
+  <上市公司 代码="TSLA" 名称="Tesla Motors" />
+  <上市公司 代码="TSPT" 名称="Transcept Pharmaceuticals" />
+  <上市公司 代码="TSRA" 名称="Tessera Technologies" />
+  <上市公司 代码="TSRE" 名称="Trade Street Residential Inc" />
+  <上市公司 代码="TSRI" 名称="TSR Inc" />
+  <上市公司 代码="TSRO" 名称="Tesaro Inc" />
+  <上市公司 代码="TST" 名称="Thestreet.Com" />
+  <上市公司 代码="TSYS" 名称="Telecommunication Systems" />
+  <上市公司 代码="TTEC" 名称="Teletech Holdings" />
+  <上市公司 代码="TTEK" 名称="Tetra Tech" />
+  <上市公司 代码="TTGT" 名称="Techtarget" />
+  <上市公司 代码="TTHI" 名称="Transition Therapeutics" />
+  <上市公司 代码="TTMI" 名称="TTM Technologies" />
+  <上市公司 代码="TTOO" 名称="T2 Biosystems Inc" />
+  <上市公司 代码="TTPH" 名称="Tetraphase Pharmaceuticals Inc" />
+  <上市公司 代码="TTS" 名称="Tile Shop Holdings Inc" />
+  <上市公司 代码="TTWO" 名称="Take-Two Interactive Software" />
+  <上市公司 代码="TUBE" 名称="TubeMogul Inc" />
+  <上市公司 代码="TUES" 名称="Tuesday Morning" />
+  <上市公司 代码="TVAX" 名称="TVAX Biomedical, Inc." />
+  <上市公司 代码="TVIX" 名称="Daily 2X VIX ST ETN Velocityshares" />
+  <上市公司 代码="TVIZ" 名称="Daily 2X VIX Med-Term ETN Velocityshares" />
+  <上市公司 代码="TWER" 名称="Towerstream Corp" />
+  <上市公司 代码="TWGP" 名称="Tower Group" />
+  <上市公司 代码="TWIN" 名称="Twin Disc Inc" />
+  <上市公司 代码="TWMC" 名称="Trans World Entertainment" />
+  <上市公司 代码="TWOU" 名称="2U Inc." />
+  <上市公司 代码="TWTC" 名称="TW Telecom Inc" />
+  <上市公司 代码="TXN" 名称="Texas Instruments Inc" />
+  <上市公司 代码="TXRH" 名称="Texas Roadhouse" />
+  <上市公司 代码="TYPE" 名称="Monotype Imaging Holdings Inc" />
+  <上市公司 代码="TZOO" 名称="Travelzoo Inc" />
+  <上市公司 代码="UACL" 名称="Universal Truckload Services" />
+  <上市公司 代码="UAE" 名称="Ishares MSCI Uae Capped ETF" />
+  <上市公司 代码="UBCP" 名称="United Bancorp" />
+  <上市公司 代码="UBFO" 名称="United Security Bancshares" />
+  <上市公司 代码="UBIC" 名称="Ubic Inc" />
+  <上市公司 代码="UBNK" 名称="United Financial Bancorp Inc." />
+  <上市公司 代码="UBNT" 名称="Ubiquiti Networks Inc" />
+  <上市公司 代码="UBOH" 名称="United Bancshares" />
+  <上市公司 代码="UBSH" 名称="Union First Market Bankshares Corp" />
+  <上市公司 代码="UBSI" 名称="United Bankshares" />
+  <上市公司 代码="UCBA" 名称="United Community Bancorp" />
+  <上市公司 代码="UCBI" 名称="United Community Banks" />
+  <上市公司 代码="UCFC" 名称="United Community Financial" />
+  <上市公司 代码="UCTT" 名称="Ultra Clean Holdings" />
+  <上市公司 代码="UDF" 名称="United Development Funding IV" />
+  <上市公司 代码="UDFDV" 名称="United Development Funding IV" />
+  <上市公司 代码="UEIC" 名称="Universal Electronics Inc" />
+  <上市公司 代码="UEPS" 名称="Net 1 Ueps Technologies" />
+  <上市公司 代码="UFCS" 名称="United Fire Group Inc" />
+  <上市公司 代码="UFPI" 名称="Universal Forest Products" />
+  <上市公司 代码="UFPT" 名称="Ufp Technologies" />
+  <上市公司 代码="UG" 名称="United-Guardian" />
+  <上市公司 代码="UGLD" 名称="3X Long Gold ETN Velocityshares" />
+  <上市公司 代码="UHAL" 名称="Amerco" />
+  <上市公司 代码="UIHC" 名称="United Insurance Hld" />
+  <上市公司 代码="ULBI" 名称="Ultralife Corp" />
+  <上市公司 代码="ULTA" 名称="Ulta Salon Cosmetics &amp; Fragrance" />
+  <上市公司 代码="ULTI" 名称="The Ultimate Software Group" />
+  <上市公司 代码="ULTR" 名称="Ultrapetrol [Bahamas] Limited" />
+  <上市公司 代码="UMBF" 名称="UMB Financial Corp" />
+  <上市公司 代码="UMPQ" 名称="Umpqua Holdings Corp" />
+  <上市公司 代码="UNAM" 名称="Unico American Corp" />
+  <上市公司 代码="UNB" 名称="Union Bankshares" />
+  <上市公司 代码="UNFI" 名称="United Natural Foods" />
+  <上市公司 代码="UNIS" 名称="Unilife Corp" />
+  <上市公司 代码="UNTD" 名称="United Online" />
+  <上市公司 代码="UNTK" 名称="Unitek Global Services" />
+  <上市公司 代码="UNTY" 名称="Unity Bancorp" />
+  <上市公司 代码="UNXL" 名称="Uni-Pixel" />
+  <上市公司 代码="UPI" 名称="Uroplasty" />
+  <上市公司 代码="UPIP" 名称="Unwired Planet Inc" />
+  <上市公司 代码="UPLD" 名称="Upland Software Inc" />
+  <上市公司 代码="URBN" 名称="Urban Outfitters" />
+  <上市公司 代码="URRE" 名称="Uranium Resources" />
+  <上市公司 代码="USAK" 名称="USA Truck" />
+  <上市公司 代码="USAP" 名称="Universal Stainless &amp; Alloy Products" />
+  <上市公司 代码="USAT" 名称="USA Technologies" />
+  <上市公司 代码="USATP" 名称="USA Technologies" />
+  <上市公司 代码="USBI" 名称="United Security Bancshares" />
+  <上市公司 代码="USCR" 名称="US Concrete" />
+  <上市公司 代码="USEG" 名称="US Energy" />
+  <上市公司 代码="USLM" 名称="United States Lime &amp; Minerals" />
+  <上市公司 代码="USLV" 名称="3X Long Silver ETN Velocityshares" />
+  <上市公司 代码="USMD" 名称="Usmd Holdings Inc" />
+  <上市公司 代码="USMO" 名称="USA Mobility" />
+  <上市公司 代码="USTR" 名称="United Stationers Inc" />
+  <上市公司 代码="UTEK" 名称="Ultratech Inc" />
+  <上市公司 代码="UTHR" 名称="United Therapeutics Corp" />
+  <上市公司 代码="UTIW" 名称="Uti Worldwide Inc" />
+  <上市公司 代码="UTMD" 名称="Utah Medical Products" />
+  <上市公司 代码="UTSI" 名称="Ustarcom Holdings Corp" />
+  <上市公司 代码="UVSP" 名称="Univest Corporation of Pennsylvania" />
+  <上市公司 代码="VA" 名称="Virgin America Inc" />
+  <上市公司 代码="VALU" 名称="Value Line" />
+  <上市公司 代码="VALX" 名称="Validea Market Legends ETF" />
+  <上市公司 代码="VASC" 名称="Vascular Solutions" />
+  <上市公司 代码="VBAY" 名称="Virobay Inc" />
+  <上市公司 代码="VBFC" 名称="Village Bank and Trust Financial" />
+  <上市公司 代码="VBIV" 名称="VBI Vaccines Inc." />
+  <上市公司 代码="VBLT" 名称="Vascular Biogenics Ltd." />
+  <上市公司 代码="VBLX" 名称="Vascular Biogenics Ltd" />
+  <上市公司 代码="VBND" 名称="Vident Core U.S. Bond Strategy Fund" />
+  <上市公司 代码="VBTX" 名称="Veritex Holdings Inc" />
+  <上市公司 代码="VCEL" 名称="Vericel Corporation" />
+  <上市公司 代码="VCIT" 名称="Interm-Term Corp Bd Idx ETF Vanguard" />
+  <上市公司 代码="VCLT" 名称="Long-Term Corp Bond Idx ETF Vanguard" />
+  <上市公司 代码="VCSH" 名称="Short-Term Corp Bd Idx ETF Vanguard" />
+  <上市公司 代码="VCYT" 名称="Veracyte Inc" />
+  <上市公司 代码="VDSI" 名称="Vasco Data Security International" />
+  <上市公司 代码="VECO" 名称="Veeco Instruments Inc" />
+  <上市公司 代码="VGGL" 名称="Viggle Inc." />
+  <上市公司 代码="VGIT" 名称="Interm-Term Govt Bd Idx ETF Vanguard" />
+  <上市公司 代码="VGLT" 名称="Long-Term Govt Bond Idx ETF Vanguard" />
+  <上市公司 代码="VGSH" 名称="Short-Term Govt Bd Idx ETF Vanguard" />
+  <上市公司 代码="VIA" 名称="Viacom Inc Class A" />
+  <上市公司 代码="VIAB" 名称="Viacom Inc Cl B" />
+  <上市公司 代码="VIAS" 名称="Viasystems Group" />
+  <上市公司 代码="VICL" 名称="Vical Inc" />
+  <上市公司 代码="VICR" 名称="Vicor Corp" />
+  <上市公司 代码="VIDE" 名称="Video Display Corp" />
+  <上市公司 代码="VIDI" 名称="Vident International Equity Fun" />
+  <上市公司 代码="VIEW" 名称="Viewtran Group Inc." />
+  <上市公司 代码="VIIX" 名称="VIX Short-Term ETN Velocityshares" />
+  <上市公司 代码="VIIZ" 名称="VIX Med-Term ETN Velocityshares" />
+  <上市公司 代码="VIMC" 名称="Vimicro International Corp" />
+  <上市公司 代码="VIP" 名称="Open Joint Stock Company Vimpel-Communications" />
+  <上市公司 代码="VIRC" 名称="Virco Manufacturing Corp" />
+  <上市公司 代码="VISN" 名称="Visionchina Media" />
+  <上市公司 代码="VITC" 名称="Vitacost.Com Inc" />
+  <上市公司 代码="VIVO" 名称="Meridian Bioscience Inc" />
+  <上市公司 代码="VKTX" 名称="Viking Therapeutics Inc" />
+  <上市公司 代码="VLCCF" 名称="Knightsbridge Tankers Limited" />
+  <上市公司 代码="VLGEA" 名称="Village Super Market" />
+  <上市公司 代码="VLTC" 名称="Voltari Corp" />
+  <上市公司 代码="VLYWW" 名称="Valley National Bancorp" />
+  <上市公司 代码="VMBS" 名称="Mortgage Backed Securities ETF Vanguard" />
+  <上市公司 代码="VNDA" 名称="Vanda Pharmaceuticals Inc" />
+  <上市公司 代码="VNET" 名称="21Vianet Group Inc" />
+  <上市公司 代码="VNOM" 名称="Viper Energy Partners LP" />
+  <上市公司 代码="VNQI" 名称="Global Ex-US Real Estate ETF Vanguard" />
+  <上市公司 代码="VNR" 名称="Vanguard Natural Resources Llc" />
+  <上市公司 代码="VNRAP" 名称="Vanguard Natural Resources Llc Pfd. Series A" />
+  <上市公司 代码="VNRBP" 名称="Vanguard Natural Resources Llc" />
+  <上市公司 代码="VNRCP" 名称="Vanguard Natural Resources LLC" />
+  <上市公司 代码="VOCS" 名称="Vocus Inc" />
+  <上市公司 代码="VOD" 名称="Vodafone Group Plc" />
+  <上市公司 代码="VOLC" 名称="Volcano Corp" />
+  <上市公司 代码="VONE" 名称="Russell 1000 Index ETF Vanguard" />
+  <上市公司 代码="VONG" 名称="Russell 1000 Growth Index ETF Vanguard" />
+  <上市公司 代码="VONV" 名称="Russell 1000 Value Index ETF Vanguard" />
+  <上市公司 代码="VOXX" 名称="Audiovox Corp" />
+  <上市公司 代码="VPCO" 名称="Vapor Corp." />
+  <上市公司 代码="VPFG" 名称="Viewpoint Financial Group" />
+  <上市公司 代码="VPRT" 名称="Vistaprint N.V." />
+  <上市公司 代码="VRA" 名称="Vera Bradley" />
+  <上市公司 代码="VRML" 名称="Vermillion Inc" />
+  <上市公司 代码="VRNG" 名称="Vringo Inc" />
+  <上市公司 代码="VRNGW" 名称="Vringo Inc. Warrants 5 Years" />
+  <上市公司 代码="VRNS" 名称="Varonis Systems Inc" />
+  <上市公司 代码="VRNT" 名称="Verint Systems Inc" />
+  <上市公司 代码="VRSK" 名称="Verisk Analytics" />
+  <上市公司 代码="VRSN" 名称="Verisign Inc" />
+  <上市公司 代码="VRTA" 名称="Vestin Realty Mortgage I" />
+  <上市公司 代码="VRTB" 名称="Vestin Realty Mortgage II" />
+  <上市公司 代码="VRTS" 名称="Virtus Investment Partners" />
+  <上市公司 代码="VRTU" 名称="Virtusa Corp" />
+  <上市公司 代码="VRTX" 名称="Vertex Pharmaceuticals Inc" />
+  <上市公司 代码="VSAR" 名称="Versartis Inc." />
+  <上市公司 代码="VSAT" 名称="Viasat Inc" />
+  <上市公司 代码="VSCI" 名称="Vision-Sciences" />
+  <上市公司 代码="VSCP" 名称="Virtualscopics" />
+  <上市公司 代码="VSEC" 名称="VSE Corp" />
+  <上市公司 代码="VSTM" 名称="Verastem Inc" />
+  <上市公司 代码="VTAE" 名称="Vitae Pharmaceuticals Inc" />
+  <上市公司 代码="VTHR" 名称="Russell 3000 Index ETF Vanguard" />
+  <上市公司 代码="VTIP" 名称="Vanguard Short-Term Inflation-P" />
+  <上市公司 代码="VTL" 名称="Vital Therapies Inc" />
+  <上市公司 代码="VTNR" 名称="Vertex Energy Inc" />
+  <上市公司 代码="VTSS" 名称="Vitesse Semicond" />
+  <上市公司 代码="VTUS" 名称="Ventrus Biosciences" />
+  <上市公司 代码="VTWG" 名称="Russell 2000 Growth Index ETF Vanguard" />
+  <上市公司 代码="VTWO" 名称="Russell 2000 Index ETF Vanguard" />
+  <上市公司 代码="VTWV" 名称="Russell 2000 Value Index ETF Vanguard" />
+  <上市公司 代码="VUSE" 名称="Vident Core U.S. Equity ETF" />
+  <上市公司 代码="VVTV" 名称="Valuevision Media" />
+  <上市公司 代码="VVUS" 名称="Vivus Inc" />
+  <上市公司 代码="VWOB" 名称="Vanguard Emerging Markets Gover" />
+  <上市公司 代码="VWR" 名称="VWR Corp" />
+  <上市公司 代码="VXUS" 名称="Total Intl Stock Idx ETF Vanguard" />
+  <上市公司 代码="VYFC" 名称="Valley Financial Corp" />
+  <上市公司 代码="WABC" 名称="Westamerica Bancorporation" />
+  <上市公司 代码="WAFD" 名称="Washington Federal" />
+  <上市公司 代码="WAFDW" 名称="Washington Federal Inc. Wt" />
+  <上市公司 代码="WASH" 名称="Washington Trust Bancorp" />
+  <上市公司 代码="WATT" 名称="Energous Corporation" />
+  <上市公司 代码="WAVX" 名称="Wave Systems" />
+  <上市公司 代码="WAYN" 名称="Wayne Savings Bancshares Inc" />
+  <上市公司 代码="WB" 名称="Weibo Corp" />
+  <上市公司 代码="WBB" 名称="Westbury Bancorp Inc" />
+  <上市公司 代码="WBCO" 名称="Washington Banking Company" />
+  <上市公司 代码="WBKC" 名称="Wolverine Bancorp" />
+  <上市公司 代码="WBMD" 名称="Webmd Health Corp" />
+  <上市公司 代码="WCRT" 名称="West Coast Realty Trust, Inc." />
+  <上市公司 代码="WDC" 名称="Western Digital Corp" />
+  <上市公司 代码="WDFC" 名称="Wd-40 Company" />
+  <上市公司 代码="WEBK" 名称="Wellesley Bancorp Inc" />
+  <上市公司 代码="WEN" 名称="The Wendy's Company" />
+  <上市公司 代码="WERN" 名称="Werner Enterprises" />
+  <上市公司 代码="WETF" 名称="Wisdomtree Invstmnts" />
+  <上市公司 代码="WEYS" 名称="Weyco Group" />
+  <上市公司 代码="WFBI" 名称="Washingtonfirst Bk" />
+  <上市公司 代码="WFD" 名称="Westfield Financial" />
+  <上市公司 代码="WFM" 名称="Whole Foods Market" />
+  <上市公司 代码="WGBS" 名称="WaferGen Bio-systems, Inc." />
+  <上市公司 代码="WHF" 名称="Whitehorse Finance Inc" />
+  <上市公司 代码="WHFBL" 名称="Whitehorse Finance Inc" />
+  <上市公司 代码="WHLM" 名称="Wilhelmina International, Inc." />
+  <上市公司 代码="WHLR" 名称="Wheeler Real Estate Investment" />
+  <上市公司 代码="WHLRP" 名称="Wheeler Real Estate Investment" />
+  <上市公司 代码="WHLRW" 名称="Wheeler Real Estate Investment" />
+  <上市公司 代码="WHSM" 名称="WhiteSmoke Inc." />
+  <上市公司 代码="WIBC" 名称="Wilshire Bancorp" />
+  <上市公司 代码="WIFI" 名称="Boingo Wireless Inc" />
+  <上市公司 代码="WILC" 名称="G. Willi-Food International Ltd" />
+  <上市公司 代码="WILN" 名称="Wi-Lan Inc" />
+  <上市公司 代码="WIN" 名称="Windstream Holdings Inc" />
+  <上市公司 代码="WINA" 名称="Winmark Corp" />
+  <上市公司 代码="WIRE" 名称="Encore Wire Corp" />
+  <上市公司 代码="WIX" 名称="Wix.Com Ltd" />
+  <上市公司 代码="WLB" 名称="Westmoreland Coal Company" />
+  <上市公司 代码="WLBPZ" 名称="Westmoreland Coal Company" />
+  <上市公司 代码="WLDN" 名称="Willdan Group" />
+  <上市公司 代码="WLFC" 名称="Willis Lease Finance Corp" />
+  <上市公司 代码="WLRH" 名称="WL Ross Holding Corp." />
+  <上市公司 代码="WLRHU" 名称="WL Ross Holding Corp" />
+  <上市公司 代码="WLRHW" 名称="WL Ross Holding Corp." />
+  <上市公司 代码="WMAR" 名称="West Marine" />
+  <上市公司 代码="WMGI" 名称="Wright Medical Group" />
+  <上市公司 代码="WMGIZ" 名称="Wright Medical Group Inc" />
+  <上市公司 代码="WOOD" 名称="S&amp;P Global Timber &amp; Forestry Idx Ishares" />
+  <上市公司 代码="WOOF" 名称="Vca Antech" />
+  <上市公司 代码="WPCS" 名称="Wpcs International Inc" />
+  <上市公司 代码="WPPGY" 名称="Wpp Plc" />
+  <上市公司 代码="WPRT" 名称="Westport Innovations Inc" />
+  <上市公司 代码="WRES" 名称="Warren Resources" />
+  <上市公司 代码="WRLD" 名称="World Acceptance Corp" />
+  <上市公司 代码="WSBC" 名称="Wesbanco Inc" />
+  <上市公司 代码="WSBF" 名称="Waterstone Financial" />
+  <上市公司 代码="WSCI" 名称="Wsi Industries Inc" />
+  <上市公司 代码="WSFS" 名称="WSFS Financial Corp" />
+  <上市公司 代码="WSFSL" 名称="WSFS Financial Corp" />
+  <上市公司 代码="WSTC" 名称="West Corp" />
+  <上市公司 代码="WSTG" 名称="Wayside Technology Group" />
+  <上市公司 代码="WSTL" 名称="Westell Technologies" />
+  <上市公司 代码="WTBA" 名称="West Bancorporation" />
+  <上市公司 代码="WTFC" 名称="Wintrust Financial Corp" />
+  <上市公司 代码="WTFCW" 名称="Wintrust Financial Corp" />
+  <上市公司 代码="WTSL" 名称="Wet Seal Inc. Cl A" />
+  <上市公司 代码="WVFC" 名称="Wvs Financial" />
+  <上市公司 代码="WVVI" 名称="Willamette Valley Vineyards" />
+  <上市公司 代码="WWD" 名称="Woodward Inc" />
+  <上市公司 代码="WWWW" 名称="Web.Com Group Inc" />
+  <上市公司 代码="WYNN" 名称="Wynn Resorts Limited" />
+  <上市公司 代码="XBKS" 名称="Xenith Bankshares" />
+  <上市公司 代码="XCRA" 名称="Xcerra Corp." />
+  <上市公司 代码="XENE" 名称="Xenon Pharmaceuticals Inc" />
+  <上市公司 代码="XENT" 名称="Intersect ENT Inc" />
+  <上市公司 代码="XGTI" 名称="XG Technology Inc" />
+  <上市公司 代码="XGTIW" 名称="XG Technology Inc" />
+  <上市公司 代码="XIV" 名称="Daily Inverse VIX ST ETN Velocityshares" />
+  <上市公司 代码="XLNX" 名称="Xilinx Inc" />
+  <上市公司 代码="XLRN" 名称="Acceleron Pharma Inc" />
+  <上市公司 代码="XNCR" 名称="Xencor Inc." />
+  <上市公司 代码="XNET" 名称="Xunlei Ltd" />
+  <上市公司 代码="XNPT" 名称="Xenoport Inc" />
+  <上市公司 代码="XOMA" 名称="Xoma Ltd" />
+  <上市公司 代码="XONE" 名称="The Exone Company" />
+  <上市公司 代码="XOOM" 名称="Xoom Corp" />
+  <上市公司 代码="XPLR" 名称="Xplore Tech Corp De" />
+  <上市公司 代码="XRAY" 名称="Dentsply International Inc" />
+  <上市公司 代码="XRSC" 名称="Xrs Corp" />
+  <上市公司 代码="XTLB" 名称="Xtl Biopharma Ads" />
+  <上市公司 代码="XWES" 名称="World Energy Solutions Inc" />
+  <上市公司 代码="XXIA" 名称="IXIA" />
+  <上市公司 代码="YDIV" 名称="International Multi-Asset Diver" />
+  <上市公司 代码="YDKN" 名称="Yadkin Valley Financial Corp" />
+  <上市公司 代码="YDLE" 名称="Yodlee Inc" />
+  <上市公司 代码="YHOO" 名称="Yahoo! Inc" />
+  <上市公司 代码="YNDX" 名称="Yandex N.V." />
+  <上市公司 代码="YOD" 名称="You On Demand Holdings Inc" />
+  <上市公司 代码="YONG" 名称="Yongye International Inc" />
+  <上市公司 代码="YORW" 名称="The York Water Company" />
+  <上市公司 代码="YPRO" 名称="Advisorshares Trust" />
+  <上市公司 代码="YRCW" 名称="YRC Worldwide" />
+  <上市公司 代码="YY" 名称="YY Inc" />
+  <上市公司 代码="Z" 名称="Zillow Inc. Cl A" />
+  <上市公司 代码="ZAGG" 名称="Zagg Inc" />
+  <上市公司 代码="ZAZA" 名称="Zaza Energy Corp" />
+  <上市公司 代码="ZBRA" 名称="Zebra Technologies Corp" />
+  <上市公司 代码="ZEUS" 名称="Olympic Steel" />
+  <上市公司 代码="ZFGN" 名称="Zafgen Inc" />
+  <上市公司 代码="ZGNX" 名称="Zogenix Inc" />
+  <上市公司 代码="ZHNE" 名称="Zhone Technologies" />
+  <上市公司 代码="ZIGO" 名称="Zygo Corp" />
+  <上市公司 代码="ZINC" 名称="Horsehead Holding" />
+  <上市公司 代码="ZION" 名称="Zions Bancorporation" />
+  <上市公司 代码="ZIONW" 名称="Zions Bancorporation" />
+  <上市公司 代码="ZIONZ" 名称="Zions Bancorporation" />
+  <上市公司 代码="ZIOP" 名称="Ziopharm Oncology Inc" />
+  <上市公司 代码="ZIPR" 名称="Ziprealty Inc" />
+  <上市公司 代码="ZIV" 名称="Daily Inverse VIX Mt ETN Velocityshares" />
+  <上市公司 代码="ZIXI" 名称="Zix Corp" />
+  <上市公司 代码="ZLCS" 名称="Zalicus Inc" />
+  <上市公司 代码="ZLTQ" 名称="Zeltiq Aesthetics Inc" />
+  <上市公司 代码="ZN" 名称="Zion Oil &amp; Gas Inc" />
+  <上市公司 代码="ZNGA" 名称="Zynga Inc" />
+  <上市公司 代码="ZOOM" 名称="Zoom Technologies" />
+  <上市公司 代码="ZSAN" 名称="Zosano Pharma Corp" />
+  <上市公司 代码="ZSPH" 名称="ZS Pharma Inc" />
+  <上市公司 代码="ZU" 名称="Zulily Inc" />
+  <上市公司 代码="ZUMZ" 名称="Zumiez Inc" />
+</root>
